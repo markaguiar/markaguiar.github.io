@@ -1,1 +1,15 @@
+title: Mark Aguiar
+email: maguiar@princeton.edu
+description: 
+  Walker Professor of Economics and International Finance,  
+  Department of Economics,  
+  Princeton University
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://markaguiar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  markaguiar
+
+# Build settings
+markdown: kramdown
+exclude: [src/]
 theme: jekyll-theme-minimal
