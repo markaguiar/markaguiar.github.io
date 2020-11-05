@@ -17,4 +17,4 @@ exclude: [src/]
 
 plugins: jekyll-include-cache
 
-theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-minimal
