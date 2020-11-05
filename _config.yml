@@ -11,6 +11,10 @@ description:
 
 github: is\_project\_page:false
 # Build settings
+
 markdown: kramdown
 exclude: [src/]
+
+plugins: jekyll-include-cache
+
 theme: jekyll-theme-minimal
