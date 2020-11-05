@@ -9,6 +9,7 @@ description:
 #twitter_username: jekyllrb
 #github_username:  markaguiar
 
+github: is\_project\_page:false
 # Build settings
 markdown: kramdown
 exclude: [src/]
