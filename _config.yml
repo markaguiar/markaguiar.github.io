@@ -13,4 +13,4 @@ github: is\_project\_page:false
 # Build settings
 markdown: kramdown
 exclude: [src/]
-theme: jekyll-theme-minima
+#theme: jekyll-theme-minima
