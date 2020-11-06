@@ -33,7 +33,7 @@ permalink(s) = "/" * subpage_dir * "/" * s
 
 open(joinpath(root_dir, "index.md"), "w") do io
     write(io, header_pubs)
-    write(io, "# Working papers\n")
+    write(io, "## Working papers\n")
     for p in papers
         if !p["published"] && p["show_on_website"]
             write(io, "* " * link_str(p["title"],  permalink(p["permalink"]), post="\n\n"))
@@ -55,7 +55,7 @@ open(joinpath(root_dir, "index.md"), "w") do io
     end
 
     write(io, "\n\n")
-    write(io, "# Publications\n\n")
+    write(io, "## Publications\n\n")
 #    write(io, "[BibTeX file](http://markaguiar.github.io/files/ref.bib)\n\n")
 
     for p in papers

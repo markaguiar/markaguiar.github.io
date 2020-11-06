@@ -7,7 +7,7 @@ title: Research
 canonical_url: "https://markaguiar.github.io/"
 ---
 
-# Working papers
+## Working papers
 * [Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models](/citation/debt_dilution)
 
     Aguiar, Mark and Manuel Amador (2020): "Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models". Conditionally accepted at the *American Economic Review*.
@@ -18,7 +18,7 @@ canonical_url: "https://markaguiar.github.io/"
 
 
 
-# Publications
+## Publications
 
 * [On the Welfare Losses from External Sovereign Borrowing](/citation/welfare_losses)
 
