@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: single 
+author_profile: true 
 title: On the Welfare Losses from External Sovereign Borrowing 
 permalink: /citation/welfare_losses
 exclude: true
 ---
 
-[PDF](https://markaguiar.github.io/files/lossesfromborrowing.pdf) -- [Journal link](https://doi.org/10.1057/s41308-019-00103-2) -- [Code](https://github.com/sfourakis/SovDebtWelfare)
+[PDF](https://markaguiar.github.io/files/lossesfromborrowing.pdf) -- [Journal link](https://doi.org/10.1057/s41308-019-00103-2) -- [Slides](https://markaguiar.github.io/files/losses_slides.pdf) -- [Code](https://github.com/sfourakis/SovDebtWelfare)
 #### Citation
 
 Aguiar, Mark, Manuel Amador, and Stelios Fourakis (2020): "On the Welfare Losses from External Sovereign Borrowing," *IMF Economic Review*, 68(1): 163-194.

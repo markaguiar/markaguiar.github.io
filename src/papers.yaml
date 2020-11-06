@@ -1,0 +1,347 @@
+[
+    {
+        "title": "Commitment vs Flexibility",
+        "published": true, 
+        "show_on_website": true, 
+        "permalink":  "commitment-versus-flexibility", 
+        "year": "2006", 
+        "citation": "Amador, Manuel, Ivan Werning, and George‐Marios Angeletos (2006): \"Commitment vs. Flexibility,\" *Econometrica*, 74(2): 365-396.",
+        "abstract": "We study the optimal trade-off between commitment and flexibility in a consumption–savings model. Individuals expect to receive relevant information regarding tastes and thus they value the flexibility provided by larger choice sets. On the other hand,they also expect to suffer from temptation, with or without self-control, and thus they value the commitment afforded by smaller choice sets. The optimal commitment problem we study is to find the best subset of the individual’s budget set. This problem leads to a principal–agent formulation. We find that imposing a minimum level of savings is always a feature of the solution. Necessary and sufficient conditions are derived for minimum-savings policies to completely characterize the solution. We also discuss other applications, such as the design of fiscal constitutions, the problem faced by a paternalist, and externalities.",
+        "bibtex": "@article{amador2006commitment,
+            title={Commitment vs. Flexibility},
+            author={Amador, Manuel and Werning, Ivan and Angeletos, George-Marios},
+            journal={Econometrica},
+            volume={74},
+            number={2},
+            pages={365--396},
+            year={2006}}",
+        "PDF": "https://markaguiar.github.io/files/commit.pdf",
+        "journal": "https://doi.org/10.1111/j.1468-0262.2006.00666.x",
+        "other_links": [
+            {
+                "link_text": "Online Appendix",
+                "url": "https://markaguiar.github.io/files/commit_appendix.pdf"
+            }, 
+            {
+                "link_text": "NBER Working Paper", 
+                "extra_text": "(with arbitrary finite horizons)", 
+                "url": "https://markaguiar.github.io/files/commit_nber.pdf"
+            }
+        ]
+    },
+    {
+        "title": "Investment Cycles and Sovereign Debt Overhang",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "investment-cycles-and-sovereign-debt-overhang",
+        "year": "2009",
+        "citation": "Aguiar, Mark, Manuel Amador, and Gita Gopinath(2009): \"Investment Cycles and Sovereign Debt Overhang,\" *Review of Economic Studies*, 76(1): 1-31.",
+        "abstract": "We characterize optimal taxation of foreign capital and optimal sovereign debt policy in a small open economy where the government cannot commit to policy, seeks to insure a risk-averse domestic constituency, and is more impatient than the market. Optimal policy generates long-run cycles in both sovereign debt and foreign direct investment in an environment in which the first best capital stock is a constant. The expected tax on capital endogenously varies with the state of the economy, and investment is distorted by more in recessions than in booms, amplifying the effect of shocks. The government's lack of commitment induces a negative correlation between investment and the stock of government debt, a \"debt overhang\" effect. Debt relief is never Pareto improving and cannot affect the long-run level of investment. Furthermore, restricting the government to a balanced budget can eliminate the cyclical distortion of investment.",
+        "bibtex": "@article{aguiar2009investment,
+            title={Investment Cycles and Sovereign Debt Overhang},
+            author={Aguiar, Mark and Amador, Manuel and Gopinath, Gita},
+            journal={Review of economic studies},
+            volume={76},
+            number={1},
+            pages={1--31},
+            year={2009},
+            publisher={Oxford University Press}
+        }",
+        "PDF": "https://markaguiar.github.io/files/cycle_overhang.pdf",
+        "journal": "https://doi.org/10.1111/j.1467-937X.2008.00523.x"
+    },
+
+    {
+        "title": "Expropriation Dynamics", 
+        "published": true, 
+        "show_on_website": true, 
+        "permalink": "expropriation-dynamics",
+        "year": "2009", 
+        "citation": "Aguiar, Mark, Manuel Amador, and Gita Gopinath (2009): \"Expropriation Dynamics,\" *American Economic Review: Papers and Proceedings*, 99(2): 473-479.",
+        "bibtex": "@article{aguiar2009expropriation,
+            title={Expropriation Dynamics},
+            author={Aguiar, Mark and Amador, Manuel and Gopinath, Gita},
+            journal={The American Economic Review},
+            pages={473--479},
+            volume={99},
+            number={2},
+            year={2009},
+            publisher={JSTOR}
+        }",
+        "PDF": "https://markaguiar.github.io/files/exp_dynamics_published.pdf",
+        "journal": "https://www.aeaweb.org/articles?id=10.1257/aer.99.2.473",
+        "other_links": [ 
+            {
+                "link_text": "Code", 
+                "url": "https://github.com/manuelamador/Expropriation_AER_P-P_2009"
+            }
+        ]
+    },
+
+    {
+        "title": "Growth in the Shadow of Expropriation",
+        "published": true, 
+        "show_on_website": true, 
+        "permalink": "growth-in-the-shadow-of-expropriation",
+        "year": "2011",
+        "citation": "Aguiar, Mark, and Manuel Amador (2011): \"Growth in the Shadow of Expropriation,\" *The Quarterly Journal of Economics*, 126(2): 651-697.",
+        "abstract": "We propose a tractable variant of the open economy neoclassical growth model that emphasizes political economy and contracting frictions. The political economy frictions involve a preference for immediate spending, while the contracting friction is a lack of commitment regarding foreign debt and expropriation. We show that the political economy frictions slow an economy’s convergence to the steady state due to the endogenous evolution of capital taxation. The model rationalizes why openness has different implications for growth depending on the political environment, why institutions such as the treatment of capital income evolve over time, why governments in countries that grow rapidly accumulate net foreign assets rather than liabilities, and why foreign aid may not affect growth.",
+        "bibtex": "@article{aguiar2011growth,
+            title={Growth in the Shadow of Expropriation},
+            author={Aguiar, Mark and Amador, Manuel},
+            journal={The Quarterly Journal of Economics},
+            volume={126},
+            number={2},
+            pages={651--697},
+            year={2011},
+            publisher={Oxford University Press}
+        }",
+        "PDF": "https://markaguiar.github.io/files/shadow_with_online_appendix.pdf",
+        "journal":  "https://doi.org/10.1093/qje/qjr015",
+        "other_links": [
+            {
+                "link_text": "Online Appendix", 
+                "url" : "https://markaguiar.github.io/files/shadow_appendix.pdf"
+            },
+            {
+                "link_text": "Code", 
+                "url": "https://github.com/manuelamador/Shadow_QJE_2011"
+            }
+        ],
+    },
+
+
+
+
+
+    {
+        "title": "Sovereign Debt", 
+        "published": true,
+        "show_on_website": true, 
+        "permalink": "sovereign-debt", 
+        "year": "2014",
+        "citation": "Aguiar, Mark and Manuel Amador (2014): \"Sovereign Debt,\" *Handbook of International Economics*, Vol 4, North-Holland: 647-87.",
+        "bibtex": "@inbook{aguiar2014handbook,
+            title = {Sovereign Debt},
+            booktitle = {Handbook of International Economics Vol 4},
+            year = {2014},
+            publisher = {North-Holland},
+            pages = {647-87},
+            author = {Aguiar, Mark and Amador, Manuel}
+        }",
+        "PDF": "https://markaguiar.github.io/files/sovereign_debt_handbook.pdf",
+        "journal": "https://doi.org/10.1016/B978-0-444-54314-1.00011-2"
+    },
+
+    {
+        "title": "Sovereign Debt Booms in Monetary Unions",
+        "published": true, 
+        "show_on_website" : true, 
+        "permalink": "sovereign-debt-booms-in-monetary-unions", 
+        "year": "2014", 
+        "citation": "Aguiar, Mark, Manuel Amador, Emmanuel Farhi and Gita Gopinath (2014): \"Sovereign Debt Booms in Monetary Unions,\" *American Economic Review: Papers and Proceedings*, 104(5).",
+        "abstract": "We propose a continuous time model to investigate the impact of inflation credibility on sovereign debt dynamics. At every point in time, an impatient government decides fiscal surplus and inflation, without commitment. Inflation is costly, but reduces the real value of outstanding nominal debt. In equilibrium, debt dynamics is the result of two opposing forces: (1) impatience and (2) the desire to conquer low inflation. A large increase in inflation credibility can trigger a process of debt accumulation. This rationalizes the sovereign debt booms that are often experienced by low inflation credibility countries upon joining a currency union.", 
+        "bibtex": "@article{aguiar2014sovereign,
+            title={Sovereign Debt Booms in Monetary Unions},
+            author={Aguiar, Mark and Amador, Manuel and Farhi, Emmanuel and Gopinath, Gita},
+            journal={American Economic Review, Papers and Proceedings},
+            year={2014},
+            volume={104},
+            number={5}
+        }",
+        "PDF": "https://markaguiar.github.io/files/sovereignbooms.pdf", 
+        "journal": "https://www.aeaweb.org/articles?id=10.1257/aer.104.5.101", 
+        "other_links": [
+            {
+                "link_text": "Code",
+                "url": "https://github.com/manuelamador/Sovereign_Debt_Booms_AEA_P-P_2014/"
+            }
+        ]
+    }, 
+
+
+    {
+        "title": "Coordination and Crisis in Monetary Unions", 
+        "published": true,
+        "show_on_website": true, 
+        "permalink": "coordination-and-crisis-in-monetary-unions", 
+        "year": "2015", 
+        "citation": "Aguiar, Mark, Manuel Amador, Emmanuel Farhi and Gita Gopinath (2015): \"Coordination and Crisis in Monetary Unions,\" *The Quarterly Journal of Economics*, 130(4): 1727-1779.", 
+        "abstract": "We study fiscal and monetary policy in a monetary union with the potential for rollover crises in sovereign debt markets. Member-country fiscal authorities lack commitment to repay their debt and choose fiscal policy independently. A common monetary authority chooses inflation for the union, also without commitment. We first describe the existence of a fiscal externality that arises in the presence of limited commitment and leads countries to overborrow; this externality rationalizes the imposition of debt ceilings in a monetary union. We then investigate the impact of the composition of debt in a monetary union, that is the fraction of high-debt versus low-debt members, on the occurrence of self-fulfilling debt crises. We demonstrate that a high-debt country may be less vulnerable to crises and have higher welfare when it belongs to a union with an intermediate mix of high- and low-debt members, than one where all other members are low-debt. This contrasts with the conventional wisdom that all countries should prefer a union with low-debt members, as such a union can credibly deliver low inflation. These findings shed new light on the criteria for an optimal currency area in the presence of rollover crises.", 
+        "bibtex": "@article{Aguiar01112015,
+            author = {Aguiar, Mark and Amador, Manuel and Farhi, Emmanuel and Gopinath, Gita},
+            title = {Coordination and Crisis in Monetary Unions},
+            volume = {130},
+            number = {4},
+            pages = {1727-1779},
+            year = {2015},
+            doi = {10.1093/qje/qjv022},
+            URL = {https://qje.oxfordjournals.org/content/130/4/1727.abstract},
+            journal = {The Quarterly Journal of Economics}
+        }", 
+        "PDF" : "https://markaguiar.github.io/files/coordination.pdf", 
+        "journal": "https://doi.org/10.1093/qje/qjv022"
+    },
+     
+    {
+        "title": "Fiscal Policy in Debt Constrained Economies", 
+        "published" : true,
+        "show_on_website": true,
+        "permalink": "fiscal-policy-in-debt-constrained-economies",
+        "year": "2016", 
+        "citation": "Aguiar, Mark, and Manuel Amador (2016): \"Fiscal Policy in Debt Constrained Economies,\" *Journal of Economic Theory*, 161: 37-75.",
+        "abstract": "We study optimal fiscal policy in a small open economy (SOE) with sovereign and private default risk and limited commitment to tax plans. The SOE's government uses linear taxation to fund exogenous expenditures and uses public debt to inter-temporally allocate tax distortions. We characterize a class of environments in which the tax on labor goes to zero in the long run, while the tax on capital income may be non-zero, reversing the standard prediction of the Ramsey tax literature. The zero labor tax is an optimal long run outcome if the economy is subject to sovereign debt constraints and the domestic households are impatient relative to the international interest rate. The front loading of tax distortions allows the economy to build a large (aggregate) debt position in the presence of limited commitment. We show that a similar result holds in a closed economy with imperfect inter-generational altruism, providing a link with the closed-economy literature that has explored disagreement between the government and its citizens regarding inter-temporal tradeoffs.",
+        "bibtex": "@article{Aguiar201637,
+            Author = {Aguiar, Mark and Amador, Manuel},
+            Doi = {https://dx.doi.org/10.1016/j.jet.2015.11.002},
+            Journal = {Journal of Economic Theory},
+            Pages = {37-75},
+            Title = {Fiscal policy in debt constrained economies},
+            Url = {https://www.sciencedirect.com/science/article/pii/S0022053115001891},
+            Volume = {161},
+            Year = {2016}
+        }", 
+        "PDF": "https://markaguiar.github.io/files/debt_constrained.pdf", 
+        "journal": "https://doi.org/10.1016/j.jet.2015.11.002", 
+        "other_links": [
+            {    
+                "link_text": "Code",
+                "url": "https://github.com/manuelamador/Fiscal_Policy_In_Debt_Constrained_Economies_JET_2016"
+            }
+        ]
+    }, 
+    
+
+
+    {
+        "title": "Take the Short Route, Equilibrium Default and Debt Maturity", 
+        "published": true,
+        "show_on_website": true, 
+        "permalink":  "take-the-short-route", 
+        "year": "2019", 
+        "citation": "Aguiar, Mark, Manuel Amador, Hugo Hopenhayn and Ivan Werning (2019): \"Take the Short Route: Equilibrium Default and Debt Maturity,\" *Econometrica*, 87(2): 423-462.", 
+        "abstract": "We study the interactions between sovereign debt default and maturity choice in a setting with limited commitment for repayment as well as future debt issuances. Our main finding is that under a wide range of conditions the sovereign should, as long as default is not preferable, remain passive in long-term bond markets, making payments and retiring long-term bonds as they mature but never actively issuing or buying back such bonds. The only active debt-management margin is the short-term bond market. We show that any attempt to manipulate the existing maturity profile of outstanding long-term bonds generates losses, as bond prices move against the sovereign. Our results hold regardless of the shape of the yield curve. The yield curve captures the average costs of financing at different maturities but is misleading regarding the marginal costs.", 
+        "bibtex": "@article{AAHW2019,
+            Author = {Aguiar, Mark and Amador, Manuel and Hopenhayn, Hugo and Werning, Ivan},
+            Journal = {Econometrica},
+            Title = {Take the Short Route: Equilibrium Default and Debt Maturity},
+            Year = {2019},
+            Volume = {87},
+            Number = {2}, 
+            Pages = {423-462}
+        }", 
+        "PDF": "https://markaguiar.github.io/files/maturities.pdf", 
+        "journal": "https://doi.org/10.3982/ECTA14806", 
+        "other_links": [
+            {
+                "link_text": "NBER Working Paper",
+                "extra_text": "(previous version)", 
+                "url": "https://markaguiar.github.io/files/maturities_older.pdf"
+            }, 
+            {
+                "link_text": "Slides",
+                "url":  "https://markaguiar.github.io/files/maturities_slides.pdf"
+            }
+        ]
+    },
+
+    {
+        "title": "A Contraction for Sovereign Debt Models",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "contraction", 
+        "year": "2019", 
+        "citation": "Aguiar, Mark, and Manuel Amador (2019): \"A Contraction for Sovereign Debt Models,\" *Journal of Economic Theory*, 183: 842-875.",
+        "abstract": "Using a dual representation, we show that the Markov equilibria of the one-period-bond Eaton and Gersovitz (1981) incomplete markets sovereign debt model can be represented as a fixed point of a contraction mapping, providing a new proof of the uniqueness and existence of equilibrium in the benchmark sovereign debt model. The arguments can be extended to incorporate re-entry probabilities after default when the shock process is iid. Our representation of the equilibrium bears many similarities to an optimal contracting problem. We use this to argue that commitment to budget rules has no value to a benevolent government. We show how the introduction of long-term bonds breaks the link to the constrained planning problem.", 
+        "bibtex": "@article{AGAM2019,
+            title = {A Contraction for Sovereign Debt Models},
+            journal = {Journal of Economic Theory},
+            volume = {183},
+            pages = {842-875},
+            year = {2019},
+            issn = {0022-0531},
+            doi = {https://doi.org/10.1016/j.jet.2019.08.005},
+            author = {Aguiar, Mark and Amador, Manuel}
+        }", 
+        "PDF": "https://markaguiar.github.io/files/contraction.pdf", 
+        "journal": "https://www.sciencedirect.com/science/article/pii/S0022053119300857"
+    }, 
+
+    {
+        "title": "On the Welfare Losses from External Sovereign Borrowing", 
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "welfare_losses",
+        "citation": "Aguiar, Mark, Manuel Amador, and Stelios Fourakis (2020): \"On the Welfare Losses from External Sovereign Borrowing,\" *IMF Economic Review*, 68(1): 163-194.", 
+        "abstract": "This paper studies the losses to the citizenry when the private agents discount the future at different rates from their government. In the presence of such a disagreement, the private sector may prefer an environment in which the government is in financial autarky. Using a sequence of sovereign debt models, the paper quantifies the potential welfare losses that citizens suffer from the government's access to international bond markets. While the environment is not necessarily comprehensive, the analysis provides a counterweight to proposals that are designed to ease market access for sovereign borrowers.", 
+        "bibtex": "@article{AGAMFO2020,
+            title = {On the Welfare Losses from External Sovereign Borrowing},
+            journal = {IMF Economic Review},
+            year = {2020},
+            volume = {68},
+            issue = {1},
+            pages = {163-194},
+            doi = {https://doi.org/10.1057/s41308-019-00103-2},
+            author = {Aguiar, Mark and Amador, Manuel and Fourakis, Stelios}
+        }", 
+        "PDF" : "https://markaguiar.github.io/files/lossesfromborrowing.pdf", 
+        "journal": "https://doi.org/10.1057/s41308-019-00103-2", 
+        "other_links": [
+            {
+                "link_text": "Slides", 
+                "url": "https://markaguiar.github.io/files/losses_slides.pdf"
+            }, 
+            {
+                "link_text": "Code", 
+                "url": "https://github.com/sfourakis/SovDebtWelfare"
+            }
+        ]
+    }, 
+
+
+
+    #
+    # WORKING PAPERS 
+    #
+    
+
+    {
+        "title": "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises",
+        "published": false, 
+        "show_on_website": true,
+        "permalink": "crisis_commitment",
+        "citation": "Aguiar, Mark, Manuel Amador, Gita Gopinath and Emmanuel Farhi (2013): \"Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises\".", 
+        "abstract": "", 
+        "PDF": "https://markaguiar.github.io/files/crises.pdf"
+    },
+
+
+
+    {
+        "title" : "Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models", 
+        "published": false,
+        "show_on_website": true, 
+        "permalink": "debt_dilution",
+        "citation": "Aguiar, Mark and Manuel Amador (2020): \"Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models\". Conditionally accepted at the *American Economic Review*.", 
+        "abstract": "", 
+        "PDF": "https://markaguiar.github.io/files/self_fulfilling_dilution.pdf", 
+        "other_links": [
+            { 
+                "link_text" : "Online appendix" ,
+                "url" : "https://markaguiar.github.io/files/self_fulfilling_dilution_online_appendix.pdf"
+            },
+            { 
+                "link_text" : "Code for Numerical Simulations", 
+                "url" : "https://github.com/manuelamador/Self_Fulfilling_Debt_Dilution_AER_2020"
+            }, 
+            {
+                "link_text": "Code for Figures",
+                "url" : "https://github.com/manuelamador/Self_Fulfilling_Debt_Dilution_Analytical_Figures"
+            },
+            {
+                "link_text": "Additional code", 
+                "url" : "https://github.com/manuelamador/dilution_with_two_shocks"
+            } 
+        ]
+    }
+]
