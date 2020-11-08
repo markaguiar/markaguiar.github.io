@@ -13,7 +13,9 @@ Aguiar, Mark, Manuel Amador, Emmanuel Farhi and Gita Gopinath (2014): "Sovereign
 
 #### Abstract
 
-We propose a continuous time model to investigate the impact of inflation credibility on sovereign debt dynamics. At every point in time, an impatient government decides fiscal surplus and inflation, without commitment. Inflation is costly, but reduces the real value of outstanding nominal debt. In equilibrium, debt dynamics is the result of two opposing forces: (1) impatience and (2) the desire to conquer low inflation. A large increase in inflation credibility can trigger a process of debt accumulation. This rationalizes the sovereign debt booms that are often experienced by low inflation credibility countries upon joining a currency union.BibTeX Cite
+We propose a continuous time model to investigate the impact of inflation credibility on sovereign debt dynamics. At every point in time, an impatient government decides fiscal surplus and inflation, without commitment. Inflation is costly, but reduces the real value of outstanding nominal debt. In equilibrium, debt dynamics is the result of two opposing forces: (1) impatience and (2) the desire to conquer low inflation. A large increase in inflation credibility can trigger a process of debt accumulation. This rationalizes the sovereign debt booms that are often experienced by low inflation credibility countries upon joining a currency union.
+
+BibTeX Cite:
 
 	@article{aguiar2014sovereign,
 		title={Sovereign Debt Booms in Monetary Unions},

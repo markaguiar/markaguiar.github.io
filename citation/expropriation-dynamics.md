@@ -11,7 +11,9 @@ exclude: true
 
 Aguiar, Mark, Manuel Amador, and Gita Gopinath (2009): "Expropriation Dynamics," *American Economic Review: Papers and Proceedings*, 99(2): 473-479.
 
-BibTeX Cite
+
+
+BibTeX Cite:
 
 	@article{aguiar2009expropriation,
 		title={Expropriation Dynamics},

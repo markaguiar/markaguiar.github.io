@@ -1,34 +1,252 @@
 [
     {
-        "title": "Commitment vs Flexibility",
+        "title": "Consumption versus Expenditure",
         "published": true, 
-        "show_on_website": true, 
-        "permalink":  "commitment-versus-flexibility", 
-        "year": "2006", 
-        "citation": "Amador, Manuel, Ivan Werning, and George‐Marios Angeletos (2006): \"Commitment vs. Flexibility,\" *Econometrica*, 74(2): 365-396.",
-        "abstract": "We study the optimal trade-off between commitment and flexibility in a consumption–savings model. Individuals expect to receive relevant information regarding tastes and thus they value the flexibility provided by larger choice sets. On the other hand,they also expect to suffer from temptation, with or without self-control, and thus they value the commitment afforded by smaller choice sets. The optimal commitment problem we study is to find the best subset of the individual’s budget set. This problem leads to a principal–agent formulation. We find that imposing a minimum level of savings is always a feature of the solution. Necessary and sufficient conditions are derived for minimum-savings policies to completely characterize the solution. We also discuss other applications, such as the design of fiscal constitutions, the problem faced by a paternalist, and externalities.",
-        "bibtex": "@article{amador2006commitment,
-            title={Commitment vs. Flexibility},
-            author={Amador, Manuel and Werning, Ivan and Angeletos, George-Marios},
-            journal={Econometrica},
-            volume={74},
-            number={2},
-            pages={365--396},
-            year={2006}}",
-        "PDF": "https://markaguiar.github.io/files/commit.pdf",
-        "journal": "https://doi.org/10.1111/j.1468-0262.2006.00666.x",
-        "other_links": [
-            {
-                "link_text": "Online Appendix",
-                "url": "https://markaguiar.github.io/files/commit_appendix.pdf"
-            }, 
-            {
-                "link_text": "NBER Working Paper", 
-                "extra_text": "(with arbitrary finite horizons)", 
-                "url": "https://markaguiar.github.io/files/commit_nber.pdf"
-            }
+        "show_on_website": true,
+        "permalink": "CvE",
+        "year": "2005",
+        "citation": "Aguiar, Mark, and Eirk Hurst(2005): \"Consumption versus Expenditure,\" *Journal of Political Economy*, 113(5): 919-948.",
+        "abstract": "Previous authors have documented a dramatic decline in food expenditures at the time of retirement. We show that this is matched by an equally dramatic rise in time spent shopping for and preparing meals. Using a novel data set that collects detailed food diaries for a large cross-section of U.S. households, we show that neither the quality nor the quantity of food intake deteriorates with retirement status. We also show that unemployed households experience a decline in food expenditure and food consumption commensurate with the impact of job displacement on permanent income. These results highlight how direct measures of consumption distinguish between anticipated and unanticipated shocks to income while measures of expenditures obscure the distinction.",
+        "bibtex": "@article {AguiarHurst2005,
+        title = {Consumption versus Expenditure},
+        journal = {Journal of Political Economy},
+        volume = {113},
+        number = {5},
+        year = {2005},
+        pages = {919-948},
+        abstract = {Previous authors have documented a dramatic decline in food expenditures at the time of retirement.  We show that this is matched by an equally dramatic rise in time spent shopping for and preparing meals.  Using a novel data set that collects detailed food diaries for a large cross-section of U.S. households, we show that neither the quality nor the quantity of food intake deteriorates with retirement status.  We also show that unemployed households experience a decline in food expenditure and food consumption commensurate with the impact of job displacement on permanent income.  These results highlight how direct measures of consumption distinguish between anticipated and unanticipated shocks to income while measures of expenditures obscure the distinction.},
+        author = {Aguiar, Mark and Hurst, Erik}
+        }",
+        "PDF": "https://markaguiar.github.io/files/CvE.pdf",
+        "journal": "https://doi.org/10.1086/491590"
+    },
+    {
+        "title": "Investment, Devaluation, and Foreign Currency Exposure&#58; The Case of Mexico",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "mexico",
+        "year": "2005",
+        "citation": "Aguiar, Mark, \"Investment, Devaluation, and Foreign Currency Exposure: The Case of Mexico,\" *Journal of Development Economics*, 78(1): 95-113.",
+        "abstract": "This paper studies firm-level investment in the wake of the Mexican peso crisis of 1994. While exporters outperform nonexporters in terms of profits and sales after the devaluation, their investment is constrained by weak balance sheets. Specifically, we find that firms with heavy exposure to short-term foreign currency debt before the devaluation experienced relatively low levels of post-devaluation investment. The data also imply that increased sales uncertainty after the peg’s collapse deterred investment, particularly in the tradable sector. The results confirm the recent theoretical literature’s focus on weak balance sheets as driving the recessionary impact of devaluations in emerging markets.",
+        "bibtex": "@article {Aguiar2005,
+        title = {Investment, Devaluation, and Foreign Currency Exposure:  The Case of Mexico},
+        journal = {Journal of Development Economics},
+        volume = {78},
+        number = {1},
+        year = {2005},
+        pages = {95-113},
+        abstract = {This paper studies firm-level investment in the wake of the Mexican peso crisis of 1994. While exporters outperform nonexporters in terms of profits and sales after the devaluation, their investment is constrained by weak balance sheets. Specifically, we find that firms with heavy exposure to short-term foreign currency debt before the devaluation experienced relatively low levels of post-devaluation investment. The data also imply that increased sales uncertainty after the peg{\textquoteright}s collapse deterred investment, particularly in the tradable sector. The results confirm the recent theoretical literature{\textquoteright}s focus on weak balance sheets as driving the recessionary impact of devaluations in emerging markets.},
+        author = {Aguiar, Mark}
+        }",
+        "PDF": "https://markaguiar.github.io/files/mexico.pdf",
+        "journal": "https://doi.org/10.1016/j.jdeveco.2004.06.012"
+    },
+
+    {
+        "title": "Fire-Sale FDI and Liquidity Crises",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "fire-sale",
+        "year": "2005",
+        "citation": "Aguiar, Mark, and Gita Gopinath, \"Fire-Sale FDI and Liquidity Crises,\" *Review of Economics and Statistics*, 87(3): 439-452.",
+        "abstract": "In placing capital market imperfections at the center of emerging market crises, the theoretical literature has associated a liquidity crisis with low foreign investment and the exit of investors from the crisis economy. However, a liquidity crisis is equally consistent with an inflow of foreign capital in the form of mergers and acquisitions (M&amp;A). To support this hypothesis, we use a firm-level data set to show that foreign acquisitions increased by 91 percent in East Asia between 1996 and 1998, while intranational merger activity declined. Firm liquidity plays a significant and sizable role in explaining both the increase in foreign acquisitions and the decline in the price of acquisitions during the crisis. This contrasts with the role of liquidity in noncrisis years and in noncrisis economies in the region. This effect is also most prominent in the tradable sector. Quantitatively, the observed decline in liquidity can explain 25 percent of the increase in foreign acquisition activity in the tradable sectors. The nature of M&amp;A activity supports liquidity-based explanations of the East Asian crisis and provides an explanation for the puzzling stability of FDI inflows during the crises.",
+        "bibtex": "@article {AguiarGopinath2005,
+        title = {Fire-Sale FDI and Liquidity Crises},
+        journal = {Review of Economics and Statistics},
+        volume = {87},
+        number = {3},
+        year = {2005},
+        pages = {439-452},
+        abstract = {In placing capital market imperfections at the center of emerging market crises, the theoretical literature has associated a liquidity crisis with low foreign investment and the exit of investors from the crisis economy. However, a liquidity crisis is equally consistent with an inflow of foreign capital in the form of mergers and acquisitions (M&amp;A). To support this hypothesis, we use a firm-level data set to show that foreign acquisitions increased by 91 percent in East Asia between 1996 and 1998, while intranational merger activity declined. Firm liquidity plays a significant and sizable role in explaining both the increase in foreign acquisitions and the decline in the price of acquisitions during the crisis. This contrasts with the role of liquidity in noncrisis years and in noncrisis economies in the region. This effect is also most prominent in the tradable sector. Quantitatively, the observed decline in liquidity can explain 25 percent of the increase in foreign acquisition activity in the tradable sectors. The nature of M&amp;A activity supports liquidity-based explanations of the East Asian crisis and provides an explanation for the puzzling stability of FDI inflows during the crises. },
+        author = {Aguiar, Mark and Gopinath, Gita}
+        }",
+        "PDF": "https://markaguiar.github.io/files/fdi_restat.pdf",
+        "journal": "https://doi.org/10.1162/0034653054638319"
+    },
+    {
+        "title": "Defaultable Debt, Interest Rates, and the Current Account",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "default",
+        "year": "2006",
+        "citation": "Aguiar, Mark and Gita Gopinath, \"Defaultable Debt, Interest Rates, and the Current Account,\" *Journal of International Economics*,  69(1): 64-83.",
+        "abstract": "World capital markets have experienced large scale sovereign defaults on a number of occasions. In this paper we develop a quantitative model of debt and default in a small open economy. We use this model to match four empirical regularities regarding emerging markets: defaults occur in equilibrium, interest rates are countercyclical, net exports are countercyclical, and interest rates and the current account are positively correlated. We highlight the role of the stochastic trend in emerging markets, in an otherwise standard model with endogenous default, to match these facts.",
+        "bibtex": "@article {AguiarGopinath2006,
+        title = {Defaultable Debt, Interest Rates, and the Current Account},
+        journal = {Journal of International Economics},
+        volume = {69},
+        number = {1},
+        year = {2006},
+        pages = {64-83},
+        abstract = {World capital markets have experienced large scale sovereign defaults on a number of occasions. In this paper we develop a quantitative model of debt and default in a small open economy. We use this model to match four empirical regularities regarding emerging markets: defaults occur in equilibrium, interest rates are countercyclical, net exports are countercyclical, and interest rates and the current account are positively correlated. We highlight the role of the stochastic trend in emerging markets, in an otherwise standard model with endogenous default, to match these facts},
+        author = {Aguiar, Mark and Gopinath, Gita}
+        }",
+        "PDF": "https://markaguiar.github.io/files/dd_jie.pdf",
+        "journal": "https://doi.org/10.1016/j.jinteco.2005.05.005",        
+        "other_links": [ {
+            "link_text": "Code", 
+            "url": "https://github.com/markaguiar/Defaultable-Debt"
+        }
         ]
     },
+    {
+        "title": "Determining Underlying Macroeconomic Fundamentals during Emerging Market Crises&#58; Are conditions as bad as they seem?",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "fundamentals",
+        "year": "2006",
+        "citation": "Aguiar, Mark and Fernando Broner. \"Determining Underlying Macroeconomic Fundamentals during Emerging Market Crises: Are conditions as bad as they seem?\" *Journal of Monetary Economics*, 53(4): 699-724.",
+        "abstract": "Emerging market crises are characterized by large swings in both macroeconomic fundamentals and asset prices. The economic significance of observed movements in macroeconomic variables is obscured by the brief and extreme nature of crises. In this paper we propose to study the macroeconomic consequences of crises by studying the behavior of effective'' fundamentals, constructed by studying the relative movements of stock prices during crises. We find that these effective fundamentals provide a different picture than that implied by observed fundamentals. First, asset prices often reflect expectations of improvement in fundamentals after the initial devaluations; specifically, effective depreciations are positive but not as large as the observed ones. Second, crises vary in their effect on credit market conditions, with investors expecting tightening of credit in some cases (Mexico 1994, Philippines 1997), but loosening of credit in others (Sweden 1992, Korea 1997, Brazil 1999).",
+        "bibtex": "@article {AguiarBroner2006,
+        title = {Determining Underlying Macroeconomic Fundamentals during Emerging Market Crises:  Are conditions as bad as they seem?},
+        journal = {Journal of Monetary Economics},
+        volume = {53},
+        number = {4},
+        year = {2006},
+        pages = {699-724},
+        abstract = { Emerging market crises are characterized by large swings in both macroeconomic fundamentals and asset prices. The economic significance of observed movements in macroeconomic variables is obscured by the brief and extreme nature of crises. In this paper we propose to study the macroeconomic consequences of crises by studying the behavior of {\textquoteleft}{\textquoteleft}effective{\textquoteright}{\textquoteright} fundamentals, constructed by studying the relative movements of stock prices during crises. We find that these effective fundamentals provide a different picture than that implied by observed fundamentals. First, asset prices often reflect expectations of improvement in fundamentals after the initial devaluations; specifically, effective depreciations are positive but not as large as the observed ones. Second, crises vary in their effect on credit market conditions, with investors expecting tightening of credit in some cases (Mexico 1994, Philippines 1997), but loosening of credit in others (Sweden 1992, Korea 1997, Brazil 1999).},
+        author = {Aguiar, Mark and Broner, Fernando}
+        }",
+        "PDF": "https://markaguiar.github.io/files/fund_jme.pdf",
+        "journal": "https://doi.org/10.1016/j.jmoneco.2005.02.005"        
+    },
+    {
+        "title": "Emerging Market Fluctuations&#58; The Role of Interest Rate and Productivity Shocks",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "rateshocks",
+        "year": "2006",
+        "citation": "Aguiar, Mark and Gita Gopinath. \"Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks,\" Tenth Annual Conference on the Central Bank of Chile: Current Account and External Financing 2006",
+        "abstract": "In this paper we use a quantitative model to explore the potential frictions that distinguish emerging market business cycles from developed small open economies. Following Aguiar and Gopinath (2007) we allow total factor productivity (TFP) to have a stationary and an integrated component. We also allow for shocks to the consumption and investment Euler Equations that operate through the interest rate. These {\textquoteleft}{\textquoteleft}wedges{\textquoteright}{\textquoteright} represent changes in the intertemporal marginal rate of transformation, which may be due to changes in observed interest rates, unobserved borrowing constraints, or other financial frictions. We estimate the model using data from Mexico and Canada. We show that interest rate shocks orthogonal to domestic TFP fail to explain the behavior of emerging markets. We then allow for interest rates to respond to/co-vary with productivity shocks. We find that emerging market business cycles appear to be driven by large shocks to trend income combined with relatively small transitory shocks that co-vary with the interest rate.",
+        "bibtex": "@proceedings {AguiarGopinath2006b,
+        title = {Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks},
+        journal = {Tenth Annual Conference on the Central Bank of Chile: Current Account and External Financing},
+        year = {2006},
+        abstract = {In this paper we use a quantitative model to explore the potential frictions that distinguish emerging market business cycles from developed small open economies. Following Aguiar and Gopinath (2007) we allow total factor productivity (TFP) to have a stationary and an integrated component. We also allow for shocks to the consumption and investment Euler Equations that operate through the interest rate. These {\textquoteleft}{\textquoteleft}wedges{\textquoteright}{\textquoteright} represent changes in the intertemporal marginal rate of transformation, which may be due to changes in observed interest rates, unobserved borrowing constraints, or other financial frictions. We estimate the model using data from Mexico and Canada. We show that interest rate shocks orthogonal to domestic TFP fail to explain the behavior of emerging markets. We then allow for interest rates to respond to/co-vary with productivity shocks. We find that emerging market business cycles appear to be driven by large shocks to trend income combined with relatively small transitory shocks that co-vary with the interest rate.},
+        author = {Aguiar, Mark and Gopinath, Gita}
+        }",
+        "PDF": "https://markaguiar.github.io/files/cit_chile.pdf",        
+        "journal": "https://markaguiar.github.io/files/cit_chile.pdf"        
+    },
+
+    {
+        "title": "Life-Cycle Prices and Production",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "lifecycleprices",
+        "year": "2007",
+        "citation": "Aguiar, Mark and Erik Hurst, \"Life-Cycle Prices and Production,\" *American Economic Review*, 97(5): 1533-1559.",
+        "abstract": "We use scanner data and time diaries to document how households substitute time for money through shopping and home production. We document substantial heterogeneity in prices paid for identical goods for the same area and time, with older households shopping the most and paying the lowest prices.  Doubling shopping frequency lowers a good{\textquoteright}s price by 7 to 10 percent. We estimate the shopper{\textquoteright}s  price of time and use this series to estimate an elasticity of substitution between time and goods in home production of roughly 1.8. The observed life-cycle time allocation implies a consumption series that differs markedly from expenditures. ",
+        "bibtex": "@article {AguiarHurst2007a, 
+            title = {Life-Cycle Prices and Production},
+            journal = {American Economic Review},
+            volume = {97},
+            number = {5},
+            year = {2007},
+            pages = {1533-1559},
+            abstract = {We use scanner data and time diaries to document how households substitute time for money through shopping and home production. We document substantial heterogeneity in prices paid for identical goods for the same area and time, with older households shopping the most and paying the lowest prices.  Doubling shopping frequency lowers a good{\textquoteright}s price by 7 to 10 percent. We estimate the shopper{\textquoteright}s  price of time and use this series to estimate an elasticity of substitution between time and goods in home production of roughly 1.8. The observed life-cycle time allocation implies a consumption series that differs markedly from expenditures.  },
+            author = {Aguiar, Mark and Hurst, Erik}}
+        }",
+        "PDF": "https://markaguiar.github.io/files/lifecycleprices.pdf",        
+        "journal": "https://doi.org/10.1257/aer.97.5.1533",
+        "other_links": [
+            {
+                "link_text": "Data", 
+                "url": "https://github.com/markaguiar/Lifecycle-Prices-and-Production"
+            }
+        ],
+       
+    },
+    
+    {
+        "title": "Emerging Market Business Cycles:  The Cycle is the Trend",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "cycletrend",
+        "year": "2007",
+        "citation": "Aguiar, Mark and Gita Gopinath, \"Emerging Market Business Cycles: The Cycle is the Trend,\" *Journal of Political Economy*, 115(1):  69-102",
+        "abstract": "Emerging market business cycles exhibit strongly counter-cyclical current accounts, consumption volatility that exceeds income volatility, and {\textquoteleft}{\textquoteleft}sudden stops{\textquoteright}{\textquoteright} in capital inflows.  These features contrast with developed small open economies. Nevertheless, we show that a standard model characterizes both types of markets. Motivated by the frequent policy regime switches observed in emerging markets, our premise is that these economies are subject to substantial volatility in trend growth. Our methodology exploits the information in consumption and net exports to identify the persistence of productivity. We find that shocks to trend growth--- rather than transitory fluctuations around a stable trend ---are the primary source of fluctuations in emerging markets. The key features of emerging market business cycles are then shown to be consistent with this underlying income process in an otherwise standard equilibrium model.",
+        "bibtex": "@article {AguiarGopinath2007,
+        title = {Emerging Market Business Cycles:  The Cycle is the Trend},
+	    journal = {Journal of Political Economy},
+	    volume = {115},
+	    number = {1},
+	    year = {2007},
+	    pages = {69-102},
+        abstract = {Emerging market business cycles exhibit strongly counter-cyclical current accounts, consumption volatility that exceeds income volatility, and {\textquoteleft}{\textquoteleft}sudden stops{\textquoteright}{\textquoteright} in capital inflows.  These features contrast with developed small open economies. Nevertheless, we show that a standard model characterizes both types of markets. Motivated by the frequent policy regime switches observed in emerging markets, our premise is that these economies are subject to substantial volatility in trend growth. Our methodology exploits the information in consumption and net exports to identify the persistence of productivity. We find that shocks to trend growth--- rather than transitory fluctuations around a stable trend ---are the primary source of fluctuations in emerging markets. The key features of emerging market business cycles are then shown to be consistent with this underlying income process in an otherwise standard equilibrium model.} 
+        author = {Aguiar, Mark and Gita Gopinath}
+
+        }",
+        "PDF": "https://markaguiar.github.io/files/cycletrend.pdf",        
+        "journal": "https://doi.org/10.1086/511283",
+        "other_links": [
+            {
+                "link_text": "Data and Code", 
+                "url": "https://github.com/markaguiar/Cycle-is-the-Trend"
+            }
+        ],
+       
+    },
+
+    {
+        "title": "Measuring Trends in Leisure&#58; The Allocation of Time Over Five Decades",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "leisuretrends",
+        "year": "2007",
+        "citation": "Aguiar, Mark and Erik Hurst, \"Measuring Trends in Leisure: The Allocation of Time Over Five Decades,\" *Quarterly Journal of Economics*, 122(3): 969-1006.",
+        "abstract": "In this paper, we use five decades of time-use surveys to document trends in the allocation of time within the United States. We find that a dramatic increase in leisure time lies behind the relatively stable number of market hours worked between 1965 and 2003. Specifically, using a variety of definitions for leisure, we show that leisure for men increased by roughly 6-9 hours per week (driven by a decline in market work hours) and for women by roughly 4-8 hours per week (driven by a decline in home production work hours). Lastly, we document a growing inequality in leisure that is the mirror image of the growing inequality of wages and expenditures, making welfare calculation based solely on the latter series incomplete.",
+        "bibtex": "@article {AguiarHurst2007,
+        title = {Measuring Trends in Leisure: The Allocation of Time Over Five Decades},
+    	journal = {Quarterly Journal of Economics},
+    	volume = {122},
+    	number = {3},
+    	year = {2007},
+    	pages = {969-1006},
+    	abstract = {
+            In this paper, we use five decades of time-use surveys to document trends in the allocation of time within the United States. We find that a dramatic increase in leisure time lies behind the relatively stable number of market hours worked between 1965 and 2003. Specifically, using a variety of definitions for leisure, we show that leisure for men increased by roughly 6-9 hours per week (driven by a decline in market work hours) and for women by roughly 4-8 hours per week (driven by a decline in home production work hours). Lastly, we document a growing inequality in leisure that is the mirror image of the growing inequality of wages and expenditures, making welfare calculation based solely on the latter series incomplete.},
+    	author = {Aguiar, Mark and Erik Hurst}
+        }",
+        "PDF": "https://markaguiar.github.io/files/leisuretrends.pdf",        
+        "journal": "https://doi.org/10.1162/qjec.122.3.969",
+        "other_links": [            
+            { 
+                "link_text" : "Online appendix" ,
+                "url" : "https://markaguiar.github.io/files/robustness_appendix.pdf"
+            },
+
+            {
+                "link_text": "Data", 
+                "url": "http://www.markaguiar.com/papers/timeuse_data/datapage.html"
+            }
+        ],
+       
+    },
+    {
+        "title": "Permanent Income Hypothesis",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "pih",
+        "year": "2008",
+        "citation": "Aguiar, Mark and Erik Hurst, \"Permanent Income Hypothesis,\" *New Palgrave Dictionary of Economics*, Palgrave Macmillan, 2008 (online 2016).",
+        "abstract": "The permanent income hypothesis (PIH) is a theory that links an individual’s consumption at any point in time to that individual’s total income earned over his or her lifetime. The hypothesis is based on two simple premises: (1) that individuals wish to equate their expected marginal utility of consumption across time and (2) that individuals are able to respond to income changes by saving and dis-saving. In this article we present the intuition and empirical implications of the PIH in several standard contexts.",
+        "bibtex": "@inbook {AguiarHurst2008,
+        author={Aguiar, Mark and Erik Hurst},
+            title={Permanent-Income Hypothesis},
+            booktitle={The New Palgrave Dictionary of Economics},
+            year={2016},
+            publisher={Palgrave Macmillan UK},
+            address={London},
+            pages={1--5},
+            abstract={The permanent income hypothesis (PIH) is a theory that links an individual's consumption at any point in time to that individual's total income earned over his or her lifetime. The hypothesis is based on two simple premises (1) that individuals wish to equate their expected marginal utility of consumption across time and (2) that individuals are able to respond to income changes by saving and dis-saving. In this article we present the intuition and empirical implications of the PIH in several standard contexts.},
+            isbn={978-1-349-95121-5},
+            doi={10.1057/978-1-349-95121-5_2801-1},
+            url={https://doi.org/10.1057/978-1-349-95121-5_2801-1}
+        }",
+        "PDF": "https://markaguiar.github.io/files/pih.pdf",        
+        "journal": " https://doi.org/10.1057/978-1-349-95121-5_2801-1",       
+    },
+
     {
         "title": "Investment Cycles and Sovereign Debt Overhang",
         "published": true, 
@@ -76,6 +294,99 @@
                 "url": "https://github.com/manuelamador/Expropriation_AER_P-P_2009"
             }
         ]
+    },
+
+    {
+        "title": "The Increase in Leisure Inequality&#58; 1965-2005",
+        "published": true, 
+        "show_on_website": true,
+        "permalink": "leisure-inequality",
+        "year": "2009",
+        "citation": "Aguiar, Mark and Erik Hurst, *The Increase in Leisure Inequality: 1965-2005*, Washington, DC: American Enterprise Institute, 2009.",
+        "abstract": "Recent research documents increasing income inequality in the United States — in particular, a widening gap between well-educated and less-educated American workers. But income is not the sole measure of prosperity. The amount of time Americans spend in leisure is also crucial to our understanding of American well-being, changes in well-being over time, and differences in well-being among citizens. This meticulously researched book examines trends in leisure inequality to present a more complete picture of prosperity in America.
+        
+        Using data spanning 40 years and tens of thousands of survey respondents, Mark Aguiar and Erik Hurst seek to answer several key questions about leisure inequality: How much has the leisure time of the average American increased or decreased over the past several decades? What increases or decreases in leisure time are seen across groups with different levels of education, and to what extent do educational differences in employment status account for these changes? That is, if workers with relatively little education are less likely to be employed today than 20 years ago, does that explain an increase in their leisure relative to more-educated workers?
+        
+        Aguiar and Hurst find that the leisure time of the average American has risen by about four hours per week since the mid-1960s. Moreover, the leisure gap between the less educated and more educated has widened, as leisure time has increased by eight hours for Americans without a high school diploma and decreased by six hours for college-educated Americans. What accounts for this puzzling divergence? Understanding the forces that drive increasing leisure inequality could have important implications for American employment policy.",
+        "bibtex": "@book {AguiarHurst2009,
+	    title = {The Increase in Leisure Inequality: 1965-2005},
+	    year = {2009},
+	    publisher = {American Enterprise Institute},
+	    organization = {American Enterprise Institute},
+	    address = {Washington, DC},
+	    url = {http://www.aei.org/book/society-and-culture/citizenship/the-increase-in-leisure-inequality-1965-2005-book/},
+	    author = {Aguiar, Mark and Hurst, Erik}
+        }",
+        "PDF": "https://markaguiar.github.io/files/leisureinequality.pdf",
+        "journal": "https://www.aei.org/research-products/book/the-increase-in-leisure-inequality-1965-2005/"
+    },
+
+    {
+        "title": "Comment on Rong Qian, Carmen Reinhart, and Kenneth Rogoff \"On Graduation from Default, Inflation and Banking Crises&#58; Elusive or Illusion\"",
+        "published": true, 
+        "show_on_website": true, 
+        "permalink": "graduation",
+        "year": "2010",
+        "citation": "Aguiar, Mark, \"Comment on Rong Qian, Carmen Reinhart, and Kenneth Rogoff \"On Graduation from Default, Inflation and Banking Crises: Elusive or Illusion,\" *NBER Macroannual*, 2010.",
+        "bibtex": "@conference {Aguiar2010,
+	    title = {Discussion of Rong Qian, Carmen Reinhart, and Kenneth Rogoff \"On Graduation from Default, Inflation and Banking Crises:  Elusive or Illusion\"},
+	    booktitle = {NBER Macroannual},
+	    year = {2010},
+        author = {Aguiar, Mark}
+        }
+        }",
+        "PDF": "https://markaguiar.github.io/files/discussion.pdf",
+        "journal":  "https://doi.org/10.1086/657532",
+    },
+
+    {
+        "title": "Growth in the Shadow of Expropriation",
+        "published": true, 
+        "show_on_website": true, 
+        "permalink": "growth-in-the-shadow-of-expropriation",
+        "year": "2011",
+        "citation": "Aguiar, Mark, and Manuel Amador (2011): \"Growth in the Shadow of Expropriation,\" *The Quarterly Journal of Economics*, 126(2): 651-697.",
+        "abstract": "We propose a tractable variant of the open economy neoclassical growth model that emphasizes political economy and contracting frictions. The political economy frictions involve a preference for immediate spending, while the contracting friction is a lack of commitment regarding foreign debt and expropriation. We show that the political economy frictions slow an economy’s convergence to the steady state due to the endogenous evolution of capital taxation. The model rationalizes why openness has different implications for growth depending on the political environment, why institutions such as the treatment of capital income evolve over time, why governments in countries that grow rapidly accumulate net foreign assets rather than liabilities, and why foreign aid may not affect growth.",
+        "bibtex": "@article{aguiar2011growth,
+            title={Growth in the Shadow of Expropriation},
+            author={Aguiar, Mark and Amador, Manuel},
+            journal={The Quarterly Journal of Economics},
+            volume={126},
+            number={2},
+            pages={651--697},
+            year={2011},
+            publisher={Oxford University Press}
+        }",
+        "PDF": "https://markaguiar.github.io/files/shadow_with_online_appendix.pdf",
+        "journal":  "https://doi.org/10.1093/qje/qjr015",
+        "other_links": [
+            {
+                "link_text": "Online Appendix", 
+                "url" : "https://markaguiar.github.io/files/shadow_appendix.pdf"
+            },
+            {
+                "link_text": "Code", 
+                "url": "https://github.com/manuelamador/Shadow_QJE_2011"
+            }
+        ],
+    },
+    {
+        "title": "Recent Developments in the Economics of Time Use",
+        "published": true, 
+        "show_on_website": true, 
+        "permalink": "time-use",
+        "year": "2012",
+        "citation": "Aguiar, Mark and Erik Hurst and Loukas Karabarbounis, \"Recent Developments in the Economics of Time Use,\" *Annual Review of Economics*, 4: 373-397.",
+        "bibtex": "@article{AguiarHurstKarabarbounis2012,
+    	title = {Recent Developments in the Economics of Time Use},
+	    journal = {Annual Review of Economics},
+	    volume = {4},
+	    year = {2012},
+	    pages = {373-397},
+	    author = {Aguiar, Mark and Hurst, Erik and Karabarbounis, Loukas}
+        }",
+        "PDF": "https://markaguiar.github.io/files/timeuse.pdf",
+        "journal":  "https://doi.org/10.1146/annurev-economics-111809-125129",
     },
 
     {
@@ -214,7 +525,7 @@
 
 
     {
-        "title": "Take the Short Route, Equilibrium Default and Debt Maturity", 
+        "title": "Take the Short Route&#58; Equilibrium Default and Debt Maturity", 
         "published": true,
         "show_on_website": true, 
         "permalink":  "take-the-short-route", 
@@ -295,36 +606,32 @@
                 "link_text": "Code", 
                 "url": "https://github.com/sfourakis/SovDebtWelfare"
             }
+
+            
         ]
     }, 
 
-
-
-    #
-    # WORKING PAPERS 
-    #
-    
-
     {
-        "title": "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises",
-        "published": false, 
-        "show_on_website": true,
-        "permalink": "crisis_commitment",
-        "citation": "Aguiar, Mark, Manuel Amador, Gita Gopinath and Emmanuel Farhi (2013): \"Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises\".", 
-        "abstract": "", 
-        "PDF": "https://markaguiar.github.io/files/crises.pdf"
-    },
-
-
-
-    {
-        "title" : "Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models", 
-        "published": false,
+        "title" : "Self-fulfilling Debt Dilution&#58; Maturity and Multiplicity in Debt Models", 
+        "published": true,
         "show_on_website": true, 
         "permalink": "debt_dilution",
-        "citation": "Aguiar, Mark and Manuel Amador (2020): \"Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models\". Conditionally accepted at the *American Economic Review*.", 
-        "abstract": "", 
+        "citation": "Aguiar, Mark and Manuel Amador (2020): \"Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models,\" *American Economic Review*, 110 (9): 2783-2818.", 
+        "abstract": "We establish that creditor beliefs regarding future borrowing can be self-fulfilling, leading to multiple equilibria with markedly different debt accumulation patterns. We characterize such indeterminacy in the Eaton-Gersovitz sovereign debt model augmented with long maturity bonds. Two necessary conditions for the multiplicity are (i) the government is more impatient than foreign creditors, and (ii) there are deadweight losses from default. The multiplicity is dynamic and stems from the self-fulfilling beliefs of how future creditors will price bonds; long maturity bonds are therefore a crucial component of the multiplicity. We introduce a third party with deep pockets to discuss the policy implications of this source of multiplicity and identify the potentially perverse consequences of traditional “lender of last resort” policies.", 
         "PDF": "https://markaguiar.github.io/files/self_fulfilling_dilution.pdf", 
+        "journal": "https://doi.org/10.1257/aer.20180831", 
+         "bibtex": "@article{AGUAMA2020,
+         Author = {Aguiar, Mark and Amador, Manuel},
+         Title = {Self-Fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models},
+         Journal = {American Economic Review},
+         Volume = {110},
+         Number = {9},
+         Year = {2020},
+         Month = {September},
+         Pages = {2783-2818},
+         DOI = {10.1257/aer.20180831},
+         URL = {https://www.aeaweb.org/articles?id=10.1257/aer.20180831}
+         }",
         "other_links": [
             { 
                 "link_text" : "Online appendix" ,
@@ -343,5 +650,24 @@
                 "url" : "https://github.com/manuelamador/dilution_with_two_shocks"
             } 
         ]
+    },
+
+
+
+
+    #
+    # WORKING PAPERS 
+    #
+    
+
+    {
+        "title": "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises",
+        "published": false, 
+        "show_on_website": true,
+        "permalink": "crisis_commitment",
+        "citation": "Aguiar, Mark, Manuel Amador, Gita Gopinath and Emmanuel Farhi (2013): \"Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises\".", 
+        "abstract": "", 
+        "PDF": "https://markaguiar.github.io/files/crises.pdf"
     }
+
 ]

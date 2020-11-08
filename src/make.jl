@@ -33,7 +33,7 @@ permalink(s) = "/" * subpage_dir * "/" * s
 
 open(joinpath(root_dir, "index.md"), "w") do io
     write(io, header_pubs)
-    write(io, "## Working papers\n")
+    write(io, "## Working Papers\n")
     for p in papers
         if !p["published"] && p["show_on_website"]
             write(io, "* " * link_str(p["title"],  permalink(p["permalink"]), post="\n\n"))
@@ -121,7 +121,7 @@ for p in papers
                 write(io, p["abstract"])
             end 
             if   p["published"]
-                write(io, "BibTeX Cite\n\n")
+                write(io, "\n\nBibTeX Cite:\n\n")
                 write(io, bibtex(p["bibtex"]))
             end
         end
