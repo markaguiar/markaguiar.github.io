@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/leisureinequality.pdf) -- [Journal link](https://www.aei.org/research-products/book/the-increase-in-leisure-inequality-1965-2005/)
 #### Citation
 
-Aguiar, Mark and Erik Hurst, *The Increase in Leisure Inequality: 1965-2005*, Washington, DC: American Enterprise Institute, 2009.
+Aguiar, Mark and Erik Hurst (2009): *The Increase in Leisure Inequality: 1965-2005*, Washington, DC: American Enterprise Institute, 2009.
 
 #### Abstract
 

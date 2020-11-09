@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Emerging Market Business Cycles:  The Cycle is the Trend 
+title: Emerging Market Business Cycles&#58;  The Cycle is the Trend 
 permalink: /citation/cycletrend
 exclude: true
 ---
@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/cycletrend.pdf) -- [Journal link](https://doi.org/10.1086/511283) -- [Data and Code](https://github.com/markaguiar/Cycle-is-the-Trend)
 #### Citation
 
-Aguiar, Mark and Gita Gopinath, "Emerging Market Business Cycles: The Cycle is the Trend," *Journal of Political Economy*, 115(1):  69-102
+Aguiar, Mark and Gita Gopinath (2007): "Emerging Market Business Cycles: The Cycle is the Trend," *Journal of Political Economy*, 115(1):  69-102
 
 #### Abstract
 

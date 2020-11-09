@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/discussion.pdf) -- [Journal link](https://doi.org/10.1086/657532)
 #### Citation
 
-Aguiar, Mark, "Comment on Rong Qian, Carmen Reinhart, and Kenneth Rogoff "On Graduation from Default, Inflation and Banking Crises: Elusive or Illusion," *NBER Macroannual*, 2010.
+Aguiar, Mark (2010): "Comment on Rong Qian, Carmen Reinhart, and Kenneth Rogoff "On Graduation from Default, Inflation and Banking Crises: Elusive or Illusion," *NBER Macroannual*, 2010.
 
 
 

@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/leisuretrends.pdf) -- [Journal link](https://doi.org/10.1162/qjec.122.3.969) -- [Online appendix](https://markaguiar.github.io/files/robustness_appendix.pdf) -- [Data](http://www.markaguiar.com/papers/timeuse_data/datapage.html)
 #### Citation
 
-Aguiar, Mark and Erik Hurst, "Measuring Trends in Leisure: The Allocation of Time Over Five Decades," *Quarterly Journal of Economics*, 122(3): 969-1006.
+Aguiar, Mark and Erik Hurst (2007): "Measuring Trends in Leisure: The Allocation of Time Over Five Decades," *Quarterly Journal of Economics*, 122(3): 969-1006.
 
 #### Abstract
 

@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/lifecycleprices.pdf) -- [Journal link](https://doi.org/10.1257/aer.97.5.1533) -- [Data](https://github.com/markaguiar/Lifecycle-Prices-and-Production)
 #### Citation
 
-Aguiar, Mark and Erik Hurst, "Life-Cycle Prices and Production," *American Economic Review*, 97(5): 1533-1559.
+Aguiar, Mark and Erik Hurst (2007): "Life-Cycle Prices and Production," *American Economic Review*, 97(5): 1533-1559.
 
 #### Abstract
 

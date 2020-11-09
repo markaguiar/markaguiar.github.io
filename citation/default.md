@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/dd_jie.pdf) -- [Journal link](https://doi.org/10.1016/j.jinteco.2005.05.005) -- [Code](https://github.com/markaguiar/Defaultable-Debt)
 #### Citation
 
-Aguiar, Mark and Gita Gopinath, "Defaultable Debt, Interest Rates, and the Current Account," *Journal of International Economics*,  69(1): 64-83.
+Aguiar, Mark and Gita Gopinath (2006): "Defaultable Debt, Interest Rates, and the Current Account," *Journal of International Economics*,  69(1): 64-83.
 
 #### Abstract
 

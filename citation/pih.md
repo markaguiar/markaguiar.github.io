@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/pih.pdf) -- [Journal link]( https://doi.org/10.1057/978-1-349-95121-5_2801-1)
 #### Citation
 
-Aguiar, Mark and Erik Hurst, "Permanent Income Hypothesis," *New Palgrave Dictionary of Economics*, Palgrave Macmillan, 2008 (online 2016).
+Aguiar, Mark and Erik Hurst (2008): "Permanent Income Hypothesis," *New Palgrave Dictionary of Economics*, Palgrave Macmillan, 2008 (online 2016).
 
 #### Abstract
 

@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/cycle_overhang.pdf) -- [Journal link](https://doi.org/10.1111/j.1467-937X.2008.00523.x)
 #### Citation
 
-Aguiar, Mark, Manuel Amador, and Gita Gopinath(2009): "Investment Cycles and Sovereign Debt Overhang," *Review of Economic Studies*, 76(1): 1-31.
+Aguiar, Mark, Manuel Amador, and Gita Gopinath (2009): "Investment Cycles and Sovereign Debt Overhang," *Review of Economic Studies*, 76(1): 1-31.
 
 #### Abstract
 

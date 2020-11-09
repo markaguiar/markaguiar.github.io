@@ -6,10 +6,10 @@ permalink: /citation/time-use
 exclude: true
 ---
 
-[PDF](https://markaguiar.github.io/files/shadow_with_online_appendix.pdf) -- [Journal link](https://doi.org/10.1146/annurev-economics-111809-125129)
+[PDF](https://markaguiar.github.io/files/timeuse.pdf) -- [Journal link](https://doi.org/10.1146/annurev-economics-111809-125129)
 #### Citation
 
-Aguiar, Mark and Erik Hurst and Loukas Karabarbounis, "Recent Developments in the Economics of Time Use," *Annual Review of Economics*, 4: 373-397.
+Aguiar, Mark and Erik Hurst and Loukas Karabarbounis (2012): "Recent Developments in the Economics of Time Use," *Annual Review of Economics*, 4: 373-397.
 
 
 

@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/cit_chile.pdf) -- [Journal link](https://markaguiar.github.io/files/cit_chile.pdf)
 #### Citation
 
-Aguiar, Mark and Gita Gopinath. "Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks," Tenth Annual Conference on the Central Bank of Chile: Current Account and External Financing 2006
+Aguiar, Mark and Gita Gopinath (2006): "Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks," Tenth Annual Conference on the Central Bank of Chile: Current Account and External Financing
 
 #### Abstract
 

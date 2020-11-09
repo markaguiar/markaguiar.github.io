@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/fdi_restat.pdf) -- [Journal link](https://doi.org/10.1162/0034653054638319)
 #### Citation
 
-Aguiar, Mark, and Gita Gopinath, "Fire-Sale FDI and Liquidity Crises," *Review of Economics and Statistics*, 87(3): 439-452.
+Aguiar, Mark, and Gita Gopinath (2005): "Fire-Sale FDI and Liquidity Crises," *Review of Economics and Statistics*, 87(3): 439-452.
 
 #### Abstract
 

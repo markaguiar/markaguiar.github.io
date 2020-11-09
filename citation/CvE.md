@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/CvE.pdf) -- [Journal link](https://doi.org/10.1086/491590)
 #### Citation
 
-Aguiar, Mark, and Eirk Hurst(2005): "Consumption versus Expenditure," *Journal of Political Economy*, 113(5): 919-948.
+Aguiar, Mark, and Eirk Hurst (2005): "Consumption versus Expenditure," *Journal of Political Economy*, 113(5): 919-948.
 
 #### Abstract
 

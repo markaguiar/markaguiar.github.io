@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/fund_jme.pdf) -- [Journal link](https://doi.org/10.1016/j.jmoneco.2005.02.005)
 #### Citation
 
-Aguiar, Mark and Fernando Broner. "Determining Underlying Macroeconomic Fundamentals during Emerging Market Crises: Are conditions as bad as they seem?" *Journal of Monetary Economics*, 53(4): 699-724.
+Aguiar, Mark and Fernando Broner (2006): "Determining Underlying Macroeconomic Fundamentals during Emerging Market Crises: Are conditions as bad as they seem?" *Journal of Monetary Economics*, 53(4): 699-724.
 
 #### Abstract
 
