@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: The Increase in Leisure Inequality&#58; 1965-2005 
+title: The Increase in Leisure Inequality: 1965-2005 
 permalink: /citation/leisure-inequality
 exclude: true
 ---

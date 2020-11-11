@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Emerging Market Fluctuations&#58; The Role of Interest Rate and Productivity Shocks 
+title: Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks 
 permalink: /citation/rateshocks
 exclude: true
 ---

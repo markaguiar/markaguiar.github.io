@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Determining Underlying Macroeconomic Fundamentals during Emerging Market Crises&#58; Are conditions as bad as they seem? 
+title: Determining Underlying Macroeconomic Fundamentals during Emerging Market Crises: Are conditions as bad as they seem? 
 permalink: /citation/fundamentals
 exclude: true
 ---

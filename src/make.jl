@@ -35,7 +35,7 @@ open(joinpath(root_dir, "index.md"), "w") do io
     write(io, header_pubs)
     write(io, "## Working Papers\n")
     for p in papers
-        if !p["published"] && p["show_on_website"]
+        if p["published"]=="wp" && p["show_on_website"]
             write(io, "* " * link_str(p["title"],  permalink(p["permalink"]), post="\n\n"))
             write(io, "    " * p["citation"] * "\n")
             lst = String[]
@@ -55,11 +55,11 @@ open(joinpath(root_dir, "index.md"), "w") do io
     end
 
     write(io, "\n\n")
-    write(io, "## Publications\n\n")
+    write(io, "## Journal Publications\n\n")
 #    write(io, "[BibTeX file](http://markaguiar.github.io/files/ref.bib)\n\n")
 
     for p in papers
-        if p["published"] && p["show_on_website"]
+        if p["published"]=="journal" && p["show_on_website"]
             write(io, "* " * link_str(p["title"],  permalink(p["permalink"]), post="\n\n"))
             write(io, "    " * p["citation"] * "\n")
             lst = String[]
@@ -79,7 +79,84 @@ open(joinpath(root_dir, "index.md"), "w") do io
             write(io, "\n\n")
         end
     end
+
+    write(io, "\n\n")
+    write(io, "## Handbook Chapters\n\n")
+#    write(io, "[BibTeX file](http://markaguiar.github.io/files/ref.bib)\n\n")
+
+    for p in papers
+        if p["published"]=="handbook" && p["show_on_website"]
+            write(io, "* " * link_str(p["title"],  permalink(p["permalink"]), post="\n\n"))
+            write(io, "    " * p["citation"] * "\n")
+            lst = String[]
+            push!(lst, link_str("PDF", p["PDF"]))
+            push!(lst, link_str("Journal link", p["journal"]))
+            if haskey(p, "other_links")
+                for l in p["other_links"]
+                    s = link_str(l["link_text"], l["url"])
+                    if haskey(l, "extra")
+                        s = s * " $(l["extra"])"
+                    end 
+                    push!(lst, s)
+                end
+            end 
+            push!(lst, link_str("BibTeX and abstract", permalink(p["permalink"])))
+            join(io, lst, " -- ")
+            write(io, "\n\n")
+        end
+    end
+    write(io, "\n\n")
+    write(io, "## Conference Volumes\n\n")
+#    write(io, "[BibTeX file](http://markaguiar.github.io/files/ref.bib)\n\n")
+
+    for p in papers
+        if p["published"]=="conference" && p["show_on_website"]
+            write(io, "* " * link_str(p["title"],  permalink(p["permalink"]), post="\n\n"))
+            write(io, "    " * p["citation"] * "\n")
+            lst = String[]
+            push!(lst, link_str("PDF", p["PDF"]))
+            push!(lst, link_str("Journal link", p["journal"]))
+            if haskey(p, "other_links")
+                for l in p["other_links"]
+                    s = link_str(l["link_text"], l["url"])
+                    if haskey(l, "extra")
+                        s = s * " $(l["extra"])"
+                    end 
+                    push!(lst, s)
+                end
+            end 
+            push!(lst, link_str("BibTeX and abstract", permalink(p["permalink"])))
+            join(io, lst, " -- ")
+            write(io, "\n\n")
+        end
+    end
+
+    write(io, "\n\n")
+    write(io, "## Published Discussions\n\n")
+    for p in papers
+        if p["published"]=="discussion" && p["show_on_website"]
+            write(io, "* " * link_str(p["title"],  permalink(p["permalink"]), post="\n\n"))
+            write(io, "    " * p["citation"] * "\n")
+            lst = String[]
+            push!(lst, link_str("PDF", p["PDF"]))            
+            push!(lst, link_str("Journal link", p["journal"]))
+            if haskey(p, "other_links")
+                for l in p["other_links"]
+                    s = link_str(l["link_text"], l["url"])
+                    if haskey(l, "extra")
+                        s = s * " $(l["extra"])"
+                    end 
+                    push!(lst, s)
+                end
+            end 
+            push!(lst, link_str("BibTeX and abstract", permalink(p["permalink"])))
+            join(io, lst, " -- ") 
+        write(io, "\n")
+        end
+    end
 end
+
+
 
 
 
@@ -100,7 +177,7 @@ for p in papers
             lst = String[]
             
             push!(lst, link_str("PDF", p["PDF"]))
-            if   p["published"]
+            if   p["published"]!="wp"
                 push!(lst, link_str("Journal link", p["journal"]))
             end
             if haskey(p, "other_links")
@@ -120,7 +197,7 @@ for p in papers
                 write(io, "#### Abstract\n\n")
                 write(io, p["abstract"])
             end 
-            if   p["published"]
+            if   p["published"]!="wp"
                 write(io, "\n\nBibTeX Cite:\n\n")
                 write(io, bibtex(p["bibtex"]))
             end
@@ -131,33 +208,54 @@ end
 
 # # Generating the CV 
 
-# @info "Generating CV"
+ @info "Generating CV"
 
-# cv_header = """---
-# layout: page
-# title: CV
-# permalink: /cv/
-# ---
-# """
+cv_header = """---
+layout: single
+author_profile: false
+title: Mark Aguiar
+canonical_url: "https://markaguiar.github.io/cv/"
+---"""
 
-# open(joinpath(root_dir, "01_cv.md"), "w") do io
-#     write(io, cv_header)
-#     write(io, "\n")
-#     write(io, "# Manuel Amador \n\n")
-#     write(io, "*updated on " * string(Date(now())) * "* \n\n")
-#     write(io, read(joinpath(src_dir, "cv_part1.md"), String))
-#     write(io, "\n")
-#     write(io, "## Publications\n\n")
-#     for p in papers
-#         p["published"] && write(io, "- " * p["citation"] * "\n\n")
-#     end
-#     write(io, "## Working Papers\n\n")
-#     for p in papers
-#         !p["published"] && write(io, "- " * p["citation"] * "\n\n")
-#     end
-#     write(io, read(joinpath(src_dir, "cv_part2.md"), String))
-#     write(io, "\n")
-# end
+open(joinpath(root_dir, "CV/index.md"), "w") do io
+    write(io, cv_header)
+    write(io, "\n")
+    write(io, "*updated on " * string(Date(now())) * "* \n\n")
+    write(io, read(joinpath(src_dir, "cv_part1.md"), String))
+    write(io, "\n")
+    write(io, "## Journal Publications\n\n")
+    for p in papers
+        if   p["published"]=="journal"
+            write(io, "- " * p["citation"] * "\n\n")
+        end
+    end
+    write(io, "## Handbook Chapters\n\n")
+    for p in papers
+        if   p["published"]=="handbook"
+            write(io, "- " * p["citation"] * "\n\n")
+        end
+    end
+    write(io, "## Conference Volumes\n\n")
+    for p in papers
+        if   p["published"]=="conference"
+            write(io, "- " * p["citation"] * "\n\n")
+        end
+    end
+    write(io, "## Published Discussions\n\n")
+    for p in papers
+        if   p["published"]=="discussion"
+            write(io, "- " * p["citation"] * "\n\n")
+        end
+    end
+    write(io, "## Working Papers\n\n")
+    for p in papers
+        if   p["published"]=="wp"
+            write(io, "- " * p["citation"] * "\n\n")
+        end
+    end
+    write(io, read(joinpath(src_dir, "cv_part2.md"), String))
+    write(io, "\n")
+end
 
-# @info "Done with CV"
+@info "Done with CV"
 

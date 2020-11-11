@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Take the Short Route&#58; Equilibrium Default and Debt Maturity 
+title: Take the Short Route: Equilibrium Default and Debt Maturity 
 permalink: /citation/take-the-short-route
 exclude: true
 ---

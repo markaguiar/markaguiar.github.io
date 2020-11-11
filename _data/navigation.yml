@@ -3,10 +3,10 @@ main:
   #- title: "Research"
   #  url: https://markaguiar.github.io/Research/
    - title: "CV"
-     url: https://markaguiar.github.io/CV/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+     url: /CV/
+   - title: "Bio"
+     url: /bio
+   - title: "Photo"
+     url: /photo
   # - title: "Sitemap"
   #   url: /sitemap/

@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Emerging Market Business Cycles&#58;  The Cycle is the Trend 
+title: Emerging Market Business Cycles:  The Cycle is the Trend 
 permalink: /citation/cycletrend
 exclude: true
 ---

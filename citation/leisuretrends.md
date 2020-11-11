@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Measuring Trends in Leisure&#58; The Allocation of Time Over Five Decades 
+title: Measuring Trends in Leisure: The Allocation of Time Over Five Decades 
 permalink: /citation/leisuretrends
 exclude: true
 ---

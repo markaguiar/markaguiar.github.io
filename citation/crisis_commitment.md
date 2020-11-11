@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Crisis and Commitment&#58; Inflation Credibility and the Vulnerability to Sovereign Debt Crises 
+title: Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises 
 permalink: /citation/crisis_commitment
 exclude: true
 ---

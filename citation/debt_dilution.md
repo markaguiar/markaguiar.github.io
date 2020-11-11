@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Self-fulfilling Debt Dilution&#58; Maturity and Multiplicity in Debt Models 
+title: Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models 
 permalink: /citation/debt_dilution
 exclude: true
 ---

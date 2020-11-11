@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Investment, Devaluation, and Foreign Currency Exposure&#58; The Case of Mexico 
+title: Investment, Devaluation, and Foreign Currency Exposure: The Case of Mexico 
 permalink: /citation/mexico
 exclude: true
 ---
