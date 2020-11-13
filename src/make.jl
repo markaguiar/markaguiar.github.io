@@ -319,7 +319,7 @@ run(`cp cv.pdf ../CV/`)
 run(`rm pub.aux hb.aux conf.aux disc.aux wp.aux 
 pub.blg hb.blg conf.blg disc.blg wp.blg
 pub.bbl hb.bbl conf.bbl disc.bbl wp.bbl
-cv.log cv.out cv.fdb_latexmk`)
+cv.log cv.aux cv.out cv.fls cv.fdb_latexmk`)
 
 
 @info "done with compile CV to pdf"
