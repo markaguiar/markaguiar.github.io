@@ -24,5 +24,6 @@ BibTeX Cite:
 		Year = {2019},
 		Volume = {87},
 		Number = {2},
-		Pages = {423-462}
+		Pages = {423-462},
+		url={https://doi.org/10.3982/ECTA14806}
 		}

@@ -25,6 +25,7 @@ BibTeX Cite:
 		number = {1},
 		pages = {79--82},
 		author = {Mark Aguiar},
-		title = {Discussion of Clayne Pope's 'Measuring the distribution of material well-being: US trends'},
-		journal = {Journal of Monetary Economics}
+		title = {Discussion of {Clayne Pope's ``Measuring the distribution of material well-being: US trends''}},
+		journal = {Journal of Monetary Economics},
+		url={https://doi.org/10.1016/j.jmoneco.2008.12.011}
 		}

@@ -259,3 +259,59 @@ end
 
 @info "Done with CV"
 
+#Write bibtex file
+
+@info "Generating Bibtex files"
+
+open("ref_pub.bib", "w") do io
+    for p in papers
+        if   p["published"]=="journal"
+            write(io, p["bibtex"]* "\n\n")
+        end
+    end
+end
+open("ref_conf.bib", "w") do io
+    for p in papers
+        if   p["published"]=="conference"
+            write(io, p["bibtex"]* "\n\n")
+        end
+    end
+end
+open("ref_HB.bib", "w") do io
+    for p in papers
+        if   p["published"]=="handbook"
+            write(io, p["bibtex"]* "\n\n")
+        end
+    end
+end
+open("ref_disc.bib", "w") do io
+    for p in papers
+        if   p["published"]=="discussion"
+            write(io, p["bibtex"]* "\n\n")
+        end
+    end
+end
+open( "ref_wp.bib", "w") do io
+    for p in papers
+        if   p["published"]=="wp"
+            write(io, p["bibtex"]* "\n\n")
+        end
+    end
+end 
+ 
+ 
+@info "Done with Bibtex files"
+
+@info "compile CV to pdf"
+
+run(`pdflatex cv`)
+run(`bibtex pub`)
+run(`bibtex conf`)
+run(`bibtex disc`)
+run(`bibtex wp`)
+run(`pdflatex cv`)
+run(`pdflatex cv`)
+
+run(`cp cv.pdf ../CV/`)
+
+@info "done with compile CV to pdf"

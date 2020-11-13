@@ -15,7 +15,8 @@
         year = {2005},
         pages = {919-948},
         abstract = {Previous authors have documented a dramatic decline in food expenditures at the time of retirement.  We show that this is matched by an equally dramatic rise in time spent shopping for and preparing meals.  Using a novel data set that collects detailed food diaries for a large cross-section of U.S. households, we show that neither the quality nor the quantity of food intake deteriorates with retirement status.  We also show that unemployed households experience a decline in food expenditure and food consumption commensurate with the impact of job displacement on permanent income.  These results highlight how direct measures of consumption distinguish between anticipated and unanticipated shocks to income while measures of expenditures obscure the distinction.},
-        author = {Aguiar, Mark and Hurst, Erik}
+        author = {Aguiar, Mark and Hurst, Erik},
+        url={https://doi.org/10.1086/491590}
         }",
         "PDF": "https://markaguiar.github.io/files/CvE.pdf",
         "journal": "https://doi.org/10.1086/491590"
@@ -36,7 +37,8 @@
         year = {2005},
         pages = {95-113},
         abstract = {This paper studies firm-level investment in the wake of the Mexican peso crisis of 1994. While exporters outperform nonexporters in terms of profits and sales after the devaluation, their investment is constrained by weak balance sheets. Specifically, we find that firms with heavy exposure to short-term foreign currency debt before the devaluation experienced relatively low levels of post-devaluation investment. The data also imply that increased sales uncertainty after the peg's collapse deterred investment, particularly in the tradable sector. The results confirm the recent theoretical literature's focus on weak balance sheets as driving the recessionary impact of devaluations in emerging markets.},
-        author = {Aguiar, Mark}
+        author = {Aguiar, Mark},
+        url={https://doi.org/10.1016/j.jdeveco.2004.06.012}
         }",
         "PDF": "https://markaguiar.github.io/files/mexico.pdf",
         "journal": "https://doi.org/10.1016/j.jdeveco.2004.06.012"
@@ -58,7 +60,8 @@
         year = {2005},
         pages = {439-452},
         abstract = {In placing capital market imperfections at the center of emerging market crises, the theoretical literature has associated a liquidity crisis with low foreign investment and the exit of investors from the crisis economy. However, a liquidity crisis is equally consistent with an inflow of foreign capital in the form of mergers and acquisitions (M&amp;A). To support this hypothesis, we use a firm-level data set to show that foreign acquisitions increased by 91 percent in East Asia between 1996 and 1998, while intranational merger activity declined. Firm liquidity plays a significant and sizable role in explaining both the increase in foreign acquisitions and the decline in the price of acquisitions during the crisis. This contrasts with the role of liquidity in noncrisis years and in noncrisis economies in the region. This effect is also most prominent in the tradable sector. Quantitatively, the observed decline in liquidity can explain 25 percent of the increase in foreign acquisition activity in the tradable sectors. The nature of M&amp;A activity supports liquidity-based explanations of the East Asian crisis and provides an explanation for the puzzling stability of FDI inflows during the crises. },
-        author = {Aguiar, Mark and Gopinath, Gita}
+        author = {Aguiar, Mark and Gopinath, Gita},
+        url={https://doi.org/10.1162/0034653054638319}
         }",
         "PDF": "https://markaguiar.github.io/files/fdi_restat.pdf",
         "journal": "https://doi.org/10.1162/0034653054638319"
@@ -79,7 +82,8 @@
         year = {2006},
         pages = {64-83},
         abstract = {World capital markets have experienced large scale sovereign defaults on a number of occasions. In this paper we develop a quantitative model of debt and default in a small open economy. We use this model to match four empirical regularities regarding emerging markets: defaults occur in equilibrium, interest rates are countercyclical, net exports are countercyclical, and interest rates and the current account are positively correlated. We highlight the role of the stochastic trend in emerging markets, in an otherwise standard model with endogenous default, to match these facts},
-        author = {Aguiar, Mark and Gopinath, Gita}
+        author = {Aguiar, Mark and Gopinath, Gita},
+        url={https://doi.org/10.1016/j.jinteco.2005.05.005}
         }",
         "PDF": "https://markaguiar.github.io/files/dd_jie.pdf",
         "journal": "https://doi.org/10.1016/j.jinteco.2005.05.005",        
@@ -105,7 +109,8 @@
         year = {2006},
         pages = {699-724},
         abstract = { Emerging market crises are characterized by large swings in both macroeconomic fundamentals and asset prices. The economic significance of observed movements in macroeconomic variables is obscured by the brief and extreme nature of crises. In this paper we propose to study the macroeconomic consequences of crises by studying the behavior of {\textquoteleft}{\textquoteleft}effective{\textquoteright}{\textquoteright} fundamentals, constructed by studying the relative movements of stock prices during crises. We find that these effective fundamentals provide a different picture than that implied by observed fundamentals. First, asset prices often reflect expectations of improvement in fundamentals after the initial devaluations; specifically, effective depreciations are positive but not as large as the observed ones. Second, crises vary in their effect on credit market conditions, with investors expecting tightening of credit in some cases (Mexico 1994, Philippines 1997), but loosening of credit in others (Sweden 1992, Korea 1997, Brazil 1999).},
-        author = {Aguiar, Mark and Broner, Fernando}
+        author = {Aguiar, Mark and Broner, Fernando},
+        url={https://doi.org/10.1016/j.jmoneco.2005.02.005}
         }",
         "PDF": "https://markaguiar.github.io/files/fund_jme.pdf",
         "journal": "https://doi.org/10.1016/j.jmoneco.2005.02.005"        
@@ -118,12 +123,13 @@
         "year": "2006",
         "citation": "Aguiar, Mark and Gita Gopinath (2006): \"Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks,\" Tenth Annual Conference on the Central Bank of Chile: Current Account and External Financing",
         "abstract": "In this paper we use a quantitative model to explore the potential frictions that distinguish emerging market business cycles from developed small open economies. Following Aguiar and Gopinath (2007) we allow total factor productivity (TFP) to have a stationary and an integrated component. We also allow for shocks to the consumption and investment Euler Equations that operate through the interest rate. These {\textquoteleft}{\textquoteleft}wedges{\textquoteright}{\textquoteright} represent changes in the intertemporal marginal rate of transformation, which may be due to changes in observed interest rates, unobserved borrowing constraints, or other financial frictions. We estimate the model using data from Mexico and Canada. We show that interest rate shocks orthogonal to domestic TFP fail to explain the behavior of emerging markets. We then allow for interest rates to respond to/co-vary with productivity shocks. We find that emerging market business cycles appear to be driven by large shocks to trend income combined with relatively small transitory shocks that co-vary with the interest rate.",
-        "bibtex": "@proceedings {AguiarGopinath2006b,
+        "bibtex": "@article {AguiarGopinath2006b,
         title = {Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks},
         journal = {Tenth Annual Conference on the Central Bank of Chile: Current Account and External Financing},
         year = {2006},
         abstract = {In this paper we use a quantitative model to explore the potential frictions that distinguish emerging market business cycles from developed small open economies. Following Aguiar and Gopinath (2007) we allow total factor productivity (TFP) to have a stationary and an integrated component. We also allow for shocks to the consumption and investment Euler Equations that operate through the interest rate. These {\textquoteleft}{\textquoteleft}wedges{\textquoteright}{\textquoteright} represent changes in the intertemporal marginal rate of transformation, which may be due to changes in observed interest rates, unobserved borrowing constraints, or other financial frictions. We estimate the model using data from Mexico and Canada. We show that interest rate shocks orthogonal to domestic TFP fail to explain the behavior of emerging markets. We then allow for interest rates to respond to/co-vary with productivity shocks. We find that emerging market business cycles appear to be driven by large shocks to trend income combined with relatively small transitory shocks that co-vary with the interest rate.},
-        author = {Aguiar, Mark and Gopinath, Gita}
+        author = {Aguiar, Mark and Gopinath, Gita},
+        url={https://markaguiar.github.io/files/cit_chile.pdf}
         }",
         "PDF": "https://markaguiar.github.io/files/cit_chile.pdf",        
         "journal": "https://markaguiar.github.io/files/cit_chile.pdf"        
@@ -145,7 +151,8 @@
             year = {2007},
             pages = {1533-1559},
             abstract = {We use scanner data and time diaries to document how households substitute time for money through shopping and home production. We document substantial heterogeneity in prices paid for identical goods for the same area and time, with older households shopping the most and paying the lowest prices.  Doubling shopping frequency lowers a good{\textquoteright}s price by 7 to 10 percent. We estimate the shopper{\textquoteright}s  price of time and use this series to estimate an elasticity of substitution between time and goods in home production of roughly 1.8. The observed life-cycle time allocation implies a consumption series that differs markedly from expenditures.  },
-            author = {Aguiar, Mark and Hurst, Erik}}
+            author = {Aguiar, Mark and Hurst, Erik},
+            url={https://doi.org/10.1257/aer.97.5.1533}
         }",
         "PDF": "https://markaguiar.github.io/files/lifecycleprices.pdf",        
         "journal": "https://doi.org/10.1257/aer.97.5.1533",
@@ -173,9 +180,9 @@
 	    number = {1},
 	    year = {2007},
 	    pages = {69-102},
-        abstract = {Emerging market business cycles exhibit strongly counter-cyclical current accounts, consumption volatility that exceeds income volatility, and {\textquoteleft}{\textquoteleft}sudden stops{\textquoteright}{\textquoteright} in capital inflows.  These features contrast with developed small open economies. Nevertheless, we show that a standard model characterizes both types of markets. Motivated by the frequent policy regime switches observed in emerging markets, our premise is that these economies are subject to substantial volatility in trend growth. Our methodology exploits the information in consumption and net exports to identify the persistence of productivity. We find that shocks to trend growth--- rather than transitory fluctuations around a stable trend ---are the primary source of fluctuations in emerging markets. The key features of emerging market business cycles are then shown to be consistent with this underlying income process in an otherwise standard equilibrium model.} 
-        author = {Aguiar, Mark and Gita Gopinath}
-
+        abstract = {Emerging market business cycles exhibit strongly counter-cyclical current accounts, consumption volatility that exceeds income volatility, and {\textquoteleft}{\textquoteleft}sudden stops{\textquoteright}{\textquoteright} in capital inflows.  These features contrast with developed small open economies. Nevertheless, we show that a standard model characterizes both types of markets. Motivated by the frequent policy regime switches observed in emerging markets, our premise is that these economies are subject to substantial volatility in trend growth. Our methodology exploits the information in consumption and net exports to identify the persistence of productivity. We find that shocks to trend growth--- rather than transitory fluctuations around a stable trend ---are the primary source of fluctuations in emerging markets. The key features of emerging market business cycles are then shown to be consistent with this underlying income process in an otherwise standard equilibrium model.}, 
+        author = {Aguiar, Mark and Gita Gopinath},
+        url={https://doi.org/10.1086/511283}
         }",
         "PDF": "https://markaguiar.github.io/files/cycletrend.pdf",        
         "journal": "https://doi.org/10.1086/511283",
@@ -205,7 +212,8 @@
     	pages = {969-1006},
     	abstract = {
             In this paper, we use five decades of time-use surveys to document trends in the allocation of time within the United States. We find that a dramatic increase in leisure time lies behind the relatively stable number of market hours worked between 1965 and 2003. Specifically, using a variety of definitions for leisure, we show that leisure for men increased by roughly 6-9 hours per week (driven by a decline in market work hours) and for women by roughly 4-8 hours per week (driven by a decline in home production work hours). Lastly, we document a growing inequality in leisure that is the mirror image of the growing inequality of wages and expenditures, making welfare calculation based solely on the latter series incomplete.},
-    	author = {Aguiar, Mark and Erik Hurst}
+        author = {Aguiar, Mark and Erik Hurst},
+        url={https://doi.org/10.1162/qjec.122.3.969}
         }",
         "PDF": "https://markaguiar.github.io/files/leisuretrends.pdf",        
         "journal": "https://doi.org/10.1162/qjec.122.3.969",
@@ -263,7 +271,8 @@
             number={1},
             pages={1--31},
             year={2009},
-            publisher={Oxford University Press}
+            publisher={Oxford University Press},
+            url={https://doi.org/10.1111/j.1467-937X.2008.00523.x}
         }",
         "PDF": "https://markaguiar.github.io/files/cycle_overhang.pdf",
         "journal": "https://doi.org/10.1111/j.1467-937X.2008.00523.x"
@@ -284,7 +293,7 @@
             volume={99},
             number={2},
             year={2009},
-            publisher={JSTOR}
+            url={https://www.aeaweb.org/articles?id=10.1257/aer.99.2.473}
         }",
         "PDF": "https://markaguiar.github.io/files/exp_dynamics_published.pdf",
         "journal": "https://www.aeaweb.org/articles?id=10.1257/aer.99.2.473",
@@ -315,7 +324,8 @@
 	    organization = {American Enterprise Institute},
 	    address = {Washington, DC},
 	    url = {http://www.aei.org/book/society-and-culture/citizenship/the-increase-in-leisure-inequality-1965-2005-book/},
-	    author = {Aguiar, Mark and Hurst, Erik}
+        author = {Aguiar, Mark and Hurst, Erik},
+        url={https://www.aei.org/research-products/book/the-increase-in-leisure-inequality-1965-2005/}
         }",
         "PDF": "https://markaguiar.github.io/files/leisureinequality.pdf",
         "journal": "https://www.aei.org/research-products/book/the-increase-in-leisure-inequality-1965-2005/"
@@ -338,8 +348,9 @@
           number = {1},
           pages = {79--82},
           author = {Mark Aguiar},
-          title = {Discussion of Clayne Pope's 'Measuring the distribution of material well-being: US trends'},
-          journal = {Journal of Monetary Economics}
+          title = {Discussion of {Clayne Pope's ``Measuring the distribution of material well-being: US trends''}},
+          journal = {Journal of Monetary Economics},
+          url={https://doi.org/10.1016/j.jmoneco.2008.12.011}
          }", 
          "PDF": "https://markaguiar.github.io/files/CRNYUdiscussion2009.pdf", 
          "journal": "https://doi.org/10.1016/j.jmoneco.2008.12.011" 
@@ -354,11 +365,11 @@
         "year": "2010",
         "citation": "Aguiar, Mark (2010): \"Comment on Rong Qian, Carmen Reinhart, and Kenneth Rogoff 'On Graduation from Default, Inflation and Banking Crises: Elusive or Illusion,'\" *NBER Macroannual*, 2010.",
         "bibtex": "@conference {Aguiar2010,
-	    title = {Discussion of Rong Qian, Carmen Reinhart, and Kenneth Rogoff \"On Graduation from Default, Inflation and Banking Crises:  Elusive or Illusion\"},
+	    title = {Discussion of {Rong Qian, Carmen Reinhart, and Kenneth Rogoff ``On Graduation from Default, Inflation and Banking Crises:  Elusive or Illusion''}},
 	    booktitle = {NBER Macroannual},
 	    year = {2010},
-        author = {Aguiar, Mark}
-        }
+        author = {Aguiar, Mark},
+        url={https://doi.org/10.1086/657532}
         }",
         "PDF": "https://markaguiar.github.io/files/discussion.pdf",
         "journal":  "https://doi.org/10.1086/657532",
@@ -380,7 +391,8 @@
             number={2},
             pages={651--697},
             year={2011},
-            publisher={Oxford University Press}
+            publisher={Oxford University Press},
+            url={https://doi.org/10.1093/qje/qjr015}
         }",
         "PDF": "https://markaguiar.github.io/files/shadow_with_online_appendix.pdf",
         "journal":  "https://doi.org/10.1093/qje/qjr015",
@@ -408,7 +420,8 @@
 	    volume = {4},
 	    year = {2012},
 	    pages = {373-397},
-	    author = {Aguiar, Mark and Hurst, Erik and Karabarbounis, Loukas}
+        author = {Aguiar, Mark and Hurst, Erik and Karabarbounis, Loukas},
+        url={https://doi.org/10.1146/annurev-economics-111809-125129}
         }",
         "PDF": "https://markaguiar.github.io/files/timeuse.pdf",
         "journal":  "https://doi.org/10.1146/annurev-economics-111809-125129",
@@ -430,7 +443,8 @@
 	        year = {2013},
 	        pages = {1664-96},
 	        abstract = {Using data from the American Time Use Survey between 2003 and 2010, we document that home production absorbs roughly 30 percent of foregone market work hours at business cycle frequencies. Leisure absorbs roughly 50 percent of foregone market work hours, with sleeping and television watching accounting for most of this increase. We document significant increases in time spent on shopping, child care, education, and health. Job search absorbs between 2 and 6 percent of foregone market work hours. We discuss the implications of our results for business cycle models with home production and non-separable preferences.},
-        	author = {Aguiar, Mark and Erik Hurst and Loukas Karabarbounis}
+            author = {Aguiar, Mark and Erik Hurst and Loukas Karabarbounis},
+            url={http://dx.doi.org/10.1257/aer.103.5.1664}
         }",
         "PDF": "https://markaguiar.github.io/files/TUGR.pdf",
         "journal":  "http://dx.doi.org/10.1257/aer.103.5.1664",
@@ -453,12 +467,13 @@
         "permalink": "job-search",
         "year": "2013",
         "citation": "Aguiar, Mark and Erik Hurst and Loukas Karabarbounis (2013): \"The Life-Cycle Profile of Time Spent on Job Search.\" *American Economic Review: Papers and Proceedings*, 111-116.",
-        "bibtex": "@proceedings {AguiarHurstKarabarbounis2013,
+        "bibtex": "@article {AguiarHurstKarabarbounis2013,
 	        title = {The Life-Cycle Profile of Time Spent on Job Search},
 	        journal = {American Economic Review: Papers and Proceedings},
 	        year = {2013},
 	        pages = {111-116},
-            author = {Aguiar, Mark and Hurst, Erik and Karabarbounis, Loukas}
+            author = {Aguiar, Mark and Hurst, Erik and Karabarbounis, Loukas},
+            url={https://doi.org/10.1257/aer.103.3.111}
         }",
         "PDF": "https://markaguiar.github.io/files/jobsearch.pdf",
         "journal":  "https://doi.org/10.1257/aer.103.3.111",
@@ -481,8 +496,8 @@
 	        year = {2013},
 	        pages = {437-492},
 	        abstract = {In this paper we revisit two well-known facts regarding lifecycle expenditures. The first is the familiar \"hump\" shaped lifecycle profile of nondurable expenditures. The second is that cross-household consumption inequality increases steadily throughout the lifecycle. We document that the behavior of total nondurables masks surprising heterogeneity in the lifecycle profile of individual consumption sub-components. We provide evidence that the categories driving lifecycle consumption are either inputs into market work (clothing and transportation) or are amenable to home production (food).   Using a quantitative model, we document that the disaggregated lifecycle consumption profiles imply a level of uninsurable permanent income risk that is similar to that implied by wage data and substantially lower than that implied by a model using only a composite consumption good.},
-	        url = {https://www.dropbox.com/s/loynhyhfd9vvwqt/deconstructing.zip},
-	        author = {Aguiar, Mark and Hurst, Erik}
+            author = {Aguiar, Mark and Hurst, Erik},
+            url={https://doi.org/10.1086/670740}
          }",
         "other_links": [
             { 
@@ -513,7 +528,7 @@
         number = {1},
         pages = {63--65},
         author = {Mark Aguiar},
-        title = {Discussion of \"Capital mobility and international sharing of cyclical risk\"},
+        title = {Discussion of {``Capital mobility and international sharing of cyclical risk''}},
         journal = {Journal of Monetary Economics}
          }", 
          "PDF": "https://markaguiar.github.io/files/CRNYUdiscussion2013.pdf", 
@@ -534,7 +549,8 @@
             year = {2014},
             publisher = {North-Holland},
             pages = {647-87},
-            author = {Aguiar, Mark and Amador, Manuel}
+            author = {Aguiar, Mark and Amador, Manuel},
+            url={https://doi.org/10.1016/B978-0-444-54314-1.00011-2}
         }",
         "PDF": "https://markaguiar.github.io/files/sovereign_debt_handbook.pdf",
         "journal": "https://doi.org/10.1016/B978-0-444-54314-1.00011-2"
@@ -554,7 +570,8 @@
             journal={American Economic Review, Papers and Proceedings},
             year={2014},
             volume={104},
-            number={5}
+            number={5},
+            url={https://www.aeaweb.org/articles?id=10.1257/aer.104.5.101}
         }",
         "PDF": "https://markaguiar.github.io/files/sovereignbooms.pdf", 
         "journal": "https://www.aeaweb.org/articles?id=10.1257/aer.104.5.101", 
@@ -578,11 +595,12 @@
         	title = {Has Consumption Inequality Mirrored Income Inequality},
 	        journal = {American Economic Review},
             volume = {105},
-            number={9}
+            number={9},
 	        year = {2015},
         	pages = {2725-2756},
 	        abstract = {We revisit to what extent the increase in income inequality over the last 30 years has been mirrored by consumption inequality. We do so by constructing an alternative measure of consumption expenditure, using data from the Consumer Expenditure Survey (CE), that employs a demand system to correct for systematic measurement error. Specifically, we consider trends in the relative expenditure of high-income and low-income households for different goods with different expenditure elasticities. Our estimation exploits the difference in the growth rate of luxury consumption inequality versus necessity consumption inequality. This \"double-differencing,\" which we implement in a regression framework, corrects for mis-measurement that can systematically vary over time by good and income group. Our results show that consumption inequality has tracked income inequality much more closely than estimated by direct responses on expenditures.},
-        	author = {Aguiar, Mark and Bils, Mark}
+            author = {Aguiar, Mark and Bils, Mark},
+            url={https://doi.org/10.1257/aer.20120599}
         }",
         "PDF": "https://markaguiar.github.io/files/mirror.pdf", 
         "journal": "https://doi.org/10.1257/aer.20120599", 
@@ -615,7 +633,7 @@
             pages = {1727-1779},
             year = {2015},
             doi = {10.1093/qje/qjv022},
-            URL = {https://qje.oxfordjournals.org/content/130/4/1727.abstract},
+            URL = {https://doi.org/10.1093/qje/qjv022},
             journal = {The Quarterly Journal of Economics}
         }", 
         "PDF" : "https://markaguiar.github.io/files/coordination.pdf", 
@@ -667,7 +685,8 @@
 	        publisher = {Elsevier},
 	        organization = {Elsevier},
 	        abstract = {This chapter is on quantitative models of sovereign debt crises in emerging economies.  We interpret debt crises broadly to cover all of the major problems a country can experience while trying to issue new debt, including default, sharp increases in the spread and failed auctions.  We examine the spreads on sovereign debt of 20 emerging market economies since 1993 and document the extent to which fluctuations in spreads are driven by country-specific fundamentals, common latent factors and observed global factors. Our findings motivate quantitative models of debt and default with the following features: (i) trend stationary or stochastic growth, (ii) risk averse competitive lenders, (iii) a strategic repayment/borrowing decision, (iv) multi-period debt,  (v) a default penalty that includes both a reputation loss and a physical output loss and (vi) rollover defaults.   For the quantitative evaluation of the model, we focus on Mexico and carefully discuss the successes and weaknesses of various versions of the model.  We close with some thoughts on useful directions for future research.},
-	        author = {Aguiar, Mark and Chatterjee, Satyajit and Cole, Harold and Stangebye, Zachary}
+            author = {Aguiar, Mark and Chatterjee, Satyajit and Cole, Harold and Stangebye, Zachary},
+            url={https://doi.org/10.1016/bs.hesmac.2016.04.005}
         }", 
         "PDF": "https://markaguiar.github.io/files/accs_handbook.pdf", 
         "journal": "https://doi.org/10.1016/bs.hesmac.2016.04.005", 
@@ -689,7 +708,8 @@
 	        publisher = {Elsevier},
 	        organization = {Elsevier},
 	        abstract = {In this chapter we explore the macroeconomics of time allocation.  We begin with an overview of the trends in market hours in the US, both in the aggregate and for key sub-samples.  After introducing a Beckerian theoretical framework, the chapter then discusses key empirical patterns of time allocation, both in the time series (including business cycle properties) and over the lifecycle.  We focus on several core non-market activities, including home production, childcare, and leisure.  The chapter concludes with a discussion of why these patterns are important to macroeconomics and spells out directions for future research.},
-	        author = {Aguiar, Mark and Erik Hurst}
+            author = {Aguiar, Mark and Erik Hurst},
+            url={https://doi.org/10.1016/bs.hesmac.2016.06.004}
         }", 
         "PDF": "https://markaguiar.github.io/files/ah_handbook.pdf", 
         "journal": "https://doi.org/10.1016/bs.hesmac.2016.06.004", 
@@ -711,8 +731,9 @@
          volume = {85},
          pages = {110--113},
          author = {Mark Aguiar},
-         title = {Comment on: Bond finance,  bank credit,  and aggregate fluctuations in an open economy, by Roberto Chang,  Andres Fernandez,  Adam Gulan},
-         journal = {Journal of Monetary Economics}        
+         title = {Comment on: {Bond finance,  bank credit,  and aggregate fluctuations in an open economy, by Roberto Chang,  Andres Fernandez,  Adam Gulan}},
+         journal = {Journal of Monetary Economics},
+         url={https://doi.org/10.1016/j.jmoneco.2016.11.009}        
          }", 
          "PDF": "https://markaguiar.github.io/files/CRNYUdiscussion2017.pdf", 
          "journal": "https://doi.org/10.1016/j.jmoneco.2016.11.009" 
@@ -734,7 +755,8 @@
             Year = {2019},
             Volume = {87},
             Number = {2}, 
-            Pages = {423-462}
+            Pages = {423-462},
+            url={https://doi.org/10.3982/ECTA14806}
         }", 
         "PDF": "https://markaguiar.github.io/files/maturities.pdf", 
         "journal": "https://doi.org/10.3982/ECTA14806", 
@@ -766,7 +788,7 @@
             pages = {842-875},
             year = {2019},
             issn = {0022-0531},
-            doi = {https://doi.org/10.1016/j.jet.2019.08.005},
+            url = {https://doi.org/10.1016/j.jet.2019.08.005},
             author = {Aguiar, Mark and Amador, Manuel}
         }", 
         "PDF": "https://markaguiar.github.io/files/contraction.pdf", 
@@ -824,7 +846,7 @@
          Year = {2020},
          Month = {September},
          Pages = {2783-2818},
-         DOI = {10.1257/aer.20180831},
+         DOI = {https://doi.org/10.1257/aer.20180831},
          URL = {https://www.aeaweb.org/articles?id=10.1257/aer.20180831}
          }",
         "other_links": [
@@ -858,7 +880,9 @@
         "bibtex": "@article{ABCH,
             Author = {Aguiar, Mark and Mark Bils and Kerwin Kofi Charles and Erik Hurst},
             Journal = {Journal of Political Economy},
+            year={forthcoming},
             Title = {Leisure Luxuries and the Labor Supply of Young Men},
+            url={https://doi.org/10.1086/711916}
         }", 
         "PDF": "https://markaguiar.github.io/files/leisure_luxuries.pdf", 
         "journal": "https://doi.org/10.1086/711916", 
@@ -882,9 +906,19 @@
         "published": "wp", 
         "show_on_website": true,
         "permalink": "crisis_commitment",
-        "citation": "Aguiar, Mark, Manuel Amador, Gita Gopinath and Emmanuel Farhi (2013): \"Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises\".", 
+        "citation": "Aguiar, Mark, Manuel Amador,  Emmanuel Farhi, and Gita Gopinath (2013): \"Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises\".", 
         "abstract": "We propose a continuous time model of nominal debt and investigate the role of inflation credibility in the potential for self-fulfilling debt crises. Inflation is costly, but reduces the real value of outstanding debt without the full punishment of default. With high inflation credibility, which can be interpreted as joining a monetary union or issuing foreign currency debt, debt is effectively real. By contrast, with low inflation credibility, sovereign debt is nominal and in a debt crisis a government may opt to in- flate away a fraction of the debt burden rather than explicitly default. This flexibility potentially reduces the country’s exposure to self-fulfilling crises. On the other hand, the government lacks credibility not to inflate in the absence of crisis. This latter chan- nel raises the cost of debt in tranquil periods and makes default more attractive in the event of a crisis, increasing the country’s vulnerability. We characterize the interaction of these two forces. We show that there is an intermediate inflation credibility that minimizes the country’s exposure to rollover risk. Low inflation credibility brings the worst of both worlds—high inflation in tranquil periods and increased vulnerability to a crisis.", 
-        "PDF": "https://markaguiar.github.io/files/crises.pdf"
+        "PDF": "https://markaguiar.github.io/files/crises.pdf",
+        "bibtex": "@article {AAFG2013,
+	        title = {Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises},
+	        year = {2013},
+            journal={Working Paper},
+	        abstract = {We propose a continuous time model of nominal debt and investigate the role of inflation credibility in the potential for self-fulfilling debt crises. Inflation is costly, but reduces the real value of outstanding debt without the full punishment of default. With high inflation credibility, which can be interpreted as joining a monetary union or issuing foreign currency debt, debt is effectively real. By contrast, with low inflation credibility, sovereign debt is nominal and in a debt crisis a government may opt to in- flate away a fraction of the debt burden rather than explicitly default. This flexibility potentially reduces the country’s exposure to self-fulfilling crises. On the other hand, the government lacks credibility not to inflate in the absence of crisis. This latter chan- nel raises the cost of debt in tranquil periods and makes default more attractive in the event of a crisis, increasing the country’s vulnerability. We characterize the interaction of these two forces. We show that there is an intermediate inflation credibility that minimizes the country’s exposure to rollover risk. Low inflation credibility brings the worst of both worlds—high inflation in tranquil periods and increased vulnerability to a crisis.},
+            author = {Aguiar, Mark and Manuel Amador and Emmanuel Farhi and Gita Gopinath},
+            type    = {Working Paper},
+            url={https://markaguiar.github.io/files/crises.pdf}
+        }", 
+
     },
 
         {
@@ -895,11 +929,14 @@
         "year": "2019", 
         "citation": "Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2019): \"Self-Fulfilling Debt Crises, Revisited.\"",
         "abstract": "We revisit self-fulfilling rollover crises by exploring the potential uncertainty introduced by a gap (however small) between an auction of new debt and the payment of maturing liabilities. It is well known (Cole and Kehoe, 2000) that the lack of commitment at the time of auction to repayment of imminently maturing debt can generate a run on debt, leading to a failed auction and immediate default. We show the same lack of commitment leads to a rich set of possible self-fulfilling crises, including a government that issues more debt because of the crisis, albeit at depressed prices. Another possible outcome is a “sudden stop” (or forced austerity) in which the government sharply curtails debt issuance. Both outcomes stem from the government’s incentive to eliminate uncertainty about imminent payments at the time of auction by altering the level of debt issuance. In an otherwise standard quantitative version of the model, including such crises increase the default probabilities by a factor of five and the spread volatility by a factor of twenty-five.",
-        "bibtex": "@workingpaper {ACCS2019,
+        "bibtex": "@article {ACCS2019,
 	        title = {Self-Fulfilling Debt Crises, Revisited},
 	        year = {2019},
+            journal={Working Paper},
 	        abstract = {We revisit self-fulfilling rollover crises by exploring the potential uncertainty introduced by a gap (however small) between an auction of new debt and the payment of maturing liabilities. It is well known (Cole and Kehoe, 2000) that the lack of commitment at the time of auction to repayment of imminently maturing debt can generate a run on debt, leading to a failed auction and immediate default. We show the same lack of commitment leads to a rich set of possible self-fulfilling crises, including a government that issues more debt because of the crisis, albeit at depressed prices. Another possible outcome is a “sudden stop” (or forced austerity) in which the government sharply curtails debt issuance. Both outcomes stem from the government’s incentive to eliminate uncertainty about imminent payments at the time of auction by altering the level of debt issuance. In an otherwise standard quantitative version of the model, including such crises increase the default probabilities by a factor of five and the spread volatility by a factor of twenty-five.},
-	        author = {Aguiar, Mark and Chatterjee, Satyajit and Cole, Harold and Stangebye, Zachary}
+            author = {Aguiar, Mark and Chatterjee, Satyajit and Cole, Harold and Stangebye, Zachary},
+            type    = {Working Paper},
+            url={https://markaguiar.github.io/files/self_fulfilling.pdf}
         }", 
         "PDF": "https://markaguiar.github.io/files/self_fulfilling.pdf" 
 },
@@ -912,11 +949,14 @@
         "year": "2020", 
         "citation": "Aguiar, Mark, Mark Bils and Corina Boar (2020): \"Who are the Hand-to-Mouth?\"",
         "abstract": "Many households hold little wealth, especially liquid wealth. In precautionary sav- ings models, absent preference heterogeneity, these households should display not only higher marginal propensities to consume (MPC’s), but also lower average propensities to consume (APC’s) and higher future consumption growth. We see from the PSID that such “hand-to-mouth” households actually display higher APCs and no faster spending growth. They also adjust spending to a greater extent through the num- ber of categories consumed. Consistent with a role for preference heterogeneity, the panel data show that it is propensity to be hand-to-mouth, not current assets, that predicts high APC, low consumption growth, and other spending differences for the hand-to-mouth. To identify the role of preference heterogeneity, we consider the model of Kaplan and Violante (2014) with both liquid and illiquid assets, but allow hetero- geneity in preferences. To match the data, the vast majority of poor hand-to-mouth must be impatient and have high IES. The richer, but illiquid, hand-to-mouth are dis- proportionately high IES, though not impatient. Thus a high IES is a key determinant of assets for households typically viewed as hand-to-mouth. The model additionally shows that preferences play a prominent role in differences in MPC’s across consumers.",
-        "bibtex": "@workingpaper {ABB2020,
+        "bibtex": "@article {ABB2020,
 	        title = {Who are the Hand-to-Mouth?},
-	        year = {2020},
+            year = {2020},
+            journal={Working Paper},
 	        abstract = {Many households hold little wealth, especially liquid wealth. In precautionary sav- ings models, absent preference heterogeneity, these households should display not only higher marginal propensities to consume (MPC’s), but also lower average propensities to consume (APC’s) and higher future consumption growth. We see from the PSID that such “hand-to-mouth” households actually display higher APCs and no faster spending growth. They also adjust spending to a greater extent through the num- ber of categories consumed. Consistent with a role for preference heterogeneity, the panel data show that it is propensity to be hand-to-mouth, not current assets, that predicts high APC, low consumption growth, and other spending differences for the hand-to-mouth. To identify the role of preference heterogeneity, we consider the model of Kaplan and Violante (2014) with both liquid and illiquid assets, but allow hetero- geneity in preferences. To match the data, the vast majority of poor hand-to-mouth must be impatient and have high IES. The richer, but illiquid, hand-to-mouth are dis- proportionately high IES, though not impatient. Thus a high IES is a key determinant of assets for households typically viewed as hand-to-mouth. The model additionally shows that preferences play a prominent role in differences in MPC’s across consumers.},
-	        author = {Aguiar, Mark and Bils, Mark, and Boar, Corina}
+            author = {Aguiar, Mark and Mark Bils and Boar, Corina},
+            
+            url={https://markaguiar.github.io/files/h2m.pdf}
         }", 
         "PDF": "https://markaguiar.github.io/files/h2m.pdf" 
 } 

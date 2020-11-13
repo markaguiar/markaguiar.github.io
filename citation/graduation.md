@@ -16,9 +16,9 @@ Aguiar, Mark (2010): "Comment on Rong Qian, Carmen Reinhart, and Kenneth Rogoff 
 BibTeX Cite:
 
 	@conference {Aguiar2010,
-		title = {Discussion of Rong Qian, Carmen Reinhart, and Kenneth Rogoff "On Graduation from Default, Inflation and Banking Crises:  Elusive or Illusion"},
+		title = {Discussion of {Rong Qian, Carmen Reinhart, and Kenneth Rogoff ``On Graduation from Default, Inflation and Banking Crises:  Elusive or Illusion''}},
 		booktitle = {NBER Macroannual},
 		year = {2010},
-		author = {Aguiar, Mark}
-		}
+		author = {Aguiar, Mark},
+		url={https://doi.org/10.1086/657532}
 		}

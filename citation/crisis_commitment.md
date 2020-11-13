@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/crises.pdf)
 #### Citation
 
-Aguiar, Mark, Manuel Amador, Gita Gopinath and Emmanuel Farhi (2013): "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises".
+Aguiar, Mark, Manuel Amador,  Emmanuel Farhi, and Gita Gopinath (2013): "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises".
 
 #### Abstract
 

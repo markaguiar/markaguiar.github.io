@@ -2,9 +2,11 @@
 layout: single
 author_profile: false
 title: Mark Aguiar
-canonical_url: "https://markaguiar.github.io/cv"
+canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2020-11-11* 
+*updated on 2020-11-13* 
+
+[PDF Version](cv.pdf)    
 
 [maguiar@princeton.edu](mailto:maguiar@princeton.edu)    
 [http://markaguiar.com](http://markaguiar.com)  
@@ -175,7 +177,7 @@ of the Federal Reserve System, 1998
 
 - Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2019): "Self-Fulfilling Debt Crises, Revisited."
 
-- Aguiar, Mark, Manuel Amador, Gita Gopinath and Emmanuel Farhi (2013): "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises".
+- Aguiar, Mark, Manuel Amador,  Emmanuel Farhi, and Gita Gopinath (2013): "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises".
 
 ## Service
 

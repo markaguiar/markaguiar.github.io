@@ -1,0 +1,171 @@
+\documentclass[12pt]{article}
+\usepackage{fancyhdr}
+%\pagestyle{fancy}
+\usepackage[hidelinks]{hyperref}
+\usepackage[top=2cm]{geometry}
+\usepackage{afterpage}
+\usepackage{enumitem}
+
+\usepackage[resetlabels]{multibib}
+\newcites{wp,pub,conf,disc}{Working Ppapers, Refereed Journal Articles, Conference Publications, Published Discussions}
+
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{thebibliography}{%
+  \let\origsection\section% save the original definition of \section
+  \let\section\subsubsection%  make \section behave like \subsection
+}
+\AfterEndEnvironment{thebibliography}{%
+  \let\section\origsection% restore the original definition of \section
+}
+
+
+\fancypagestyle{firstpage}{\fancyhf{}
+\chead{\raisebox{5\height}{\textbf {\large Mark Aguiar}}}
+    \fancyhead[L]{Department of Economics \\                                                           Princeton University\\
+    Princeton, NJ 08544
+    }
+    \fancyhead[R]{
+        \href{mailto:maguiar@princeton.edu}{maguiar@princeton.edu}  \\
+    \url{www.markaguiar.com}}}
+
+\renewcommand\labelitemi{---}
+
+\begin{document}
+\thispagestyle{firstpage}
+\vspace*{2\baselineskip}
+ \afterpage{\aftergroup\restoregeometry}
+
+\subsection*{Employment}
+
+\begin{itemize}[left=0pt .. \parindent, label=]
+\item Walker Professor of Economics and International Finance, Princeton
+University, 2015-present
+
+\item Professor of Economics, Princeton University, 2011-2015
+
+\item Professor of Economics, University of Rochester, 2009-2011
+
+\item Associate Professor of Economics (with tenure), University of Rochester,
+2006-2009
+
+\item Federal Reserve Bank of Boston, Senior Economist, 2004-2006
+
+\item Visiting Assistant Professor of Economics, Massachusetts Institute of
+Technology, Spring 2005 and Spring 2006 
+
+\item Visiting Assistant Professor of Economics, Indian School of Business,
+Summer 2004
+
+\item University of Chicago, GSB, Assistant Professor of Economics, 1999-2004
+
+\item Department of State, Foreign Service Officer, 1989-1995. Represented the
+United States in embassies in Seoul, Korea, and Beijing, China, as well
+as served in the Office of Japanese Affairs in Washington, DC.
+
+\end{itemize}
+
+\subsection*{Education}
+
+\begin{itemize}[left=0pt .. \parindent, label=]
+\item Ph.D., Massachusetts Institute of Technology, Economics, 1999.
+
+\item B.A., Brown University, *magna cum laude* and with honors in History and
+Chinese, 1988.
+
+\item Non-degree: Nankai University, Tianjin, China, 1987, semester of Chinese
+language.
+
+\item Foreign Service Institute, Chinese and Korean languages.
+\end{itemize}
+
+\subsection*{Professional Activities and Awards}
+
+\begin{itemize}[left=0pt .. \parindent, label=]
+\item Co-editor, \textit{American Economic Review}, (2014-2017)
+
+\item Fellow of the Econometric Society
+
+\item National Bureau of Economic Research, Research Associate (EFG and IFM)
+
+\item Board of Editors, \textit{American Economic Review} (2012-2013)
+
+\item Associate Editor, \textit{Review of Economic Dynamics} (2008-2011)
+
+\item Board of Editors, \textit{American Economic Journal: Macroeconomics}
+(2007-2011)
+
+\item Advisory Board, Carnegie-NYU-Rochester Conference on Public Policy
+(2010-present)
+
+\item NBER Macroeconomics Annual Advisory Board (2019-present)
+
+\item International Growth Centre Grant for "The Political Economic of
+Sovereign Debt Overhang."
+
+\item Social Security Administration Research Grant for ``Time, Expenditure,
+and Retirement Decisions''
+
+\item TIAA-CREF Paul A. Samuelson Award 2006
+
+\item Sloan Foundation Doctoral Dissertation Fellowship, 1998-1999.
+
+\item Research Fellowship, International Finance Division, Board of Governors of the Federal Reserve System, 1998
+
+\item Truman Scholar, 1987-88, 1995-96.
+
+\end{itemize}
+ 
+
+\subsection*{Publications}
+
+ \bibliographystylepub{plainyr}
+ \nocitepub{*}
+ \bibliographypub{ref_pub}
+
+ \bibliographystyleconf{plainyr}
+ \nociteconf{*}
+ \bibliographyconf{ref_conf}
+
+ \bibliographystyledisc{plainyr}
+ \nocitedisc{*}
+ \bibliographydisc{ref_disc}
+
+ \bibliographystylewp{plainyr}
+ \nocitewp{*}
+ \bibliographywp{ref_wp}
+
+ \subsection*{Service}
+
+ \begin{itemize}[left=0pt .. \parindent, label=]
+
+\item Program Committee Co-Chair for Society of Economic Dynamics Annual
+ Meeting, 2010, Montreal.
+
+ \item Co-Organizer, Stanford Institute for Theoretical Economics Sovereign
+ Debt Conference, 2012
+ 
+ \item Co-Organizer, NBER Macroeconomics Within and Across Borders,
+ 2012-present
+ 
+ \item Co-Organizer, NBER International Finance and Macroeconomics,
+ Fall 2020
+  
+ \item Scientific Commitee, ADEMU 2020 workshop
+
+      
+ \item Referee: American Economic Review, Canadian Journal of Economics,
+ Econometrica, Economic Journal, International Economic Review, Journal
+ of Development Economics, Journal of Economic Dynamics and Control,
+ Journal of Economic Growth, Journal of the European Economic
+ Association, Journal of Finance, Journal of Human Resources, Journal of
+ International Economics, Journal of International Money and Finance,
+ Journal of Law and Economics, Journal of Monetary Economics, Journal of
+ Political Economy, Journal of Population Economics, Journal of Public
+ Economics, National Science Foundation, Quarterly Journal of Economics,
+ Review of Economic Dynamics, Review of Economics and Statistics, Review
+ of Financial Studies.
+ 
+\end{itemize}
+
+
+\end{document}

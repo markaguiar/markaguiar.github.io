@@ -15,10 +15,11 @@ Aguiar, Mark and Erik Hurst and Loukas Karabarbounis (2013): "The Life-Cycle Pro
 
 BibTeX Cite:
 
-	@proceedings {AguiarHurstKarabarbounis2013,
+	@article {AguiarHurstKarabarbounis2013,
 		title = {The Life-Cycle Profile of Time Spent on Job Search},
 		journal = {American Economic Review: Papers and Proceedings},
 		year = {2013},
 		pages = {111-116},
-		author = {Aguiar, Mark and Hurst, Erik and Karabarbounis, Loukas}
+		author = {Aguiar, Mark and Hurst, Erik and Karabarbounis, Loukas},
+		url={https://doi.org/10.1257/aer.103.3.111}
 		}

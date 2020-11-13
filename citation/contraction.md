@@ -24,6 +24,6 @@ BibTeX Cite:
 		pages = {842-875},
 		year = {2019},
 		issn = {0022-0531},
-		doi = {https://doi.org/10.1016/j.jet.2019.08.005},
+		url = {https://doi.org/10.1016/j.jet.2019.08.005},
 		author = {Aguiar, Mark and Amador, Manuel}
 		}

@@ -23,5 +23,6 @@ BibTeX Cite:
 		journal={American Economic Review, Papers and Proceedings},
 		year={2014},
 		volume={104},
-		number={5}
+		number={5},
+		url={https://www.aeaweb.org/articles?id=10.1257/aer.104.5.101}
 		}

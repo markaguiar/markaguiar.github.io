@@ -25,6 +25,6 @@ BibTeX Cite:
 		pages = {1727-1779},
 		year = {2015},
 		doi = {10.1093/qje/qjv022},
-		URL = {https://qje.oxfordjournals.org/content/130/4/1727.abstract},
+		URL = {https://doi.org/10.1093/qje/qjv022},
 		journal = {The Quarterly Journal of Economics}
 		}

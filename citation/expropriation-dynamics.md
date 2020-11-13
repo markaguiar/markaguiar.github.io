@@ -23,5 +23,5 @@ BibTeX Cite:
 		volume={99},
 		number={2},
 		year={2009},
-		publisher={JSTOR}
+		url={https://www.aeaweb.org/articles?id=10.1257/aer.99.2.473}
 		}

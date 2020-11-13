@@ -21,5 +21,6 @@ BibTeX Cite:
 		volume = {4},
 		year = {2012},
 		pages = {373-397},
-		author = {Aguiar, Mark and Hurst, Erik and Karabarbounis, Loukas}
+		author = {Aguiar, Mark and Hurst, Erik and Karabarbounis, Loukas},
+		url={https://doi.org/10.1146/annurev-economics-111809-125129}
 		}

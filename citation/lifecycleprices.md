@@ -25,5 +25,6 @@ BibTeX Cite:
 		year = {2007},
 		pages = {1533-1559},
 		abstract = {We use scanner data and time diaries to document how households substitute time for money through shopping and home production. We document substantial heterogeneity in prices paid for identical goods for the same area and time, with older households shopping the most and paying the lowest prices.  Doubling shopping frequency lowers a good{	extquoteright}s price by 7 to 10 percent. We estimate the shopper{	extquoteright}s  price of time and use this series to estimate an elasticity of substitution between time and goods in home production of roughly 1.8. The observed life-cycle time allocation implies a consumption series that differs markedly from expenditures.  },
-		author = {Aguiar, Mark and Hurst, Erik}}
+		author = {Aguiar, Mark and Hurst, Erik},
+		url={https://doi.org/10.1257/aer.97.5.1533}
 		}

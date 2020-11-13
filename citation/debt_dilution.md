@@ -26,6 +26,6 @@ BibTeX Cite:
 		Year = {2020},
 		Month = {September},
 		Pages = {2783-2818},
-		DOI = {10.1257/aer.20180831},
+		DOI = {https://doi.org/10.1257/aer.20180831},
 		URL = {https://www.aeaweb.org/articles?id=10.1257/aer.20180831}
 		}

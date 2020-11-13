@@ -20,5 +20,7 @@ BibTeX Cite:
 	@article{ABCH,
 		Author = {Aguiar, Mark and Mark Bils and Kerwin Kofi Charles and Erik Hurst},
 		Journal = {Journal of Political Economy},
+		year={forthcoming},
 		Title = {Leisure Luxuries and the Labor Supply of Young Men},
+		url={https://doi.org/10.1086/711916}
 		}

@@ -1,3 +1,5 @@
+[PDF Version](cv.pdf)    
+
 [maguiar@princeton.edu](mailto:maguiar@princeton.edu)    
 [http://markaguiar.com](http://markaguiar.com)  
 
