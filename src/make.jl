@@ -1,6 +1,7 @@
 using YAML
 using Dates
 
+
 cd("$(homedir())/Dropbox/Webpage/markaguiar.github.io/src/")
 
 src_dir = "."
@@ -303,9 +304,10 @@ end
 @info "Done with Bibtex files"
 
 @info "compile CV to pdf"
-
+ 
 run(`pdflatex cv`)
 run(`bibtex pub`)
+run(`bibtex hb`)
 run(`bibtex conf`)
 run(`bibtex disc`)
 run(`bibtex wp`)
@@ -314,4 +316,11 @@ run(`pdflatex cv`)
 
 run(`cp cv.pdf ../CV/`)
 
+run(`rm pub.aux hb.aux conf.aux disc.aux wp.aux 
+pub.blg hb.blg conf.blg disc.blg wp.blg
+pub.bbl hb.bbl conf.bbl disc.bbl wp.bbl
+cv.log cv.out cv.fdb_latexmk`)
+
+
 @info "done with compile CV to pdf"
+  

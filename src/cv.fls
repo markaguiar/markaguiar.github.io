@@ -57,6 +57,9 @@ OUTPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/conf.aux
 INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/disc.aux
 INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/disc.aux
 OUTPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/disc.aux
+INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/hb.aux
+INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/hb.aux
+OUTPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/hb.aux
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/cv.aux
@@ -90,6 +93,8 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/pub.bbl
 INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/pub.bbl
+INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/hb.bbl
+INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/hb.bbl
 INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/conf.bbl
 INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/conf.bbl
 INPUT /Users/maguiar/Dropbox/Webpage/markaguiar.github.io/src/disc.bbl
