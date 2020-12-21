@@ -106,6 +106,8 @@ open(joinpath(root_dir, "index.md"), "w") do io
             write(io, "\n\n")
         end
     end
+
+
     write(io, "\n\n")
     write(io, "## Conference Volumes\n\n")
 #    write(io, "[BibTeX file](http://markaguiar.github.io/files/ref.bib)\n\n")
@@ -131,6 +133,32 @@ open(joinpath(root_dir, "index.md"), "w") do io
             write(io, "\n\n")
         end
     end
+
+    write(io, "\n\n")
+    write(io, "## Other Publications\n\n")
+
+    for p in papers
+        if p["published"]=="other" && p["show_on_website"]
+            write(io, "* " * link_str(p["title"],  permalink(p["permalink"]), post="\n\n"))
+            write(io, "    " * p["citation"] * "\n")
+            lst = String[]
+            push!(lst, link_str("PDF", p["PDF"]))
+            push!(lst, link_str("Journal link", p["journal"]))
+            if haskey(p, "other_links")
+                for l in p["other_links"]
+                    s = link_str(l["link_text"], l["url"])
+                    if haskey(l, "extra")
+                        s = s * " $(l["extra"])"
+                    end 
+                    push!(lst, s)
+                end
+            end 
+            push!(lst, link_str("BibTeX and abstract", permalink(p["permalink"])))
+            join(io, lst, " -- ")
+            write(io, "\n\n")
+        end
+    end
+
 
     write(io, "\n\n")
     write(io, "## Published Discussions\n\n")
@@ -242,6 +270,12 @@ open(joinpath(root_dir, "CV/index.md"), "w") do io
             write(io, "- " * p["citation"] * "\n\n")
         end
     end
+    write(io, "## Miscellaneous Publications\n\n")
+    for p in papers
+        if   p["published"]=="other"
+            write(io, "- " * p["citation"] * "\n\n")
+        end
+    end
     write(io, "## Published Discussions\n\n")
     for p in papers
         if   p["published"]=="discussion"
@@ -285,6 +319,13 @@ open("ref_HB.bib", "w") do io
         end
     end
 end
+open( "ref_other.bib", "w") do io
+    for p in papers
+        if   p["published"]=="other"
+            write(io, p["bibtex"]* "\n\n")
+        end
+    end
+end 
 open("ref_disc.bib", "w") do io
     for p in papers
         if   p["published"]=="discussion"
@@ -300,7 +341,8 @@ open( "ref_wp.bib", "w") do io
     end
 end 
  
- 
+
+
 @info "Done with Bibtex files"
 
 @info "compile CV to pdf"
@@ -309,6 +351,7 @@ run(`pdflatex cv`)
 run(`bibtex pub`)
 run(`bibtex hb`)
 run(`bibtex conf`)
+run(`bibtex other`)
 run(`bibtex disc`)
 run(`bibtex wp`)
 run(`pdflatex cv`)
@@ -322,3 +365,4 @@ for x in [".aux",".blg",".bbl",".out",".log",".fls","latexmk"]
 end
 
 @info "done with compile CV to pdf"
+

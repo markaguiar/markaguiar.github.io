@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2020-11-13* 
+*updated on 2020-12-21* 
 
 [PDF Version](cv.pdf)    
 
@@ -121,11 +121,7 @@ of the Federal Reserve System, 1998
 
 - Aguiar, Mark, and Manuel Amador (2011): "Growth in the Shadow of Expropriation," *The Quarterly Journal of Economics*, 126(2): 651-697.
 
-- Aguiar, Mark and Erik Hurst (2009): *The Increase in Leisure Inequality: 1965-2005*, Washington, DC: American Enterprise Institute, 2009.
-
 - Aguiar, Mark, Manuel Amador, and Gita Gopinath (2009): "Investment Cycles and Sovereign Debt Overhang," *Review of Economic Studies*, 76(1): 1-31.
-
-- Aguiar, Mark and Erik Hurst (2008): "Permanent Income Hypothesis," *New Palgrave Dictionary of Economics*, Palgrave Macmillan, 2008 (online 2016).
 
 - Aguiar, Mark and Erik Hurst (2007): "Measuring Trends in Leisure: The Allocation of Time Over Five Decades," *Quarterly Journal of Economics*, 122(3): 969-1006.
 
@@ -160,6 +156,12 @@ of the Federal Reserve System, 1998
 - Aguiar, Mark, Manuel Amador, and Gita Gopinath (2009): "Expropriation Dynamics," *American Economic Review: Papers and Proceedings*, 99(2): 473-479.
 
 - Aguiar, Mark and Gita Gopinath (2006): "Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks," Tenth Annual Conference on the Central Bank of Chile: Current Account and External Financing
+
+## Miscellaneous Publications
+
+- Aguiar, Mark and Erik Hurst (2009): *The Increase in Leisure Inequality: 1965-2005*, Washington, DC: American Enterprise Institute, 2009.
+
+- Aguiar, Mark and Erik Hurst (2008): "Permanent Income Hypothesis," *New Palgrave Dictionary of Economics*, Palgrave Macmillan, 2008 (online 2016).
 
 ## Published Discussions
 

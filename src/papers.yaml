@@ -232,7 +232,7 @@
     },
     {
         "title": "Permanent Income Hypothesis",
-        "published": "journal", 
+        "published": "other", 
         "show_on_website": true,
         "permalink": "pih",
         "year": "2008",
@@ -307,7 +307,7 @@
 
     {
         "title": "The Increase in Leisure Inequality: 1965-2005",
-        "published": "journal", 
+        "published": "other", 
         "show_on_website": true,
         "permalink": "leisure-inequality",
         "year": "2009",

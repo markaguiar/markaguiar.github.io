@@ -84,20 +84,10 @@ canonical_url: "https://markaguiar.github.io/"
     Aguiar, Mark, and Manuel Amador (2011): "Growth in the Shadow of Expropriation," *The Quarterly Journal of Economics*, 126(2): 651-697.
 [PDF](https://markaguiar.github.io/files/shadow_with_online_appendix.pdf) -- [Journal link](https://doi.org/10.1093/qje/qjr015) -- [Online Appendix](https://markaguiar.github.io/files/shadow_appendix.pdf) -- [Code](https://github.com/manuelamador/Shadow_QJE_2011) -- [BibTeX and abstract](/citation/growth-in-the-shadow-of-expropriation)
 
-* [The Increase in Leisure Inequality: 1965-2005](/citation/leisure-inequality)
-
-    Aguiar, Mark and Erik Hurst (2009): *The Increase in Leisure Inequality: 1965-2005*, Washington, DC: American Enterprise Institute, 2009.
-[PDF](https://markaguiar.github.io/files/leisureinequality.pdf) -- [Journal link](https://www.aei.org/research-products/book/the-increase-in-leisure-inequality-1965-2005/) -- [BibTeX and abstract](/citation/leisure-inequality)
-
 * [Investment Cycles and Sovereign Debt Overhang](/citation/investment-cycles-and-sovereign-debt-overhang)
 
     Aguiar, Mark, Manuel Amador, and Gita Gopinath (2009): "Investment Cycles and Sovereign Debt Overhang," *Review of Economic Studies*, 76(1): 1-31.
 [PDF](https://markaguiar.github.io/files/cycle_overhang.pdf) -- [Journal link](https://doi.org/10.1111/j.1467-937X.2008.00523.x) -- [BibTeX and abstract](/citation/investment-cycles-and-sovereign-debt-overhang)
-
-* [Permanent Income Hypothesis](/citation/pih)
-
-    Aguiar, Mark and Erik Hurst (2008): "Permanent Income Hypothesis," *New Palgrave Dictionary of Economics*, Palgrave Macmillan, 2008 (online 2016).
-[PDF](https://markaguiar.github.io/files/pih.pdf) -- [Journal link]( https://doi.org/10.1057/978-1-349-95121-5_2801-1) -- [BibTeX and abstract](/citation/pih)
 
 * [Measuring Trends in Leisure: The Allocation of Time Over Five Decades](/citation/leisuretrends)
 
@@ -181,6 +171,20 @@ canonical_url: "https://markaguiar.github.io/"
 
     Aguiar, Mark and Gita Gopinath (2006): "Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks," Tenth Annual Conference on the Central Bank of Chile: Current Account and External Financing
 [PDF](https://markaguiar.github.io/files/cit_chile.pdf) -- [Journal link](https://markaguiar.github.io/files/cit_chile.pdf) -- [BibTeX and abstract](/citation/rateshocks)
+
+
+
+## Other Publications
+
+* [The Increase in Leisure Inequality: 1965-2005](/citation/leisure-inequality)
+
+    Aguiar, Mark and Erik Hurst (2009): *The Increase in Leisure Inequality: 1965-2005*, Washington, DC: American Enterprise Institute, 2009.
+[PDF](https://markaguiar.github.io/files/leisureinequality.pdf) -- [Journal link](https://www.aei.org/research-products/book/the-increase-in-leisure-inequality-1965-2005/) -- [BibTeX and abstract](/citation/leisure-inequality)
+
+* [Permanent Income Hypothesis](/citation/pih)
+
+    Aguiar, Mark and Erik Hurst (2008): "Permanent Income Hypothesis," *New Palgrave Dictionary of Economics*, Palgrave Macmillan, 2008 (online 2016).
+[PDF](https://markaguiar.github.io/files/pih.pdf) -- [Journal link]( https://doi.org/10.1057/978-1-349-95121-5_2801-1) -- [BibTeX and abstract](/citation/pih)
 
 
 
