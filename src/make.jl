@@ -2,7 +2,7 @@ using YAML
 using Dates
 
 
-cd("$(homedir())/Dropbox/Webpage/markaguiar.github.io/src/")
+cd("$(homedir())/Github/markaguiar.github.io/src/")
 
 src_dir = "."
 root_dir = ".."

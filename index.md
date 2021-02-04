@@ -92,7 +92,7 @@ canonical_url: "https://markaguiar.github.io/"
 * [Measuring Trends in Leisure: The Allocation of Time Over Five Decades](/citation/leisuretrends)
 
     Aguiar, Mark and Erik Hurst (2007): "Measuring Trends in Leisure: The Allocation of Time Over Five Decades," *Quarterly Journal of Economics*, 122(3): 969-1006.
-[PDF](https://markaguiar.github.io/files/leisuretrends.pdf) -- [Journal link](https://doi.org/10.1162/qjec.122.3.969) -- [Online appendix](https://markaguiar.github.io/files/robustness_appendix.pdf) -- [Data](http://www.markaguiar.com/papers/timeuse_data/datapage.html) -- [BibTeX and abstract](/citation/leisuretrends)
+[PDF](https://markaguiar.github.io/files/leisuretrends.pdf) -- [Journal link](https://doi.org/10.1162/qjec.122.3.969) -- [Online appendix](https://markaguiar.github.io/files/robustness_appendix.pdf) -- [Data](https://www.dropbox.com/sh/b04u7ozavk30a6y/AADQJh-IX8WCrcTnj2yHQ02Oa?dl=0) -- [BibTeX and abstract](/citation/leisuretrends)
 
 * [Emerging Market Business Cycles:  The Cycle is the Trend](/citation/cycletrend)
 
