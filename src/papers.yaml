@@ -880,7 +880,12 @@
         "bibtex": "@article{ABCH,
             Author = {Aguiar, Mark and Mark Bils and Kerwin Kofi Charles and Erik Hurst},
             Journal = {Journal of Political Economy},
-            year={forthcoming},
+            year = {2021},
+            month = feb,
+            publisher = {University of Chicago Press},
+            volume = {129},
+            number = {2},
+            pages = {337--382},
             Title = {Leisure Luxuries and the Labor Supply of Young Men},
             url={https://doi.org/10.1086/711916}
         }", 
