@@ -97,7 +97,7 @@ of the Federal Reserve System, 1998
 
 ## Journal Publications
 
-- Aguiar, Mark, Mark Bils, Kerwin Kofi Charles, and Erik Hurst  (forthcoming): "Leisure Luxuries and the Labor Supply of Young Men," *Journal of Political Economy*.
+- Aguiar, Mark, Mark Bils, Kerwin Kofi Charles, and Erik Hurst  (2021): "Leisure Luxuries and the Labor Supply of Young Men," *Journal of Political Economy*.
 
 - Aguiar, Mark and Manuel Amador (2020): "Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models," *American Economic Review*, 110 (9): 2783-2818.
 

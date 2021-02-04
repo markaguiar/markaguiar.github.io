@@ -26,7 +26,7 @@ canonical_url: "https://markaguiar.github.io/"
 
 * [Leisure Luxuries and the Labor Supply of Young Men](/citation/leisure-luxuries)
 
-    Aguiar, Mark, Mark Bils, Kerwin Kofi Charles, and Erik Hurst  (forthcoming): "Leisure Luxuries and the Labor Supply of Young Men," *Journal of Political Economy*.
+    Aguiar, Mark, Mark Bils, Kerwin Kofi Charles, and Erik Hurst  (2021): "Leisure Luxuries and the Labor Supply of Young Men," *Journal of Political Economy*.
 [PDF](https://markaguiar.github.io/files/leisure_luxuries.pdf) -- [Journal link](https://doi.org/10.1086/711916) -- [Data and Programs](https://www.dropbox.com/s/pllk3ulaulsjgul/Data_and_Programs.zip?dl=0) -- [BibTeX and abstract](/citation/leisure-luxuries)
 
 * [Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models](/citation/debt_dilution)

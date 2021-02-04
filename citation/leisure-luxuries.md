@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/leisure_luxuries.pdf) -- [Journal link](https://doi.org/10.1086/711916) -- [Data and Programs](https://www.dropbox.com/s/pllk3ulaulsjgul/Data_and_Programs.zip?dl=0)
 #### Citation
 
-Aguiar, Mark, Mark Bils, Kerwin Kofi Charles, and Erik Hurst  (forthcoming): "Leisure Luxuries and the Labor Supply of Young Men," *Journal of Political Economy*.
+Aguiar, Mark, Mark Bils, Kerwin Kofi Charles, and Erik Hurst  (2021): "Leisure Luxuries and the Labor Supply of Young Men," *Journal of Political Economy*.
 
 #### Abstract
 
