@@ -175,7 +175,7 @@ of the Federal Reserve System, 1998
 
 ## Working Papers
 
-- Aguiar, Mark, Manuel Amador and Cristina Arellano (2021): "Micro Risks and Pareto Improving Policies with Low Interest Rates"
+- Aguiar, Mark, Manuel Amador, and Cristina Arellano (2021): "Micro Risks and Pareto Improving Policies with Low Interest Rates"
 
 - Aguiar, Mark, Mark Bils and Corina Boar (2020): "Who are the Hand-to-Mouth?"
 
