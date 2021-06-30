@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2021-02-04* 
+*updated on 2021-06-30* 
 
 [PDF Version](cv.pdf)    
 
@@ -174,6 +174,8 @@ of the Federal Reserve System, 1998
 - Aguiar, Mark (2009): "Discussion of Clayne Pope's 'Measuring the distribution of material well-being: US trends,' Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 56(1): 79-82.
 
 ## Working Papers
+
+- Aguiar, Mark, Manuel Amador and Cristina Arellano (2021): "Micro Risks and Pareto Improving Policies with Low Interest Rates"
 
 - Aguiar, Mark, Mark Bils and Corina Boar (2020): "Who are the Hand-to-Mouth?"
 
