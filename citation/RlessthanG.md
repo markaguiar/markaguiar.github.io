@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Micro Risks and Pareto Improving Policies with Low Interest Rates 
+title: Micro Risks and Pareto Improving Policies 
 permalink: /citation/RlessthanG
 exclude: true
 ---

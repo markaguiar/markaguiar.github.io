@@ -8,7 +8,7 @@ canonical_url: "https://markaguiar.github.io/"
 ---
 
 ## Working Papers
-* [Micro Risks and Pareto Improving Policies with Low Interest Rates](/citation/RlessthanG)
+* [Micro Risks and Pareto Improving Policies](/citation/RlessthanG)
 
     Aguiar, Mark, Manuel Amador, and Cristina Arellano (2021): "Micro Risks and Pareto Improving Policies with Low Interest Rates"
 
