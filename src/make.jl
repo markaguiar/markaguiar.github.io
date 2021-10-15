@@ -34,6 +34,19 @@ permalink(s) = "/" * subpage_dir * "/" * s
 
 open(joinpath(root_dir, "index.md"), "w") do io
     write(io, header_pubs)
+
+    write(io, "## Books\n")
+    for p in papers
+        if p["published"]=="book" && p["show_on_website"]
+            write(io, "* " * link_str(p["title"],  "https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default"
+            , post="\n\n"))
+            write(io,"[![](",joinpath(root_dir,"files","EconomicsOfSovereignDebt.jpg"),")](https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default)\n")
+            write(io, "    " * p["citation"] * "\n")
+            write(io, "\n")
+        end
+    end
+
+
     write(io, "## Working Papers\n")
     for p in papers
         if p["published"]=="wp" && p["show_on_website"]
@@ -138,7 +151,7 @@ open(joinpath(root_dir, "index.md"), "w") do io
     write(io, "## Other Publications\n\n")
 
     for p in papers
-        if p["published"]=="other" && p["show_on_website"]
+        if p["published"]=="other" && p["show_on_website"] 
             write(io, "* " * link_str(p["title"],  permalink(p["permalink"]), post="\n\n"))
             write(io, "    " * p["citation"] * "\n")
             lst = String[]
@@ -198,7 +211,7 @@ end
 @info "Generating subpages"
 
 for p in papers
-    if  p["show_on_website"] #&& p["published"]
+    if  p["published"]!="book" && p["show_on_website"] #&& p["published"]
         @info "   -> " * p["title"]
         file = joinpath(subpage_path, p["permalink"] * ".md")
         open(file, "w") do io
