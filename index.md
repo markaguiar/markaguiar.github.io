@@ -6,6 +6,11 @@ toc_label: Papers
 title: Research
 canonical_url: "https://markaguiar.github.io/"
 ---
+## Books
+* [The Economics of Sovereign Debt and Default](https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default)
+
+[![](../files/EconomicsOfSovereignDebt.jpg)](https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default)
+    Aguiar, Mark and Manuel Amador: "The Economics of Sovereign Debt and Default"
 
 ## Working Papers
 * [Micro Risks and Pareto Improving Policies](/citation/RlessthanG)
