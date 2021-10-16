@@ -265,6 +265,12 @@ open(joinpath(root_dir, "CV/index.md"), "w") do io
     write(io, "*updated on " * string(Date(now())) * "* \n\n")
     write(io, read(joinpath(src_dir, "cv_part1.md"), String))
     write(io, "\n")
+    write(io, "## Books\n\n")
+    for p in papers
+        if   p["published"]=="book"
+            write(io, "- " * p["citation"] * "\n\n")
+        end
+    end
     write(io, "## Journal Publications\n\n")
     for p in papers
         if   p["published"]=="journal"
@@ -311,6 +317,13 @@ end
 
 @info "Generating Bibtex files"
 
+open("ref_book.bib", "w") do io
+    for p in papers
+        if   p["published"]=="book"
+            write(io, p["bibtex"]* "\n\n")
+        end
+    end
+end
 open("ref_pub.bib", "w") do io
     for p in papers
         if   p["published"]=="journal"
@@ -361,6 +374,7 @@ end
 @info "compile CV to pdf"
  
 run(`pdflatex cv`)
+run(`bibtex book`)
 run(`bibtex pub`)
 run(`bibtex hb`)
 run(`bibtex conf`)

@@ -7,7 +7,7 @@
 \usepackage{enumitem}
 
 \usepackage[resetlabels]{multibib}
-\newcites{wp,pub,conf,other,disc,hb}{Working Papers, Refereed Journal Articles, Conference Publications, Miscellaneous Publications, Published Discussions, Handbook Chapters}
+\newcites{book,wp,pub,conf,other,disc,hb}{Books, Working Papers, Refereed Journal Articles, Conference Publications, Miscellaneous Publications, Published Discussions, Handbook Chapters}
 
 \usepackage{etoolbox}
 \BeforeBeginEnvironment{thebibliography}{%
@@ -117,7 +117,11 @@ and Retirement Decisions''
  
    
 \subsection*{Publications}
- 
+
+\bibliographystylebook{plainyr}
+\nocitebook{*}
+\bibliographybook{ref_book}
+
  \bibliographystylepub{plainyr}
  \nocitepub{*}
  \bibliographypub{ref_pub}

@@ -991,7 +991,7 @@
         "show_on_website": true,
         "permalink": "CREiLectures",
         "year": "2021", 
-        "citation": "Aguiar, Mark and Manuel Amador: \"The Economics of Sovereign Debt and Default\"",
+        "citation": "Aguiar, Mark and Manuel Amador: *The Economics of Sovereign Debt and Default*",
         "bibtex": "@book {AA2021,
 	        title = {The Economics of Sovereign Debt and Default},
             year = {2021},

@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2021-10-15* 
+*updated on 2021-10-16* 
 
 [PDF Version](cv.pdf)    
 
@@ -94,6 +94,10 @@ of the Federal Reserve System, 1998
 
 - Truman Scholar, 1987-88, 1995-96.
 
+
+## Books
+
+- Aguiar, Mark and Manuel Amador: *The Economics of Sovereign Debt and Default*
 
 ## Journal Publications
 
