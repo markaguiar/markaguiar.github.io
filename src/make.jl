@@ -40,9 +40,9 @@ open(joinpath(root_dir, "index.md"), "w") do io
         if p["published"]=="book" && p["show_on_website"]
             write(io, "* " * link_str(p["title"],  "https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default"
             , post="\n\n"))
-            write(io,"[![](",joinpath(root_dir,"files","EconomicsOfSovereignDebt.jpg"),")](https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default)\n")
-            write(io, "    " * p["citation"] * "\n")
-            write(io, "\n")
+            write(io,"[ <center>  <img  loading=\"lazy\" src=\"https://pup-assets.imgix.net/onix/images/9780691176819.jpg?auto=format\" srcset=\"https://pup-assets.imgix.net/onix/images/9780691176819.jpg?w=200&amp;auto=format 200w, https://pup-assets.imgix.net/onix/images/9780691176819.jpg?w=400&amp;auto=format 400w, https://pup-assets.imgix.net/onix/images/9780691176819.jpg?w=600&amp;auto=format 600w, https://pup-assets.imgix.net/onix/images/9780691176819.jpg?w=800&amp;auto=format 800w, \" width=\"300\" sizes=\"(min-width: 1440px) 410px, (min-width: 1280px) calc((((100vw - 560px) / 12) * 4) + 120px), (min-width: 1024px) calc((((100vw - 424px) / 12) * 4) + 90px), (min-width: 768px) calc((((100vw - 408px) / 12) * 4) + 90px), (min-width: 568px) calc((((100vw - 268px) / 12) * 12) + 220px),  calc((((100vw - 140px) / 6) * 6) + 100px)\"> </center>](https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default)
+            \n")
+
         end
     end
 
