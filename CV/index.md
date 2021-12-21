@@ -101,7 +101,7 @@ of the Federal Reserve System, 1998
 
 ## Journal Publications
 
-- Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2019): "Self-Fulfilling Debt Crises, Revisited," Accepted at *Journal of Political Economy
+- Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2019): "Self-Fulfilling Debt Crises, Revisited," Accepted at *Journal of Political Economy*.
 
 - Aguiar, Mark, Mark Bils, Kerwin Kofi Charles, and Erik Hurst  (2021): "Leisure Luxuries and the Labor Supply of Young Men," *Journal of Political Economy*.
 
