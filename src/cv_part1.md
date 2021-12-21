@@ -53,6 +53,8 @@ language.
 
 ## Professional Activities and Awards
 
+- Director, International Economics Section, Princeton University (2021-present)
+
 - Co-editor, *American Economic Review*, (2014-2017)
 
 - Fellow of the Econometric Society

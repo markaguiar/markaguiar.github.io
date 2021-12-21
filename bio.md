@@ -6,7 +6,7 @@ canonical_url: "https://markaguiar.github.io/bio"
 ---
 
 Mark Aguiar is the Walker Professor of Economics and International
-Finance at Princeton University.
+Finance at Princeton University.  He is also the Director of the International Economics Section.
 
 Professor Aguiar received his Ph.D. in economics from MIT in 1999. He
 began his academic career at the University of Chicago\'s Graduate
