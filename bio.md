@@ -19,7 +19,7 @@ macroeconomics.   Professor Aguiar has studied emerging market business
 cycles, sovereign debt, the political economy of capital taxation, and
 growth. His recent research on sovereign debt concerns self-fulfilling
 debt crises and equilibrium maturity choice. He has also investigated
-life-cycle consumption, time allocation, inequality, and trends in labor supply. His recent research includes work on young men's labor supply and hand-to-mouth consumption behaivor.
+life-cycle consumption, time allocation, inequality, and trends in labor supply. His recent research includes work on young men's labor supply and hand-to-mouth consumption behavior.
 
 Professor Aguiar was co-editor of the *American Economic Review*.  He
 has previously served on the board of editors for the *American Economic
