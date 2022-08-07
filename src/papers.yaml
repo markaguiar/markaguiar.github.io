@@ -899,23 +899,35 @@
         ]
     },
 
-        {
+{
         "title": "Self-Fulfilling Debt Crises, Revisited", 
         "published": "journal",
         "show_on_website": true,
         "permalink": "self-fulfilling-crises",
-        "year": "forthcoming", 
-        "citation": "Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2019): \"Self-Fulfilling Debt Crises, Revisited,\" Accepted at *Journal of Political Economy*.",
+        "year": "2022", 
+        "citation": "Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2022): \"Self-Fulfilling Debt Crises, Revisited,\" Accepted at *Journal of Political Economy*.",
         "abstract": "We revisit self-fulfilling rollover crises by exploring the potential uncertainty introduced by a gap (however small) between an auction of new debt and the payment of maturing liabilities. It is well known (Cole and Kehoe, 2000) that the lack of commitment at the time of auction to repayment of imminently maturing debt can generate a run on debt, leading to a failed auction and immediate default. We show the same lack of commitment leads to a rich set of possible self-fulfilling crises, including a government that issues more debt because of the crisis, albeit at depressed prices. Another possible outcome is a “sudden stop” (or forced austerity) in which the government sharply curtails debt issuance. Both outcomes stem from the government’s incentive to eliminate uncertainty about imminent payments at the time of auction by altering the level of debt issuance. In an otherwise standard quantitative version of the model, including such crises increase the default probabilities by a factor of five and the spread volatility by a factor of twenty-five.",
         "bibtex": "@article {ACCS2019,
-	        title = {Self-Fulfilling Debt Crises, Revisited},
-	        year = {forthcoming},
-            journal={Journal of Political Economy},
-	        abstract = {We revisit self-fulfilling rollover crises by exploring the potential uncertainty introduced by a gap (however small) between an auction of new debt and the payment of maturing liabilities. It is well known (Cole and Kehoe, 2000) that the lack of commitment at the time of auction to repayment of imminently maturing debt can generate a run on debt, leading to a failed auction and immediate default. We show the same lack of commitment leads to a rich set of possible self-fulfilling crises, including a government that issues more debt because of the crisis, albeit at depressed prices. Another possible outcome is a “sudden stop” (or forced austerity) in which the government sharply curtails debt issuance. Both outcomes stem from the government’s incentive to eliminate uncertainty about imminent payments at the time of auction by altering the level of debt issuance. In an otherwise standard quantitative version of the model, including such crises increase the default probabilities by a factor of five and the spread volatility by a factor of twenty-five.},
-            author = {Aguiar, Mark and Chatterjee, Satyajit and Cole, Harold and Stangebye, Zachary},
-            type    = {Working Paper},
-            url={https://markaguiar.github.io/files/self_fulfilling.pdf}
-        }", 
+        author = {Aguiar, Mark and Chatterjee, Satyajit and Cole, Harold and Stangebye, Zachary},
+        title = {Self-Fulfilling Debt Crises, Revisited},
+        journal = {Journal of Political Economy},
+        volume = {130},
+        number = {5},
+        pages = {1147-1183},
+        year = {2022},
+        doi = {10.1086/718934},
+
+        URL = { 
+                https://doi.org/10.1086/718934
+            
+        },
+        eprint = { 
+                https://doi.org/10.1086/718934
+            
+        }
+        ,
+            abstract = { Lack of commitment at the time of auction to repayment of imminently maturing debt can generate a run on debt and immediate default. We show that the same lack of commitment leads to other possible self-fulfilling crises, including issuance of more debt at depressed prices, or a “sudden stop” (forced austerity) in which debt issuance is sharply curtailed. Both outcomes stem from the government's incentive to eliminate uncertainty about imminent payments at the time of auction by altering the level of debt issuance. These outcomes generate a large increase in spread volatility in both a 1-period and a multiperiod quantitative debt model. }
+        }",
         "PDF": "https://markaguiar.github.io/files/self_fulfilling.pdf",
         "journal": "",
         "other_links": [
@@ -978,16 +990,17 @@
 }, 
 
 {
-        "title": "Micro Risks and Pareto Improving Policies", 
+        "title": "Micro Risks and (Robust) Pareto Improving Policies", 
         "published": "wp",
         "show_on_website": true,
         "permalink": "RlessthanG",
-        "year": "2021", 
-        "citation": "Aguiar, Mark, Manuel Amador, and Cristina Arellano (2021): \"Micro Risks and Pareto Improving Policies\"",
-        "abstract": "We provide sufficient conditions for the feasibility of a Pareto-improving fiscal policy when the risk-free interest rate on government bonds is below the growth rate (r<g) or there is a markup between price and marginal cost.  We do so in the class of  incomplete markets models pioneered by Bewley-Huggett-Aiyagari, but we allow for an arbitrary amount of ex ante heterogeneity in terms of preferences and income risk.  We consider both the case of dynamic inefficiency as well as the more plausible case of dynamic efficiency.  The key condition is that seigniorage revenue raised by government bonds exceeds the increase in the interest rate times the initial capital stock. The Pareto improving fiscal policies weakly expand every agent's budget set at every point in time.  The policies improve risk sharing and potentially guide the economy to a more efficient level of capital. We establish that debt and investment associated with Pareto-improving policies may be complements along the transition, rather than the traditional substitutes.",
+        "year": "2022", 
+        "citation": "Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): \"Micro Risks and (Robust) Pareto Improving Policies\"",
+        "abstract": "We provide sufficient conditions for the feasibility of robust Pareto-improving (RPI) fiscal policies when the risk-free interest rate on government bonds is below the growth rate (r<g) or there is a markup between price and marginal cost. We do so in the class of  incomplete markets models pioneered by Bewley-Huggett-Aiyagari, but we allow for an arbitrary amount of ex ante heterogeneity in terms of preferences and income risk. An RPI improves risk sharing and potentially guides the economy to a more efficient level of capital.   We show that the elasticities of aggregate savings to changes in interest rates are the crucial ingredients that determine the feasibility of RPIs.    We establish that government debt and capital investment associated with an RPI may be complements  along the transition, rather than the traditional substitutes."
+,
         "bibtex": "@article {AAA2021,
-	        title = {Micro Risks and Pareto Improving Policies},
-            year = {2021},
+	        title = {Micro Risks and (Robust) Pareto Improving Policies},
+            year = {2022},
             journal={Working Paper},
 	        abstract = { We provide sufficient conditions for the feasibility of a Pareto-improving fiscal policy when the risk-free interest rate on government bonds is below the growth rate (r<g) or there is a markup between price and marginal cost.  We do so in the class of  incomplete markets models pioneered by Bewley-Huggett-Aiyagari, but we allow for an arbitrary amount of ex ante heterogeneity in terms of preferences and income risk.  We consider both the case of dynamic inefficiency as well as the more plausible case of dynamic efficiency.  The key condition is that seigniorage revenue raised by government bonds exceeds the increase in the interest rate times the initial capital stock. The Pareto improving fiscal policies weakly expand every agent's budget set at every point in time.  The policies improve risk sharing and potentially guide the economy to a more efficient level of capital. We establish that debt and investment associated with Pareto-improving policies may be complements along the transition, rather than the traditional substitutes.},
             author = {Aguiar, Mark and Manuel Amador and Cristina Arellano},

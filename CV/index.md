@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2021-12-21* 
+*updated on 2022-08-07* 
 
 [PDF Version](cv.pdf)    
 
@@ -103,7 +103,7 @@ of the Federal Reserve System, 1998
 
 ## Journal Publications
 
-- Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2019): "Self-Fulfilling Debt Crises, Revisited," Accepted at *Journal of Political Economy*.
+- Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2022): "Self-Fulfilling Debt Crises, Revisited," Accepted at *Journal of Political Economy*.
 
 - Aguiar, Mark, Mark Bils, Kerwin Kofi Charles, and Erik Hurst  (2021): "Leisure Luxuries and the Labor Supply of Young Men," *Journal of Political Economy*.
 
@@ -183,7 +183,7 @@ of the Federal Reserve System, 1998
 
 ## Working Papers
 
-- Aguiar, Mark, Manuel Amador, and Cristina Arellano (2021): "Micro Risks and Pareto Improving Policies"
+- Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies"
 
 - Aguiar, Mark, Mark Bils and Corina Boar (2020): "Who are the Hand-to-Mouth?"
 

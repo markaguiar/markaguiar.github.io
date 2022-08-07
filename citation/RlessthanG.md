@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Micro Risks and Pareto Improving Policies 
+title: Micro Risks and (Robust) Pareto Improving Policies 
 permalink: /citation/RlessthanG
 exclude: true
 ---
@@ -9,8 +9,8 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/R_less_than_1_in_Aiyagari.pdf)
 #### Citation
 
-Aguiar, Mark, Manuel Amador, and Cristina Arellano (2021): "Micro Risks and Pareto Improving Policies"
+Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies"
 
 #### Abstract
 
-We provide sufficient conditions for the feasibility of a Pareto-improving fiscal policy when the risk-free interest rate on government bonds is below the growth rate (r<g) or there is a markup between price and marginal cost.  We do so in the class of  incomplete markets models pioneered by Bewley-Huggett-Aiyagari, but we allow for an arbitrary amount of ex ante heterogeneity in terms of preferences and income risk.  We consider both the case of dynamic inefficiency as well as the more plausible case of dynamic efficiency.  The key condition is that seigniorage revenue raised by government bonds exceeds the increase in the interest rate times the initial capital stock. The Pareto improving fiscal policies weakly expand every agent's budget set at every point in time.  The policies improve risk sharing and potentially guide the economy to a more efficient level of capital. We establish that debt and investment associated with Pareto-improving policies may be complements along the transition, rather than the traditional substitutes.
+We provide sufficient conditions for the feasibility of robust Pareto-improving (RPI) fiscal policies when the risk-free interest rate on government bonds is below the growth rate (r<g) or there is a markup between price and marginal cost. We do so in the class of  incomplete markets models pioneered by Bewley-Huggett-Aiyagari, but we allow for an arbitrary amount of ex ante heterogeneity in terms of preferences and income risk. An RPI improves risk sharing and potentially guides the economy to a more efficient level of capital.   We show that the elasticities of aggregate savings to changes in interest rates are the crucial ingredients that determine the feasibility of RPIs.    We establish that government debt and capital investment associated with an RPI may be complements  along the transition, rather than the traditional substitutes.
