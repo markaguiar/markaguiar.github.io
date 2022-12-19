@@ -53,6 +53,8 @@ language.
 
 ## Professional Activities and Awards
 
+- Co-Director, National Bureau of Economic Research Program in International Finance and Macroeconomics (2022-present)
+
 - Director, International Economics Section, Princeton University (2021-present)
 
 - Co-editor, *American Economic Review*, (2014-2017)

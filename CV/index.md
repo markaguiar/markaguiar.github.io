@@ -61,6 +61,8 @@ language.
 
 ## Professional Activities and Awards
 
+- Co-Director, National Bureau of Economic Research Program in International Finance and Macroeconomics (2022-present)
+
 - Director, International Economics Section, Princeton University (2021-present)
 
 - Co-editor, *American Economic Review*, (2014-2017)
@@ -103,7 +105,7 @@ of the Federal Reserve System, 1998
 
 ## Journal Publications
 
-- Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2022): "Self-Fulfilling Debt Crises, Revisited," Accepted at *Journal of Political Economy*.
+- Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2022): "Self-Fulfilling Debt Crises, Revisited,"  *Journal of Political Economy*, 130 (5):1147-1183, May 2022
 
 - Aguiar, Mark, Mark Bils, Kerwin Kofi Charles, and Erik Hurst  (2021): "Leisure Luxuries and the Labor Supply of Young Men," *Journal of Political Economy*.
 
@@ -205,7 +207,7 @@ Co-Organizer, NBER Macroeconomics Within and Across Borders,
 Co-Organizer, NBER International Finance and Macroeconomics,
 Fall 2020
 
-Scientific Commitee, ADEMU 2020 workshop
+Scientific Commitee, ADEMU 2020, 2021, 2022 workshops
 
 Referee: American Economic Review, Canadian Journal of Economics,
 Econometrica, Economic Journal, International Economic Review, Journal

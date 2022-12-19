@@ -35,7 +35,7 @@ canonical_url: "https://markaguiar.github.io/"
 
 * [Self-Fulfilling Debt Crises, Revisited](/citation/self-fulfilling-crises)
 
-    Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2022): "Self-Fulfilling Debt Crises, Revisited," Accepted at *Journal of Political Economy*.
+    Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2022): "Self-Fulfilling Debt Crises, Revisited,"  *Journal of Political Economy*, 130 (5):1147-1183, May 2022
 [PDF](https://markaguiar.github.io/files/self_fulfilling.pdf) -- [Journal link](https://www.journals.uchicago.edu/doi/10.1086/718934) -- [Online appendix](https://markaguiar.github.io/files/self_fulfilling_revisited_online_appendix.pdf) -- [Code for Numerical Simulations](https://github.com/zstangebye/self_fulfilling_crises_revisited.git) -- [BibTeX and abstract](/citation/self-fulfilling-crises)
 
 * [Leisure Luxuries and the Labor Supply of Young Men](/citation/leisure-luxuries)
