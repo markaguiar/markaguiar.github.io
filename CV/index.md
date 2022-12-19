@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2022-08-07* 
+*updated on 2022-12-19* 
 
 [PDF Version](cv.pdf)    
 
@@ -182,6 +182,8 @@ of the Federal Reserve System, 1998
 - Aguiar, Mark (2009): "Discussion of Clayne Pope's 'Measuring the distribution of material well-being: US trends,' Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 56(1): 79-82.
 
 ## Working Papers
+
+- Aguiar, Mark, Manuel Amador and Ricardo Alves Monteiro (2021): "Sovereign Debt Crises and Floating-Rate Bonds"
 
 - Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies"
 
