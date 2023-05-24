@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/AAA_Forever_Young.pdf)
 #### Citation
 
-Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies"
+Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
 
 #### Abstract
 

@@ -15,7 +15,7 @@ canonical_url: "https://markaguiar.github.io/"
 ## Working Papers
 * [Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model](/citation/NKSamuelson)
 
-    Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies"
+    Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
 
 * [Sovereign Debt Crises and Floating-Rate Bonds](/citation/FloatingRate)
 

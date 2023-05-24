@@ -185,7 +185,7 @@ of the Federal Reserve System, 1998
 
 ## Working Papers
 
-- Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies"
+- Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
 
 - Aguiar, Mark, Manuel Amador and Ricardo Alves Monteiro (2021): "Sovereign Debt Crises and Floating-Rate Bonds"
 
