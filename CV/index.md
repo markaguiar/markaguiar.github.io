@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2023-05-24* 
+*updated on 2023-05-29* 
 
 [PDF Version](cv.pdf)    
 
