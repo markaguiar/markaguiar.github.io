@@ -17,7 +17,7 @@ In this chapter we explore the macroeconomics of time allocation.  We begin with
 
 BibTeX Cite:
 
-	@inbook {AguiarHurst2016,
+	@incollection {AguiarHurst2016,
 		title = {The Macroeconomics of Time Allocation},
 		booktitle = {Handbook of Macroeconomics},
 		volume = {2},

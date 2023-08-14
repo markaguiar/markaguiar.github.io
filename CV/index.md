@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2023-05-29* 
+*updated on 2023-08-14* 
 
 [PDF Version](cv.pdf)    
 
@@ -159,6 +159,8 @@ of the Federal Reserve System, 1998
 
 ## Conference Volumes
 
+- Aguiar, Mark, Manuel Amador and Ricardo Alves Monteiro (2023): "Sovereign Debt Crises and Floating-Rate Bonds"
+
 - Aguiar, Mark, Manuel Amador, Emmanuel Farhi and Gita Gopinath (2014): "Sovereign Debt Booms in Monetary Unions," *American Economic Review: Papers and Proceedings*, 104(5).
 
 - Aguiar, Mark and Erik Hurst and Loukas Karabarbounis (2013): "The Life-Cycle Profile of Time Spent on Job Search." *American Economic Review: Papers and Proceedings*, 111-116.
@@ -186,8 +188,6 @@ of the Federal Reserve System, 1998
 ## Working Papers
 
 - Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
-
-- Aguiar, Mark, Manuel Amador and Ricardo Alves Monteiro (2021): "Sovereign Debt Crises and Floating-Rate Bonds"
 
 - Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies"
 

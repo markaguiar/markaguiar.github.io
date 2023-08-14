@@ -17,7 +17,7 @@ This chapter is on quantitative models of sovereign debt crises in emerging econ
 
 BibTeX Cite:
 
-	@inbook {ACCS2016,
+	@incollection {ACCS2016,
 		title = {Quantitative Models of Sovereign Debt Crises},
 		booktitle = {Handbook of Macroeconomics},
 		volume = {2},

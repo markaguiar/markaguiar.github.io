@@ -17,10 +17,6 @@ canonical_url: "https://markaguiar.github.io/"
 
     Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
 
-* [Sovereign Debt Crises and Floating-Rate Bonds](/citation/FloatingRate)
-
-    Aguiar, Mark, Manuel Amador and Ricardo Alves Monteiro (2021): "Sovereign Debt Crises and Floating-Rate Bonds"
-
 * [Micro Risks and (Robust) Pareto Improving Policies](/citation/RlessthanG)
 
     Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies"
@@ -169,6 +165,11 @@ canonical_url: "https://markaguiar.github.io/"
 
 
 ## Conference Volumes
+
+* [Sovereign Debt Crises and Floating-Rate Bonds](/citation/FloatingRate)
+
+    Aguiar, Mark, Manuel Amador and Ricardo Alves Monteiro (2023): "Sovereign Debt Crises and Floating-Rate Bonds"
+[PDF](https://markaguiar.github.io/files/floating_rate.pdf) -- [Journal link](https://www.bcentral.cl/documents/33528/4396201/159-184-vol29.pdf/cbbe1119-bf91-525e-8ba4-af7dbf62997e?t=1691708894940) -- [BibTeX and abstract](/citation/FloatingRate)
 
 * [Sovereign Debt Booms in Monetary Unions](/citation/sovereign-debt-booms-in-monetary-unions)
 

@@ -17,7 +17,7 @@ The permanent income hypothesis (PIH) is a theory that links an individual’s c
 
 BibTeX Cite:
 
-	@inbook {AguiarHurst2008,
+	@incollection {AguiarHurst2008,
 		author={Aguiar, Mark and Erik Hurst},
 		title={Permanent-Income Hypothesis},
 		booktitle={The New Palgrave Dictionary of Economics},

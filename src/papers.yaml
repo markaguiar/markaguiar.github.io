@@ -238,7 +238,7 @@
         "year": "2008",
         "citation": "Aguiar, Mark and Erik Hurst (2008): \"Permanent Income Hypothesis,\" *New Palgrave Dictionary of Economics*, Palgrave Macmillan, 2008 (online 2016).",
         "abstract": "The permanent income hypothesis (PIH) is a theory that links an individual’s consumption at any point in time to that individual’s total income earned over his or her lifetime. The hypothesis is based on two simple premises: (1) that individuals wish to equate their expected marginal utility of consumption across time and (2) that individuals are able to respond to income changes by saving and dis-saving. In this article we present the intuition and empirical implications of the PIH in several standard contexts.",
-        "bibtex": "@inbook {AguiarHurst2008,
+        "bibtex": "@incollection {AguiarHurst2008,
         author={Aguiar, Mark and Erik Hurst},
             title={Permanent-Income Hypothesis},
             booktitle={The New Palgrave Dictionary of Economics},
@@ -543,7 +543,7 @@
         "permalink": "sovereign-debt", 
         "year": "2014",
         "citation": "Aguiar, Mark and Manuel Amador (2014): \"Sovereign Debt,\" *Handbook of International Economics*, Vol 4, North-Holland: 647-87.",
-        "bibtex": "@inbook{aguiar2014handbook,
+        "bibtex": "@incollection{aguiar2014handbook,
             title = {Sovereign Debt},
             booktitle = {Handbook of International Economics Vol 4},
             year = {2014},
@@ -677,7 +677,7 @@
         "year": "2016", 
         "citation": "Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2016): \"Quantitative Models of Sovereign Debt Crises,\" *Handbook of Macroeconomics Volume 2*.",
         "abstract": "This chapter is on quantitative models of sovereign debt crises in emerging economies.  We interpret debt crises broadly to cover all of the major problems a country can experience while trying to issue new debt, including default, sharp increases in the spread and failed auctions.  We examine the spreads on sovereign debt of 20 emerging market economies since 1993 and document the extent to which fluctuations in spreads are driven by country-specific fundamentals, common latent factors and observed global factors. Our findings motivate quantitative models of debt and default with the following features: (i) trend stationary or stochastic growth, (ii) risk averse competitive lenders, (iii) a strategic repayment/borrowing decision, (iv) multi-period debt,  (v) a default penalty that includes both a reputation loss and a physical output loss and (vi) rollover defaults.   For the quantitative evaluation of the model, we focus on Mexico and carefully discuss the successes and weaknesses of various versions of the model.  We close with some thoughts on useful directions for future research.",
-        "bibtex": "@inbook {ACCS2016,
+        "bibtex": "@incollection {ACCS2016,
 	        title = {Quantitative Models of Sovereign Debt Crises},
 	        booktitle = {Handbook of Macroeconomics},
 	        volume = {2},
@@ -700,7 +700,7 @@
         "year": "2016", 
         "citation": "Aguiar, Mark and Erik Hurst (2016): \"The Macroeconomics of Time Allocation,\" *Handbook of Macroeconomics Volume 2*.",
         "abstract": "In this chapter we explore the macroeconomics of time allocation.  We begin with an overview of the trends in market hours in the US, both in the aggregate and for key sub-samples.  After introducing a Beckerian theoretical framework, the chapter then discusses key empirical patterns of time allocation, both in the time series (including business cycle properties) and over the lifecycle.  We focus on several core non-market activities, including home production, childcare, and leisure.  The chapter concludes with a discussion of why these patterns are important to macroeconomics and spells out directions for future research.",
-        "bibtex": "@inbook {AguiarHurst2016,
+        "bibtex": "@incollection {AguiarHurst2016,
 	        title = {The Macroeconomics of Time Allocation},
 	        booktitle = {Handbook of Macroeconomics},
 	        volume = {2},
@@ -943,6 +943,31 @@
         ]
 },
 
+{
+        "title": "Sovereign Debt Crises and Floating-Rate Bonds", 
+        "published": "conference",
+        "show_on_website": true,
+        "permalink": "FloatingRate",
+        "year": "2023", 
+        "citation": "Aguiar, Mark, Manuel Amador and Ricardo Alves Monteiro (2023): \"Sovereign Debt Crises and Floating-Rate Bonds\"",
+        "abstract": "Sovereign debt markets are plagued by a number of frictions; in particular, a limited commitment to repay, limited commitment to future fiscal policies (debt dilution), lack of state contingency, and vulnerability to self-fulfilling runs.  We use an analytical model to explore the role of maturity in mitigating or exacerbating the respective frictions.  We show that long-term debt with a variable (but capped) coupon combines many of the desirable properties of both short-term and long-term bonds.  We then turn to a quantitative model to explore the welfare benefits or costs of issuing floating rate bonds.",
+        "bibtex": "@incollection {AAM2022,
+  author       = {Mark Aguiar and Manuel Amador and Ricardo Alves Monteiro},
+  title        = {Sovereign Debt Crises and Floating-Rate Bonds},
+  booktitle    = {Credibility of Emerging Markets, Foreign Investors' Risk Perceptions, and Capital Flows},
+  year         = {2023},
+  pages        = {159--184},
+  publisher    = {Central Bank of Chile},
+	        abstract = {Sovereign debt markets are plagued by a number of frictions; in particular, a limited commitment to repay, limited commitment to future fiscal policies (debt dilution), lack of state contingency, and vulnerability to self-fulfilling runs.  We use an analytical model to explore the role of maturity in mitigating or exacerbating the respective frictions.  We show that long-term debt with a variable (but capped) coupon combines many of the desirable properties of both short-term and long-term bonds.  We then turn to a quantitative model to explore the welfare benefits or costs of issuing floating rate bonds.},
+            author = {Aguiar, Mark and Manuel Amador and Ricardo Alves Monteiro},
+            
+            url={https://markaguiar.github.io/files/floating_rate.pdf}
+        }", 
+        "PDF": "https://markaguiar.github.io/files/floating_rate.pdf",
+        "journal": "https://www.bcentral.cl/documents/33528/4396201/159-184-vol29.pdf/cbbe1119-bf91-525e-8ba4-af7dbf62997e?t=1691708894940" 
+},
+
+
 
 
     #
@@ -1026,26 +1051,6 @@
         }",
           "PDF":"https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default"
 
-},
-
-{
-        "title": "Sovereign Debt Crises and Floating-Rate Bonds", 
-        "published": "wp",
-        "show_on_website": true,
-        "permalink": "FloatingRate",
-        "year": "2021", 
-        "citation": "Aguiar, Mark, Manuel Amador and Ricardo Alves Monteiro (2021): \"Sovereign Debt Crises and Floating-Rate Bonds\"",
-        "abstract": "Sovereign debt markets are plagued by a number of frictions; in particular, a limited commitment to repay, limited commitment to future fiscal policies (debt dilution), lack of state contingency, and vulnerability to self-fulfilling runs.  We use an analytical model to explore the role of maturity in mitigating or exacerbating the respective frictions.  We show that long-term debt with a variable (but capped) coupon combines many of the desirable properties of both short-term and long-term bonds.  We then turn to a quantitative model to explore the welfare benefits or costs of issuing floating rate bonds.",
-        "bibtex": "@article {AAM2021,
-	        title = {Sovereign Debt Crises and Floating-Rate Bonds},
-            year = {2021},
-            journal={Working Paper},
-	        abstract = {Sovereign debt markets are plagued by a number of frictions; in particular, a limited commitment to repay, limited commitment to future fiscal policies (debt dilution), lack of state contingency, and vulnerability to self-fulfilling runs.  We use an analytical model to explore the role of maturity in mitigating or exacerbating the respective frictions.  We show that long-term debt with a variable (but capped) coupon combines many of the desirable properties of both short-term and long-term bonds.  We then turn to a quantitative model to explore the welfare benefits or costs of issuing floating rate bonds.},
-            author = {Aguiar, Mark and Manuel Amador and Ricardo Alves Monteiro},
-            
-            url={https://markaguiar.github.io/files/floating_rate.pdf}
-        }", 
-        "PDF": "https://markaguiar.github.io/files/floating_rate.pdf" 
 },
 
 {

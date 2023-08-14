@@ -15,7 +15,7 @@ Aguiar, Mark and Manuel Amador (2014): "Sovereign Debt," *Handbook of Internati
 
 BibTeX Cite:
 
-	@inbook{aguiar2014handbook,
+	@incollection{aguiar2014handbook,
 		title = {Sovereign Debt},
 		booktitle = {Handbook of International Economics Vol 4},
 		year = {2014},
