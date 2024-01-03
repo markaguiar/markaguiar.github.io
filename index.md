@@ -19,11 +19,11 @@ canonical_url: "https://markaguiar.github.io/"
 
 * [Micro Risks and (Robust) Pareto Improving Policies](/citation/RlessthanG)
 
-    Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies"
+    Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies" (Under revision for American Economic Review)
 
 * [Who are the Hand-to-Mouth?](/citation/H2M)
 
-    Aguiar, Mark, Mark Bils and Corina Boar (2020): "Who are the Hand-to-Mouth?"
+    Aguiar, Mark, Mark Bils and Corina Boar (2020): "Who are the Hand-to-Mouth?" (Conditional Accept Review of Economic Studies)
 
 * [Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises](/citation/crisis_commitment)
 

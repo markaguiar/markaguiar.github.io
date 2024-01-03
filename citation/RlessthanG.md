@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/R_less_than_1_in_Aiyagari.pdf)
 #### Citation
 
-Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies"
+Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies" (Under revision for American Economic Review)
 
 #### Abstract
 

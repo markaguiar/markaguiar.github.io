@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/h2m.pdf)
 #### Citation
 
-Aguiar, Mark, Mark Bils and Corina Boar (2020): "Who are the Hand-to-Mouth?"
+Aguiar, Mark, Mark Bils and Corina Boar (2020): "Who are the Hand-to-Mouth?" (Conditional Accept Review of Economic Studies)
 
 #### Abstract
 

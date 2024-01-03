@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2023-08-14* 
+*updated on 2024-01-03* 
 
 [PDF Version](cv.pdf)    
 
@@ -189,9 +189,9 @@ of the Federal Reserve System, 1998
 
 - Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
 
-- Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies"
+- Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies" (Under revision for American Economic Review)
 
-- Aguiar, Mark, Mark Bils and Corina Boar (2020): "Who are the Hand-to-Mouth?"
+- Aguiar, Mark, Mark Bils and Corina Boar (2020): "Who are the Hand-to-Mouth?" (Conditional Accept Review of Economic Studies)
 
 - Aguiar, Mark, Manuel Amador,  Emmanuel Farhi, and Gita Gopinath (2013): "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises".
 
