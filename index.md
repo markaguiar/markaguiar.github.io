@@ -10,7 +10,7 @@ canonical_url: "https://markaguiar.github.io/"
 ## Recent Keynote Lectures
 * 2023 IMF Mundell-Fleming Lecture [video](https://www.imf.org/en/videos/view?vid=6340896615112),  [Slides](https://markaguiar.github.io/files/MFpresentation.pdf), [Written Remarks](https://markaguiar.github.io/files/MFwriteup.pdf)
 
-* 2023 SED Plenary[video](https://youtu.be/aROa97zqNzQ),  [Slides](https://markaguiar.github.io/files/SEDpresentation.pdf)
+* 2023 SED Plenary [video](https://youtu.be/aROa97zqNzQ),  [Slides](https://markaguiar.github.io/files/SEDpresentation.pdf)
 
 ## Books
 * [The Economics of Sovereign Debt and Default](https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default)

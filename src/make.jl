@@ -41,7 +41,7 @@ open(joinpath(root_dir, "index.md"), "w") do io
     * link_str("Written Remarks",  "https://markaguiar.github.io/files/MFwriteup.pdf"
     , post="\n\n"))
 
-    write(io, "* " * "2023 SED Plenary" * link_str("video",  "https://youtu.be/aROa97zqNzQ"
+    write(io, "* " * "2023 SED Plenary " * link_str("video",  "https://youtu.be/aROa97zqNzQ"
     , post=",  ") * link_str("Slides",  "https://markaguiar.github.io/files/SEDpresentation.pdf", post="\n\n"))
 
 
