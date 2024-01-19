@@ -7,6 +7,11 @@ title: Research
 canonical_url: "https://markaguiar.github.io/"
 ---
 
+## Recent Keynote Lectures
+* 2023 IMF Mundell-Fleming Lecture [video](https://www.imf.org/en/videos/view?vid=6340896615112),  [Slides](https://markaguiar.github.io/files/MFpresentation.pdf), [Written Remarks](https://markaguiar.github.io/files/MFwriteup.pdf)
+
+* 2023 SED Plenary[video](https://youtu.be/aROa97zqNzQ),  [Slides](https://markaguiar.github.io/files/SEDpresentation.pdf)
+
 ## Books
 * [The Economics of Sovereign Debt and Default](https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default)
 
@@ -21,10 +26,6 @@ canonical_url: "https://markaguiar.github.io/"
 
     Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies" (Under revision for American Economic Review)
 
-* [Who are the Hand-to-Mouth?](/citation/H2M)
-
-    Aguiar, Mark, Mark Bils and Corina Boar (2020): "Who are the Hand-to-Mouth?" (Conditional Accept Review of Economic Studies)
-
 * [Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises](/citation/crisis_commitment)
 
     Aguiar, Mark, Manuel Amador,  Emmanuel Farhi, and Gita Gopinath (2013): "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises".
@@ -32,6 +33,11 @@ canonical_url: "https://markaguiar.github.io/"
 
 
 ## Journal Publications
+
+* [Who are the Hand-to-Mouth?](/citation/H2M)
+
+    Aguiar, Mark, Mark Bils and Corina Boar (forthcoming): "Who are the Hand-to-Mouth?" (Conditional Accept Review of Economic Studies)
+[PDF](https://markaguiar.github.io/files/h2m.pdf) -- [Journal link](https://www.restud.com/accepted-papers/) -- [BibTeX and abstract](/citation/H2M)
 
 * [Self-Fulfilling Debt Crises, Revisited](/citation/self-fulfilling-crises)
 

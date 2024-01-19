@@ -35,6 +35,16 @@ permalink(s) = "/" * subpage_dir * "/" * s
 open(joinpath(root_dir, "index.md"), "w") do io
     write(io, header_pubs)
 
+    write(io, "## Recent Keynote Lectures\n")
+    write(io, "* " * "2023 IMF Mundell-Fleming Lecture " * link_str("video",  "https://www.imf.org/en/videos/view?vid=6340896615112"
+    , post=",  ") * link_str("Slides",  "https://markaguiar.github.io/files/MFpresentation.pdf", post=", ") 
+    * link_str("Written Remarks",  "https://markaguiar.github.io/files/MFwriteup.pdf"
+    , post="\n\n"))
+
+    write(io, "* " * "2023 SED Plenary" * link_str("video",  "https://youtu.be/aROa97zqNzQ"
+    , post=",  ") * link_str("Slides",  "https://markaguiar.github.io/files/SEDpresentation.pdf", post="\n\n"))
+
+
     write(io, "## Books\n")
     for p in papers
         if p["published"]=="book" && p["show_on_website"]
