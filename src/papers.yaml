@@ -306,6 +306,34 @@
     },
 
     {
+        "title": "The Costs and Consequences of Sovereign Borrowing", 
+        "published": "conference", 
+        "show_on_website": true, 
+        "permalink": "Mundell_Fleming",
+        "year": "2024", 
+        "citation": "Aguiar, Mark (2024): \"The Costs and Consequences of Sovereign Borrowing,\" *IMF Econoic Review*",
+        "bibtex": "@article{Aguiar2024,
+            title = {The Costs and Consequences of Sovereign Borrowing},
+            ISSN = {2041-417X},
+            url = {http://dx.doi.org/10.1057/s41308-024-00248-9},
+            DOI = {10.1057/s41308-024-00248-9},
+            journal = {IMF Economic Review},
+            publisher = {Springer Science and Business Media LLC},
+            author = {Aguiar,  Mark},
+            year = {2024},
+            month = may 
+        }",
+        "PDF": "https://markaguiar.github.io/files/MFwriteup.pdf",
+        "journal": "",
+        "other_links": [ 
+            {
+                "link_text": "Code", 
+                "url": "https://links.springernature.com/f/a/-cH5H9M6iv99gbLCtuAaag~~/AABE5gA~/RgRoMI3NP0SlaHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS8xMC4xMDU3L3M0MTMwOC0wMjQtMDAyNDgtOT91dG1fc291cmNlPXJjdF9jb25ncmF0ZW1haWx0JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5vbm9hXzIwMjQwNTIyJnV0bV9jb250ZW50PTEwLjEwNTcvczQxMzA4LTAyNC0wMDI0OC05VwNzcGNCCmZGzQhOZhUldv5SFW1hZ3VpYXJAcHJpbmNldG9uLmVkdVgEAAAHLQ~~"
+            }
+        ]
+    },
+
+    {
         "title": "The Increase in Leisure Inequality: 1965-2005",
         "published": "other", 
         "show_on_website": true,
@@ -1073,9 +1101,5 @@
         }", 
         "PDF": "https://markaguiar.github.io/files/AAA_Forever_Young.pdf" 
 }
-
-
-
-
 
 ]

@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2024-01-19* 
+*updated on 2024-05-24* 
 
 [PDF Version](cv.pdf)    
 
@@ -166,6 +166,8 @@ of the Federal Reserve System, 1998
 - Aguiar, Mark, Manuel Amador, Emmanuel Farhi and Gita Gopinath (2014): "Sovereign Debt Booms in Monetary Unions," *American Economic Review: Papers and Proceedings*, 104(5).
 
 - Aguiar, Mark and Erik Hurst and Loukas Karabarbounis (2013): "The Life-Cycle Profile of Time Spent on Job Search." *American Economic Review: Papers and Proceedings*, 111-116.
+
+- Aguiar, Mark (2024): "The Costs and Consequences of Sovereign Borrowing," *IMF Econoic Review*
 
 - Aguiar, Mark, Manuel Amador, and Gita Gopinath (2009): "Expropriation Dynamics," *American Economic Review: Papers and Proceedings*, 99(2): 473-479.
 
