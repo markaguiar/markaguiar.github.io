@@ -24,7 +24,7 @@ canonical_url: "https://markaguiar.github.io/"
 
 * [Micro Risks and (Robust) Pareto Improving Policies](/citation/RlessthanG)
 
-    Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies" (Under revision for American Economic Review)
+    Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies" (Accepted at American Economic Review)
 
 * [Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises](/citation/crisis_commitment)
 
