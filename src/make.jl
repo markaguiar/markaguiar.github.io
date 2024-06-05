@@ -39,7 +39,7 @@ open(joinpath(root_dir, "index.md"), "w") do io
     write(io, "* " * "2023 IMF Mundell-Fleming Lecture " * link_str("video",  "https://www.imf.org/en/videos/view?vid=6340896615112"
     , post=",  ") * link_str("Slides",  "https://markaguiar.github.io/files/MFpresentation.pdf", post=", ") 
     * link_str("Written Remarks",  "https://markaguiar.github.io/files/MFwriteup.pdf"
-    , post="\n\n"))
+    , post=", ") * link_str("Short Piece in IMF's F&D Magazine", "https://www.imf.org/en/Publications/fandd/issues/2024/06/The-Poisoned-Chalice-of-Debt-Mark-Aguiar?utm_medium=email&utm_source=govdelivery", post="\n\n"))
 
     write(io, "* " * "2023 SED Plenary " * link_str("video",  "https://youtu.be/aROa97zqNzQ"
     , post=",  ") * link_str("Slides",  "https://markaguiar.github.io/files/SEDpresentation.pdf", post="\n\n"))
