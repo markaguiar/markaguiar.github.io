@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Putting the `Finance' into `Public Finance': A Theory of Capital Gains Taxation 
+title: Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation 
 permalink: /citation/PFPF
 exclude: true
 ---
@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/PFPF.pdf)
 #### Citation
 
-Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the `Finance' into `Public Finance': A Theory of Capital Gains Taxation" 
+Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" 
 
 #### Abstract
 

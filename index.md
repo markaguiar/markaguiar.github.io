@@ -26,9 +26,9 @@ canonical_url: "https://markaguiar.github.io/"
 
     Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies" (Accepted at American Economic Review)
 
-* [Putting the `Finance' into `Public Finance': A Theory of Capital Gains Taxation](/citation/PFPF)
+* [Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation](/citation/PFPF)
 
-    Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the `Finance' into `Public Finance': A Theory of Capital Gains Taxation" 
+    Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" 
 
 * [Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises](/citation/crisis_commitment)
 
