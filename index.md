@@ -10,7 +10,7 @@ canonical_url: "https://markaguiar.github.io/"
 ## Recent Keynote Lectures
 * 2023 IMF Mundell-Fleming Lecture [video](https://www.imf.org/en/videos/view?vid=6340896615112),  [Slides](https://markaguiar.github.io/files/MFpresentation.pdf), [Written Remarks](https://markaguiar.github.io/files/MFwriteup.pdf), [Short Piece in IMF's F&D Magazine](https://www.imf.org/en/Publications/fandd/issues/2024/06/The-Poisoned-Chalice-of-Debt-Mark-Aguiar?utm_medium=email&utm_source=govdelivery)
 
-* 2023 SED Plenary [video](https://youtu.be/aROa97zqNzQ),  [Slides](https://markaguiar.github.io/files/SEDpresentation.pdf)
+* 2023 SED Plenary [video](https://youtu.be/aROa97zqNzQ),  [Slides](https://markaguiar.github.io/files/SEDpresentation.pdf), [Podcast](https://www.imf.org/en/News/Podcasts/All-Podcasts/2024/08/08/mark-aguiar-on-debt)
 
 ## Books
 * [The Economics of Sovereign Debt and Default](https://press.princeton.edu/books/hardcover/9780691176819/the-economics-of-sovereign-debt-and-default)
