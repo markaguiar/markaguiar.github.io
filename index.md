@@ -26,10 +26,6 @@ canonical_url: "https://markaguiar.github.io/"
 
     Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
 
-* [Micro Risks and (Robust) Pareto Improving Policies](/citation/RlessthanG)
-
-    Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies" (Accepted at American Economic Review)
-
 * [Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises](/citation/crisis_commitment)
 
     Aguiar, Mark, Manuel Amador,  Emmanuel Farhi, and Gita Gopinath (2013): "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises".
@@ -38,10 +34,15 @@ canonical_url: "https://markaguiar.github.io/"
 
 ## Journal Publications
 
+* [Micro Risks and (Robust) Pareto Improving Policies](/citation/RlessthanG)
+
+    Aguiar, Mark, Manuel Amador, and Cristina Arellano (2024): "Micro Risks and (Robust) Pareto Improving Policies" *American Economic Review* 114(11): 3669–3713
+[PDF](https://markaguiar.github.io/files/R_less_than_1_in_Aiyagari.pdf) -- [Journal link](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20230128) -- [BibTeX and abstract](/citation/RlessthanG)
+
 * [Who are the Hand-to-Mouth?](/citation/H2M)
 
-    Aguiar, Mark, Mark Bils and Corina Boar (forthcoming): "Who are the Hand-to-Mouth?" (Conditional Accept Review of Economic Studies)
-[PDF](https://markaguiar.github.io/files/h2m.pdf) -- [Journal link](https://www.restud.com/accepted-papers/) -- [BibTeX and abstract](/citation/H2M)
+    Aguiar, Mark, Mark Bils and Corina Boar (forthcoming): "Who are the Hand-to-Mouth?" *Review of Economic Studies* 
+[PDF](https://markaguiar.github.io/files/h2m.pdf) -- [Journal link](https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae056/58107410/rdae056.pdf) -- [BibTeX and abstract](/citation/H2M)
 
 * [Self-Fulfilling Debt Crises, Revisited](/citation/self-fulfilling-crises)
 

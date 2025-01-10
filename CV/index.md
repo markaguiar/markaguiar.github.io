@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2024-09-05* 
+*updated on 2025-01-10* 
 
 [PDF Version](cv.pdf)    
 
@@ -105,7 +105,9 @@ of the Federal Reserve System, 1998
 
 ## Journal Publications
 
-- Aguiar, Mark, Mark Bils and Corina Boar (forthcoming): "Who are the Hand-to-Mouth?" (Conditional Accept Review of Economic Studies)
+- Aguiar, Mark, Manuel Amador, and Cristina Arellano (2024): "Micro Risks and (Robust) Pareto Improving Policies" *American Economic Review* 114(11): 3669–3713
+
+- Aguiar, Mark, Mark Bils and Corina Boar (forthcoming): "Who are the Hand-to-Mouth?" *Review of Economic Studies* 
 
 - Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2022): "Self-Fulfilling Debt Crises, Revisited,"  *Journal of Political Economy*, 130 (5):1147-1183, May 2022
 
@@ -194,8 +196,6 @@ of the Federal Reserve System, 1998
 - Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" 
 
 - Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
-
-- Aguiar, Mark, Manuel Amador, and Cristina Arellano (2022): "Micro Risks and (Robust) Pareto Improving Policies" (Accepted at American Economic Review)
 
 - Aguiar, Mark, Manuel Amador,  Emmanuel Farhi, and Gita Gopinath (2013): "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises".
 
