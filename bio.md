@@ -6,7 +6,7 @@ canonical_url: "https://markaguiar.github.io/bio"
 ---
 
 Mark Aguiar is the Walker Professor of Economics and International
-Finance at Princeton University.  He is also the Director of the International Economics Section.
+Finance at Princeton University.  
 
 Professor Aguiar received his Ph.D. in economics from MIT in 1999. He
 began his academic career at the University of Chicago\'s Graduate
@@ -21,8 +21,7 @@ growth. His recent research on sovereign debt concerns self-fulfilling
 debt crises and equilibrium maturity choice. He has also investigated
 life-cycle consumption, time allocation, inequality, and trends in labor supply. His recent research includes work on young men's labor supply and hand-to-mouth consumption behavior.
 
-Professor Aguiar was co-editor of the *American Economic Review*.  He
-has previously served on the board of editors for the *American Economic
+Professor Aguiar is a research associate at the
+National Bureau of Economic Research and serves as co-director of the NBER's program on International Finance and Macroeconomics (IFM). Professor Aguiar was co-editor of the *American Economic Review*.  He has previously served on the board of editors for the *American Economic
 Review,* the *Review of Economic Dynamics *and *AEJ:
-Macroeconomics.* Professor Aguiar is a research associate at the
-National Bureau of Economic Research.
+Macroeconomics.* 
