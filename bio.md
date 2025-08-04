@@ -22,6 +22,6 @@ debt crises and equilibrium maturity choice. He has also investigated
 life-cycle consumption, time allocation, inequality, and trends in labor supply. His recent research includes work on young men's labor supply and hand-to-mouth consumption behavior.
 
 Professor Aguiar is a research associate at the
-National Bureau of Economic Research and serves as co-director of the NBER's program on International Finance and Macroeconomics (IFM). Professor Aguiar was co-editor of the *American Economic Review*.  He has previously served on the board of editors for the *American Economic
+National Bureau of Economic Research and serves as co-director of the NBER's program on International Finance and Macroeconomics (IFM). He is also co-director of the Griswold Center for Economic Policy Studies at Princeton. Professor Aguiar was co-editor of the *American Economic Review*.  He has previously served on the board of editors for the *American Economic
 Review,* the *Review of Economic Dynamics *and *AEJ:
 Macroeconomics.* 

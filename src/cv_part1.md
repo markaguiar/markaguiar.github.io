@@ -53,9 +53,13 @@ language.
 
 ## Professional Activities and Awards
 
+- Co-Director, Griswold Center for Economic Policy Studies, Princeton, University (2025-present)
+
 - Co-Director, National Bureau of Economic Research Program in International Finance and Macroeconomics (2022-present)
 
-- Director, International Economics Section, Princeton University (2021-present)
+- Acting Chair, Department of Economics, Princeton Univeristy (2024-2025)
+
+- Director, International Economics Section, Princeton University (2021-2024)
 
 - Co-editor, *American Economic Review*, (2014-2017)
 
