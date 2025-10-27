@@ -24,7 +24,7 @@ canonical_url: "https://markaguiar.github.io/"
 
 * [Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation](/citation/PFPF)
 
-    Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" 
+    Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" (Revise and Resubmit Econometrica)
 
 * [Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model](/citation/NKSamuelson)
 

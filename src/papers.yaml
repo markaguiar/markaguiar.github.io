@@ -1118,7 +1118,7 @@
         "show_on_website": true,
         "permalink": "PFPF",
         "year": "2024", 
-        "citation": "Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): \"Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation\" ",
+        "citation": "Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): \"Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation\" (Revise and Resubmit Econometrica)",
         "abstract": "Standard optimal capital tax theory abstracts from modeling asset prices, making it unsuitable for thinking about capital gains and wealth taxation. We study optimal redistributive taxation in an environment with asset price changes, adopting the modern finance view that asset prices fluctuate not only because of changing cash flows, but also due to other factors (``discount rates''). We show that the optimal tax base (i) generally differs from the case with constant asset prices, and (ii) depends on the sources of asset-price changes. Whenever asset prices fluctuate, and are not exclusively driven by cash flow changes, taxes must target realized trades and generally involve a combination of realization-based capital gains and dividend taxes. This result stands in contrast to the classic Haig-Simons comprehensive income tax concept, as well as recent proposals for wealth or accrual-based capital gains taxes."
 ,
         "bibtex": "@article {AMS2024,
@@ -1144,7 +1144,7 @@
 	        title = {Tariff Wars and Net Foreign Assets},
 	        year = {2025},
             journal={Working Paper},
-	        abstract = {   This note addresses whether and when a trade war that imposes balanced trade (or even zero trade) can be consistent with initial non-zero net foreign asset positions. Using a bilateral trade model, we exploit insights from the classic literature on the Transfer Problem to characterize when gross asset or liability positions and tariff policies generate an endogenous terms-of-trade effect that ensures the value of assets and liabilities balance. As long as gross positions denominated in different goods differ in sign, there exists a continuum of bilateral tariff policies that ensure balanced  trade and that satisfy the contractual financial obligations.  If the new terms-of-trade do not reverse the initial direction of trade, balanced trade is consistent with non-zero exports and imports. In general, high enough bilateral tariffs lead to an autarkic outcome where no trade occurs and the net foreign asset positions rebalance to zero. },
+	        abstract = {   This paper examines whether and how international financial claims accumulated during a period of relatively free trade can be settled once a trade war erupts. We identify the conditions under which net claims can be honored even under balanced trade -- or, in the extreme, autarky. The analysis also reveals a potential equilibrium multiplicity in which a trade war impoverishes one country while enriching its trading partner, with the identity of the winner and loser determined by a sunspot. The key adjustment mechanism is the tariff-induced shift in the terms of trade (and the corresponding real exchange rate), which revalues the relative gross asset positions to ensure that any residual trade (if any) is consistent with the inherited financial claims.},
             author = {Aguiar, Mark and Manuel Amador and Doireann Fitzgerald},
             type    = {Working Paper},
             url={https://markaguiar.github.io/files/tariff_deficits.pdf}

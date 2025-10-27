@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2025-08-04* 
+*updated on 2025-10-27* 
 
 [PDF Version](cv.pdf)    
 
@@ -199,7 +199,7 @@ of the Federal Reserve System, 1998
 
 - Aguiar, Mark, Manuel Amador,  Doireann Fitzgerald (2025): "Tariff Wars and Net Foreign Assets".
 
-- Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" 
+- Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" (Revise and Resubmit Econometrica)
 
 - Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
 
