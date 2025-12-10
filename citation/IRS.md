@@ -6,7 +6,7 @@ permalink: /citation/IRS
 exclude: true
 ---
 
-[PDF](https://markaguiar.github.io/files/IRS_draft.pdf) -- [Data and Code](https://github.com/markaguiar/IntlRiskSharing.git)
+[PDF](https://markaguiar.github.io/files/IRS_draft.pdf) -- [Data and Code](https://github.com/markaguiar/IRS-Replication-Package.git)
 #### Citation
 
 Aguiar, Mark, Oleg Itskhoki,  Dmitry Mukhin (2025): "How Good is International Risk Sharing?".

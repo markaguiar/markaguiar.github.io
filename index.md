@@ -21,7 +21,7 @@ canonical_url: "https://markaguiar.github.io/"
 * [How Good is International Risk Sharing? Stepping Outside the Shadow of the Welfare Theorems](/citation/IRS)
 
     Aguiar, Mark, Oleg Itskhoki,  Dmitry Mukhin (2025): "How Good is International Risk Sharing?".
-[PDF](https://markaguiar.github.io/files/IRS_draft.pdf) -- [Data and Code](https://github.com/markaguiar/IntlRiskSharing.git)
+[PDF](https://markaguiar.github.io/files/IRS_draft.pdf) -- [Data and Code](https://github.com/markaguiar/IRS-Replication-Package.git)
 * [Tariff Wars and Net Foreign Assets](/citation/tariff_wars)
 
     Aguiar, Mark, Manuel Amador,  Doireann Fitzgerald (2025): "Tariff Wars and Net Foreign Assets".
