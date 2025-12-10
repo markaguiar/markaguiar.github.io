@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2025-10-27* 
+*updated on 2025-12-10* 
 
 [PDF Version](cv.pdf)    
 
@@ -196,6 +196,8 @@ of the Federal Reserve System, 1998
 - Aguiar, Mark (2009): "Discussion of Clayne Pope's 'Measuring the distribution of material well-being: US trends,' Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 56(1): 79-82.
 
 ## Working Papers
+
+- Aguiar, Mark, Oleg Itskhoki,  Dmitry Mukhin (2025): "How Good is International Risk Sharing?".
 
 - Aguiar, Mark, Manuel Amador,  Doireann Fitzgerald (2025): "Tariff Wars and Net Foreign Assets".
 
