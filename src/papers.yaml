@@ -1168,6 +1168,11 @@
             type    = {Working Paper},
             url={https://markaguiar.github.io/files/IRS_draft.pdf}
         }", 
+        "other_links": [ {
+            "link_text": "Data and Code", 
+            "url": "https://github.com/markaguiar/IntlRiskSharing.git"
+        }
+        ]
 
     }
 
