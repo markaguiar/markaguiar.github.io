@@ -57,7 +57,7 @@ language.
 
 - Co-Director, National Bureau of Economic Research Program in International Finance and Macroeconomics (2022-present)
 
-- Acting Chair, Department of Economics, Princeton Univeristy (2024-2025)
+- Acting Chair, Department of Economics, Princeton University (2024-2025)
 
 - Director, International Economics Section, Princeton University (2021-2024)
 

@@ -12,8 +12,6 @@ Co-Organizer, NBER Macroeconomics Within and Across Borders,
 Co-Organizer, NBER International Finance and Macroeconomics,
 Fall 2020
 
-Scientific Commitee, ADEMU 2020, 2021, 2022 workshops
-
 Referee: American Economic Review, Canadian Journal of Economics,
 Econometrica, Economic Journal, International Economic Review, Journal
 of Development Economics, Journal of Economic Dynamics and Control,
