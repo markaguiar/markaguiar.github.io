@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2025-12-10* 
+*updated on 2026-01-27* 
 
 [PDF Version](cv.pdf)    
 
@@ -111,7 +111,7 @@ of the Federal Reserve System, 1998
 
 - Aguiar, Mark, Manuel Amador, and Cristina Arellano (2024): "Micro Risks and (Robust) Pareto Improving Policies" *American Economic Review* 114(11): 3669–3713
 
-- Aguiar, Mark, Mark Bils and Corina Boar (forthcoming): "Who are the Hand-to-Mouth?" *Review of Economic Studies* 
+- Aguiar, Mark, Mark Bils and Corina Boar (2025): "Who are the Hand-to-Mouth?" *Review of Economic Studies* 
 
 - Aguiar, Mark, Satyajit Chatterjee,  Harold Cole, and Zachary Stangebye  (2022): "Self-Fulfilling Debt Crises, Revisited,"  *Journal of Political Economy*, 130 (5):1147-1183, May 2022
 

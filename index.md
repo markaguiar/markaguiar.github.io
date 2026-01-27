@@ -49,7 +49,7 @@ canonical_url: "https://markaguiar.github.io/"
 
 * [Who are the Hand-to-Mouth?](/citation/H2M)
 
-    Aguiar, Mark, Mark Bils and Corina Boar (forthcoming): "Who are the Hand-to-Mouth?" *Review of Economic Studies* 
+    Aguiar, Mark, Mark Bils and Corina Boar (2025): "Who are the Hand-to-Mouth?" *Review of Economic Studies* 
 [PDF](https://markaguiar.github.io/files/h2m.pdf) -- [Journal link](https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae056/58107410/rdae056.pdf) -- [BibTeX and abstract](/citation/H2M)
 
 * [Self-Fulfilling Debt Crises, Revisited](/citation/self-fulfilling-crises)
