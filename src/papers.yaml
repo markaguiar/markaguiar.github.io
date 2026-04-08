@@ -1144,7 +1144,16 @@
 	        title = {Tariff Wars and Net Foreign Assets},
 	        year = {2025},
             journal={Working Paper},
-	        abstract = {   This paper examines whether and how international financial claims accumulated during a period of relatively free trade can be settled once a trade war erupts. We identify the conditions under which net claims can be honored even under balanced trade -- or, in the extreme, autarky. The analysis also reveals a potential equilibrium multiplicity in which a trade war impoverishes one country while enriching its trading partner, with the identity of the winner and loser determined by a sunspot. The key adjustment mechanism is the tariff-induced shift in the terms of trade (and the corresponding real exchange rate), which revalues the relative gross asset positions to ensure that any residual trade (if any) is consistent with the inherited financial claims.},
+	        abstract = { This paper examines whether and how international financial claims can be honored without default once a trade war erupts. 
+Using a two-country two-good model, we study how unanticipated tariffs revalue international assets and how the 
+outcome depends on ex-ante gross asset positions.
+When gross positions are strictly positive (each country has claims on the other), sufficiently high bilateral tariffs zero out any ex-ante net debt. Conversely, this 
+net debt cannot be zeroed out when the debtor holds no claims on the creditor.
+When a country has liabilities denominated in the other country's goods (or prices), then a sufficiently large tariff levied by the second can immiserize the first, generating multiple equilibria if both sides have such liabilities.
+These results generalize to settings with an arbitrary number of goods, time, and uncertainty. In a dynamic
+version, under a severe trade war, domestic interest rates and the real exchange rate must decouple: interest rates align with their autarkic values, and international relative prices revalue the net asset positions to zero.
+We calibrate a two-country model to the US net foreign asset position in 2023 and show that the welfare consequences of a tariff war that stops short of autarky depend critically on the US ex-ante gross portfolio composition.
+},
             author = {Aguiar, Mark and Manuel Amador and Doireann Fitzgerald},
             type    = {Working Paper},
             url={https://markaguiar.github.io/files/tariff_deficits.pdf}

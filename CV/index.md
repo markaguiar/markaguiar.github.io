@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://markaguiar.github.io/cv/"
 ---
-*updated on 2026-01-27* 
+*updated on 2026-04-08* 
 
 [PDF Version](cv.pdf)    
 
@@ -65,7 +65,7 @@ language.
 
 - Co-Director, National Bureau of Economic Research Program in International Finance and Macroeconomics (2022-present)
 
-- Acting Chair, Department of Economics, Princeton Univeristy (2024-2025)
+- Acting Chair, Department of Economics, Princeton University (2024-2025)
 
 - Director, International Economics Section, Princeton University (2021-2024)
 
@@ -220,8 +220,6 @@ Co-Organizer, NBER Macroeconomics Within and Across Borders,
 
 Co-Organizer, NBER International Finance and Macroeconomics,
 Fall 2020
-
-Scientific Commitee, ADEMU 2020, 2021, 2022 workshops
 
 Referee: American Economic Review, Canadian Journal of Economics,
 Econometrica, Economic Journal, International Economic Review, Journal
