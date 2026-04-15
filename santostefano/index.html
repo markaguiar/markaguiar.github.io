@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>The Santo Stefano Macroeconomics Conference — June 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Raleway:wght@300;400;500&display=swap" rel="stylesheet"/>
+
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --cream:      #f7f3ec;
+    --parchment:  #ede7d9;
+    --stone:      #c8bfaf;
+    --terracotta: #9e4e2a;
+    --terracotta-light: #c4724d;
+    --ink:        #2a2420;
+    --ink-mid:    #5a4e46;
+    --ink-light:  #8a7d74;
+    --rule:       #d6cec3;
+  }
+
+  html { background: var(--cream); color: var(--ink); }
+
+  body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    background: var(--cream);
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 2rem 4rem;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ── MASTHEAD ── */
+  .masthead {
+    padding: 3rem 0 0;
+    text-align: center;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 2rem;
+    margin-bottom: 2.5rem;
+    animation: fadeIn 1s ease both;
+  }
+
+  .masthead svg {
+    width: 100%;
+    max-width: 780px;
+    display: block;
+    margin: 0 auto 1.6rem;
+  }
+
+  .conf-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(1.8rem, 5vw, 2.8rem);
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    color: var(--ink);
+    line-height: 1.2;
+    margin-bottom: 0.6rem;
+  }
+
+  .conf-dates {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    font-weight: 300;
+    font-style: italic;
+    color: var(--ink-mid);
+    letter-spacing: 0.05em;
+    margin-bottom: 1.2rem;
+  }
+
+  .venue-block {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+    background: var(--parchment);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 0.75rem 2rem;
+  }
+
+  .venue-name {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: var(--terracotta);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .venue-location {
+    font-size: 0.78rem;
+    font-weight: 400;
+    color: var(--ink-mid);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .venue-link {
+    font-size: 0.75rem;
+    color: var(--ink-light);
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    border-bottom: 1px dotted var(--stone);
+    transition: color 0.2s;
+  }
+  .venue-link:hover { color: var(--terracotta); }
+
+  /* ── SCHEDULE ── */
+  .schedule { animation: fadeIn 1.2s ease 0.2s both; }
+
+  .day-section { margin-bottom: 3rem; }
+
+  .day-header {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .day-name {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: var(--ink);
+    letter-spacing: 0.03em;
+  }
+
+  .day-session {
+    font-size: 0.75rem;
+    font-weight: 400;
+    color: var(--ink-light);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .session-row {
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    gap: 0;
+    margin-bottom: 3px;
+    align-items: stretch;
+  }
+
+  .time-col {
+    font-size: 0.72rem;
+    color: var(--ink-light);
+    padding: 0.75rem 1rem 0.75rem 0;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    line-height: 1.4;
+    letter-spacing: 0.02em;
+  }
+
+  .slot {
+    border-radius: 3px;
+    padding: 0.7rem 1.1rem;
+  }
+
+  .slot-paper {
+    background: #f0ebe2;
+    border-left: 3px solid var(--terracotta);
+    transition: background 0.2s;
+  }
+
+  .slot-paper:hover { background: #ebe4d8; }
+
+  .paper-num {
+    font-size: 0.65rem;
+    font-weight: 500;
+    color: var(--terracotta);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 0.2rem;
+  }
+
+  .paper-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: var(--ink);
+    line-height: 1.3;
+    margin-bottom: 0.25rem;
+  }
+
+  .paper-title.tbd {
+    font-style: italic;
+    font-weight: 400;
+    color: var(--ink-mid);
+  }
+
+  .paper-presenter {
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--ink-mid);
+    letter-spacing: 0.02em;
+  }
+
+  .paper-coauthors {
+    font-size: 0.72rem;
+    font-weight: 400;
+    color: var(--ink-light);
+    margin-top: 0.1rem;
+    font-style: italic;
+  }
+
+  .paper-link {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid var(--terracotta-light);
+    transition: color 0.2s, border-color 0.2s;
+  }
+  .paper-link:hover { color: var(--terracotta); border-color: var(--terracotta); }
+
+  .slot-break {
+    background: transparent;
+  }
+
+  .break-label {
+    font-size: 0.7rem;
+    color: var(--stone);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.5rem 0;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .break-label::before,
+  .break-label::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--rule);
+  }
+
+  /* ── FOOTER ── */
+  .footer {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    text-align: center;
+    font-size: 0.72rem;
+    color: var(--ink-light);
+    letter-spacing: 0.04em;
+    animation: fadeIn 1.4s ease 0.4s both;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  @media (max-width: 560px) {
+    body { padding: 0 1rem 3rem; }
+    .session-row { grid-template-columns: 90px 1fr; }
+    .time-col { font-size: 0.65rem; }
+    .day-header { flex-direction: column; gap: 0.2rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════ MASTHEAD ═══════════════════ -->
+<header class="masthead">
+
+  <svg viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stylized silhouette of Santo Stefano di Sessanio village with the Medicea tower">
+    <defs>
+      <style>
+        .b { fill:#f7f3ec; stroke:#2a2420; stroke-width:1.1; stroke-linejoin:round; stroke-linecap:round; }
+        .d { fill:none; stroke:#2a2420; stroke-width:0.65; stroke-linejoin:round; stroke-linecap:round; }
+        .a { fill:#ede7d9; stroke:#2a2420; stroke-width:0.8; }
+        .m { fill:none; stroke:#8a7d74; stroke-width:0.75; stroke-linejoin:round; opacity:0.4; }
+      </style>
+    </defs>
+
+    <!-- Mountains -->
+    <polyline points="0,95 55,70 110,80 170,52 230,68 290,42 350,58 400,36 450,52 510,32 570,50 625,38 680,58 740,44 800,60 800,115 0,115" class="m"/>
+    <polyline points="0,108 60,90 120,100 185,76 245,90 305,68 360,80 415,62 465,74 525,58 580,72 635,60 690,78 755,65 800,80 800,115 0,115" class="m" style="opacity:0.22;"/>
+
+    <!-- Ground -->
+    <line x1="50" y1="130" x2="750" y2="130" style="stroke:#c8bfaf;stroke-width:0.8;"/>
+
+    <!-- Far left houses -->
+    <rect x="75" y="105" width="26" height="25" class="b"/>
+    <polygon points="75,105 88,92 101,105" class="b"/>
+    <rect x="83" y="116" width="7" height="14" class="a"/>
+
+    <rect x="99" y="99" width="30" height="31" class="b"/>
+    <polygon points="99,99 114,85 129,99" class="b"/>
+    <rect x="106" y="110" width="8" height="10" class="a"/>
+    <rect x="116" y="110" width="8" height="10" class="a"/>
+
+    <!-- Left cluster -->
+    <rect x="127" y="106" width="24" height="24" class="b"/>
+    <polygon points="127,106 139,95 151,106" class="b"/>
+    <rect x="133" y="116" width="7" height="14" class="a"/>
+
+    <rect x="149" y="95" width="34" height="35" class="b"/>
+    <polygon points="149,95 166,80 183,95" class="b"/>
+    <path d="M158,110 Q166,103 174,110 L174,121 L158,121 Z" class="a"/>
+    <rect x="159" y="118" width="13" height="12" class="a"/>
+
+    <rect x="181" y="102" width="27" height="28" class="b"/>
+    <polygon points="181,102 194,90 207,102" class="b"/>
+    <rect x="188" y="113" width="8" height="17" class="a"/>
+
+    <!-- Left nave -->
+    <rect x="206" y="100" width="52" height="30" class="b"/>
+    <polygon points="206,100 232,83 258,100" class="b"/>
+    <circle cx="232" cy="93" r="6" class="a"/>
+    <rect x="214" y="111" width="10" height="19" class="a"/>
+    <rect x="228" y="111" width="10" height="19" class="a"/>
+    <rect x="242" y="111" width="10" height="19" class="a"/>
+    <line x1="206" y1="103" x2="258" y2="103" class="d"/>
+
+    <!-- MEDICEA TOWER (centre) — round cylindrical -->
+    <!-- plinth -->
+    <rect x="289" y="115" width="58" height="15" class="b"/>
+    <!-- tower body with rounded top -->
+    <rect x="295" y="38" width="46" height="79" rx="23" class="b"/>
+    <!-- crenellations -->
+    <rect x="295" y="28" width="8" height="12" rx="1.5" class="b"/>
+    <rect x="307" y="28" width="8" height="12" rx="1.5" class="b"/>
+    <rect x="319" y="28" width="8" height="12" rx="1.5" class="b"/>
+    <rect x="331" y="28" width="8" height="12" rx="1.5" class="b"/>
+    <!-- string courses -->
+    <line x1="295" y1="74" x2="341" y2="74" class="d"/>
+    <line x1="295" y1="96" x2="341" y2="96" class="d"/>
+    <!-- windows -->
+    <path d="M304,46 Q318,37 332,46 L332,64 L304,64 Z" class="a"/>
+    <path d="M304,78 Q318,70 332,78 L332,92 L304,92 Z" class="a"/>
+    <!-- door -->
+    <path d="M307,130 L307,117 Q318,109 329,117 L329,130" class="a"/>
+    <!-- pilaster hints -->
+    <line x1="297" y1="40" x2="297" y2="115" class="d" style="opacity:0.35;"/>
+    <line x1="339" y1="40" x2="339" y2="115" class="d" style="opacity:0.35;"/>
+
+    <!-- Right cluster flanking tower -->
+    <rect x="345" y="100" width="52" height="30" class="b"/>
+    <polygon points="345,100 371,83 397,100" class="b"/>
+    <circle cx="371" cy="93" r="6" class="a"/>
+    <rect x="353" y="111" width="10" height="19" class="a"/>
+    <rect x="367" y="111" width="10" height="19" class="a"/>
+    <rect x="381" y="111" width="10" height="19" class="a"/>
+    <line x1="345" y1="103" x2="397" y2="103" class="d"/>
+
+    <rect x="395" y="95" width="36" height="35" class="b"/>
+    <polygon points="395,95 413,79 431,95" class="b"/>
+    <path d="M403,110 Q413,102 423,110 L423,122 L403,122 Z" class="a"/>
+    <rect x="404" y="119" width="17" height="11" class="a"/>
+
+    <rect x="429" y="102" width="28" height="28" class="b"/>
+    <polygon points="429,102 443,90 457,102" class="b"/>
+    <rect x="436" y="113" width="8" height="17" class="a"/>
+
+    <!-- Small chapel -->
+    <rect x="455" y="105" width="26" height="25" class="b"/>
+    <polygon points="455,105 468,92 481,105" class="b"/>
+    <circle cx="468" cy="100" r="4" class="a"/>
+    <rect x="462" y="117" width="10" height="13" class="a"/>
+
+    <!-- Far right houses -->
+    <rect x="479" y="108" width="26" height="22" class="b"/>
+    <polygon points="479,108 492,97 505,108" class="b"/>
+    <rect x="486" y="118" width="8" height="12" class="a"/>
+
+    <rect x="503" y="103" width="30" height="27" class="b"/>
+    <polygon points="503,103 518,89 533,103" class="b"/>
+    <rect x="510" y="114" width="8" height="16" class="a"/>
+    <rect x="520" y="114" width="8" height="16" class="a"/>
+
+    <rect x="531" y="110" width="24" height="20" class="b"/>
+    <polygon points="531,110 543,100 555,110" class="b"/>
+    <rect x="538" y="119" width="7" height="11" class="a"/>
+
+    <!-- low wing right -->
+    <rect x="553" y="116" width="60" height="14" class="b"/>
+    <line x1="553" y1="118" x2="613" y2="118" class="d"/>
+    <path d="M561,122 Q568,116 575,122 L575,128 L561,128 Z" class="a"/>
+    <path d="M578,122 Q585,116 592,122 L592,128 L578,128 Z" class="a"/>
+    <path d="M595,122 Q602,116 609,122 L609,128 L595,128 Z" class="a"/>
+
+  </svg>
+
+  <h1 class="conf-title">The Santo Stefano Macroeconomics Conference</h1>
+  <p class="conf-dates">June 24–26, 2026</p>
+
+  <div class="venue-block">
+    <span class="venue-name">Sextantio Albergo Diffuso</span>
+    <span class="venue-location">Santo Stefano di Sessanio &nbsp;·&nbsp; Abruzzo, Italy</span>
+    <a href="https://www.sextantio.it/en/santostefano/abruzzo/" target="_blank" rel="noopener" class="venue-link">sextantio.it/en/santostefano/abruzzo</a>
+  </div>
+
+</header>
+
+<!-- ═══════════════════ SCHEDULE ═══════════════════ -->
+<main class="schedule">
+
+  <!-- DAY 1 -->
+  <section class="day-section">
+    <div class="day-header">
+      <span class="day-name">Wednesday, June 24</span>
+      <span class="day-session">Afternoon Session &nbsp;·&nbsp; begins 1:00 pm</span>
+    </div>
+
+    <div class="session-row">
+      <div class="time-col">1:00 – 2:00 pm</div>
+      <div class="slot slot-paper">
+        <div class="paper-title"><a href="https://drive.google.com/file/d/19hz4gOGl5FUIe_l6n0ex01wreubvYrxq/view?usp=sharing" target="_blank" rel="noopener" class="paper-link">IneQuality</a></div>
+        <div class="paper-presenter">Alessandra Peter</div>
+        <div class="paper-coauthors">with Gideon Bornstein</div>
+      </div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">2:00 – 2:15 pm</div>
+      <div class="slot slot-break"><div class="break-label">Break</div></div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">2:15 – 3:15 pm</div>
+      <div class="slot slot-paper">
+        <div class="paper-title">Inflation and the Distribution of Real Income</div>
+        <div class="paper-presenter">Fabrizio Perri</div>
+        <div class="paper-coauthors">with Nir Jaimovich and Nicolas Vincent</div>
+      </div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">3:15 – 3:30 pm</div>
+      <div class="slot slot-break"><div class="break-label">Break</div></div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">3:30 – 4:30 pm</div>
+      <div class="slot slot-paper">
+        <div class="paper-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5188239" target="_blank" rel="noopener" class="paper-link">Fiscal Redistribution Risk in Treasury Markets</a></div>
+        <div class="paper-presenter">Hanno Lustig</div>
+        <div class="paper-coauthors">with Gomez Cram, Kung, and Zeke</div>
+      </div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">4:30 – 4:45 pm</div>
+      <div class="slot slot-break"><div class="break-label">Break</div></div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">4:45 – 5:45 pm</div>
+      <div class="slot slot-paper">
+        <div class="paper-title">Unequal Decoupling</div>
+        <div class="paper-presenter">Kurt Mitman</div>
+        <div class="paper-coauthors">with Sergio de Ferra, Federica Romei, and Gabriel Fritsch</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DAY 2 -->
+  <section class="day-section">
+    <div class="day-header">
+      <span class="day-name">Thursday, June 25</span>
+      <span class="day-session">Morning Session &nbsp;·&nbsp; begins 9:00 am</span>
+    </div>
+
+    <div class="session-row">
+      <div class="time-col">9:00 – 10:00 am</div>
+      <div class="slot slot-paper">
+        <div class="paper-title"><a href="https://sites.google.com/site/rohankekre/research" target="_blank" rel="noopener" class="paper-link">A Model of U.S. Monetary Policy and the Global Financial Cycle</a></div>
+        <div class="paper-presenter">Moritz Lenel</div>
+        <div class="paper-coauthors">with Rohan Kekre</div>
+      </div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">10:00 – 10:15 am</div>
+      <div class="slot slot-break"><div class="break-label">Break</div></div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">10:15 – 11:15 am</div>
+      <div class="slot slot-paper">
+        <div class="paper-title"><a href="https://markaguiar.github.io/files/tariff_deficits.pdf" target="_blank" rel="noopener" class="paper-link">Tariff Wars and Net Foreign Assets</a></div>
+        <div class="paper-presenter">Mark Aguiar</div>
+        <div class="paper-coauthors">with Manuel Amador and Doireann Fitzgerald</div>
+      </div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">11:15 – 11:30 am</div>
+      <div class="slot slot-break"><div class="break-label">Break</div></div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">11:30 am – 12:30 pm</div>
+      <div class="slot slot-paper">
+        <div class="paper-title">A Theory of Beauty: Intermediation and the Value of Art</div>
+        <div class="paper-presenter">Alessandra Fogli</div>
+        <div class="paper-coauthors">with Valentina Castellani and Maryam Farboodi</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DAY 3 -->
+  <section class="day-section">
+    <div class="day-header">
+      <span class="day-name">Friday, June 26</span>
+      <span class="day-session">Morning Session &nbsp;·&nbsp; begins 9:00 am</span>
+    </div>
+
+    <div class="session-row">
+      <div class="time-col">9:00 – 10:00 am</div>
+      <div class="slot slot-paper">
+        <div class="paper-title">Bank Market Power</div>
+        <div class="paper-presenter">Luigi Bocola</div>
+      </div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">10:00 – 10:15 am</div>
+      <div class="slot slot-break"><div class="break-label">Break</div></div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">10:15 – 11:15 am</div>
+      <div class="slot slot-paper">
+        <div class="paper-title">Geography of Banks and Regional Effects of Monetary Policy</div>
+        <div class="paper-presenter">Cristina Arellano</div>
+      </div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">11:15 – 11:30 am</div>
+      <div class="slot slot-break"><div class="break-label">Break</div></div>
+    </div>
+    <div class="session-row">
+      <div class="time-col">11:30 am – 12:30 pm</div>
+      <div class="slot slot-paper">
+        <div class="paper-title"><a href="https://www.nber.org/papers/w33459" target="_blank" rel="noopener" class="paper-link">Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present</a></div>
+        <div class="paper-presenter">Andy Atkeson</div>
+        <div class="paper-coauthors">with Jonathan Heathcote and Fabrizio Perri</div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p>The Santo Stefano Macroeconomics Conference &nbsp;·&nbsp; June 24–26, 2026 &nbsp;·&nbsp; Santo Stefano di Sessanio, Abruzzo</p>
+</footer>
+
+</body>
+</html>
