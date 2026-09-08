@@ -6,7 +6,7 @@ permalink: /citation/take-the-short-route
 exclude: true
 ---
 
-[PDF](https://markaguiar.github.io/files/maturities.pdf) -- [Journal link](https://doi.org/10.3982/ECTA14806) -- [NBER Working Paper](https://markaguiar.github.io/files/maturities_older.pdf) -- [Slides](https://markaguiar.github.io/files/maturities_slides.pdf)
+[PDF](https://markaguiar.github.io/files/maturities.pdf) -- [Journal link](https://doi.org/10.3982/ECTA14806) -- [NBER Working Paper](https://markaguiar.github.io/files/maturities_older.pdf)
 #### Citation
 
 Aguiar, Mark, Manuel Amador, Hugo Hopenhayn and Ivan Werning (2019): "Take the Short Route: Equilibrium Default and Debt Maturity," *Econometrica*, 87(2): 423-462.

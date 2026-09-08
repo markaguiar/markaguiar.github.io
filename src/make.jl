@@ -15,7 +15,7 @@ author_profile: true
 toc: true
 toc_label: Papers
 title: Research
-canonical_url: "https://markaguiar.github.io/"
+canonical_url: "https://www.markaguiar.com/"
 ---
 
 """
@@ -29,6 +29,8 @@ link_str(a, b; pre="", post="") = pre * "[$a]($b)" * post
 bibtex(s) = "\t" * join(split(s, "\n"), "\n\t\t")
 
 permalink(s) = "/" * subpage_dir * "/" * s
+
+has_journal(p) = haskey(p, "journal") && p["journal"] !== nothing && !isempty(strip(string(p["journal"])))
 
 @info "Generating research page"
 
@@ -72,8 +74,8 @@ open(joinpath(root_dir, "index.md"), "w") do io
                     end 
                     push!(lst, s)
                 end
-                join(io, lst, " -- ") 
             end 
+            join(io, lst, " -- ") 
             write(io, "\n")
         end
     end
@@ -88,7 +90,9 @@ open(joinpath(root_dir, "index.md"), "w") do io
             write(io, "    " * p["citation"] * "\n")
             lst = String[]
             push!(lst, link_str("PDF", p["PDF"]))
-            push!(lst, link_str("Journal link", p["journal"]))
+            if has_journal(p)
+                push!(lst, link_str("Journal link", p["journal"]))
+            end
             if haskey(p, "other_links")
                 for l in p["other_links"]
                     s = link_str(l["link_text"], l["url"])
@@ -114,7 +118,9 @@ open(joinpath(root_dir, "index.md"), "w") do io
             write(io, "    " * p["citation"] * "\n")
             lst = String[]
             push!(lst, link_str("PDF", p["PDF"]))
-            push!(lst, link_str("Journal link", p["journal"]))
+            if has_journal(p)
+                push!(lst, link_str("Journal link", p["journal"]))
+            end
             if haskey(p, "other_links")
                 for l in p["other_links"]
                     s = link_str(l["link_text"], l["url"])
@@ -141,7 +147,9 @@ open(joinpath(root_dir, "index.md"), "w") do io
             write(io, "    " * p["citation"] * "\n")
             lst = String[]
             push!(lst, link_str("PDF", p["PDF"]))
-            push!(lst, link_str("Journal link", p["journal"]))
+            if has_journal(p)
+                push!(lst, link_str("Journal link", p["journal"]))
+            end
             if haskey(p, "other_links")
                 for l in p["other_links"]
                     s = link_str(l["link_text"], l["url"])
@@ -166,7 +174,9 @@ open(joinpath(root_dir, "index.md"), "w") do io
             write(io, "    " * p["citation"] * "\n")
             lst = String[]
             push!(lst, link_str("PDF", p["PDF"]))
-            push!(lst, link_str("Journal link", p["journal"]))
+            if has_journal(p)
+                push!(lst, link_str("Journal link", p["journal"]))
+            end
             if haskey(p, "other_links")
                 for l in p["other_links"]
                     s = link_str(l["link_text"], l["url"])
@@ -191,7 +201,9 @@ open(joinpath(root_dir, "index.md"), "w") do io
             write(io, "    " * p["citation"] * "\n")
             lst = String[]
             push!(lst, link_str("PDF", p["PDF"]))            
-            push!(lst, link_str("Journal link", p["journal"]))
+            if has_journal(p)
+                push!(lst, link_str("Journal link", p["journal"]))
+            end
             if haskey(p, "other_links")
                 for l in p["other_links"]
                     s = link_str(l["link_text"], l["url"])
@@ -229,7 +241,7 @@ for p in papers
             lst = String[]
             
             push!(lst, link_str("PDF", p["PDF"]))
-            if   p["published"]!="wp"
+            if   p["published"]!="wp" && has_journal(p)
                 push!(lst, link_str("Journal link", p["journal"]))
             end
             if haskey(p, "other_links")
@@ -266,7 +278,7 @@ cv_header = """---
 layout: single
 author_profile: false
 title: Mark Aguiar
-canonical_url: "https://markaguiar.github.io/cv/"
+canonical_url: "https://www.markaguiar.com/CV/"
 ---"""
 
 open(joinpath(root_dir, "CV/index.md"), "w") do io

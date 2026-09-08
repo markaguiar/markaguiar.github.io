@@ -4,7 +4,7 @@ author_profile: true
 toc: true
 toc_label: Papers
 title: Research
-canonical_url: "https://markaguiar.github.io/"
+canonical_url: "https://www.markaguiar.com/"
 ---
 
 ## Recent Keynote Lectures
@@ -24,23 +24,24 @@ canonical_url: "https://markaguiar.github.io/"
 [PDF](https://markaguiar.github.io/files/IRS_draft.pdf) -- [Data and Code](https://github.com/markaguiar/IRS-Replication-Package.git)
 * [Tariff Wars and Net Foreign Assets](/citation/tariff_wars)
 
-    Aguiar, Mark, Manuel Amador,  Doireann Fitzgerald (2025): "Tariff Wars and Net Foreign Assets".
-
-* [Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation](/citation/PFPF)
-
-    Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" (Revise and Resubmit Econometrica)
-
+    Aguiar, Mark, Manuel Amador,  Doireann Fitzgerald (2026): "Tariff Wars and Net Foreign Assets".
+[PDF](https://markaguiar.github.io/files/tariff_deficits.pdf) -- [Online appendix](https://markaguiar.github.io/files/tariff_deficits_online_appendix.pdf)
 * [Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model](/citation/NKSamuelson)
 
     Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
-
+[PDF](https://markaguiar.github.io/files/AAA_Forever_Young.pdf)
 * [Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises](/citation/crisis_commitment)
 
     Aguiar, Mark, Manuel Amador,  Emmanuel Farhi, and Gita Gopinath (2013): "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises".
-
+[PDF](https://markaguiar.github.io/files/crises.pdf)
 
 
 ## Journal Publications
+
+* [Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation](/citation/PFPF)
+
+    Aguiar, Mark, Benjamin Moll, and Florian Scheuer (forthcoming): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" *Econometrica*
+[PDF](https://markaguiar.github.io/files/PFPF.pdf) -- [Journal link](https://www.econometricsociety.org/publications/econometrica/forthcoming-papers/0000/00/00/Putting-the-Finance-into-Public-Finance-A-Theory-of-Capital-Gains-Taxation/file/24013-3.pdf) -- [Online appendix](https://markaguiar.github.io/files/PFPF_online_appendix.pdf) -- [Replication Package](https://zenodo.org/records/20798039) -- [BibTeX and abstract](/citation/PFPF)
 
 * [Micro Risks and (Robust) Pareto Improving Policies](/citation/RlessthanG)
 
@@ -70,7 +71,7 @@ canonical_url: "https://markaguiar.github.io/"
 * [On the Welfare Losses from External Sovereign Borrowing](/citation/welfare_losses)
 
     Aguiar, Mark, Manuel Amador, and Stelios Fourakis (2020): "On the Welfare Losses from External Sovereign Borrowing," *IMF Economic Review*, 68(1): 163-194.
-[PDF](https://markaguiar.github.io/files/lossesfromborrowing.pdf) -- [Journal link](https://doi.org/10.1057/s41308-019-00103-2) -- [Slides](https://markaguiar.github.io/files/losses_slides.pdf) -- [Code](https://github.com/sfourakis/SovDebtWelfare) -- [BibTeX and abstract](/citation/welfare_losses)
+[PDF](https://markaguiar.github.io/files/lossesfromborrowing.pdf) -- [Journal link](https://doi.org/10.1057/s41308-019-00103-2) -- [Code](https://github.com/sfourakis/SovDebtWelfare) -- [BibTeX and abstract](/citation/welfare_losses)
 
 * [A Contraction for Sovereign Debt Models](/citation/contraction)
 
@@ -80,7 +81,7 @@ canonical_url: "https://markaguiar.github.io/"
 * [Take the Short Route: Equilibrium Default and Debt Maturity](/citation/take-the-short-route)
 
     Aguiar, Mark, Manuel Amador, Hugo Hopenhayn and Ivan Werning (2019): "Take the Short Route: Equilibrium Default and Debt Maturity," *Econometrica*, 87(2): 423-462.
-[PDF](https://markaguiar.github.io/files/maturities.pdf) -- [Journal link](https://doi.org/10.3982/ECTA14806) -- [NBER Working Paper](https://markaguiar.github.io/files/maturities_older.pdf) -- [Slides](https://markaguiar.github.io/files/maturities_slides.pdf) -- [BibTeX and abstract](/citation/take-the-short-route)
+[PDF](https://markaguiar.github.io/files/maturities.pdf) -- [Journal link](https://doi.org/10.3982/ECTA14806) -- [NBER Working Paper](https://markaguiar.github.io/files/maturities_older.pdf) -- [BibTeX and abstract](/citation/take-the-short-route)
 
 * [Fiscal Policy in Debt Constrained Economies](/citation/fiscal-policy-in-debt-constrained-economies)
 
@@ -95,9 +96,9 @@ canonical_url: "https://markaguiar.github.io/"
 * [Has Consumption Inequality Mirrored Income Inequality](/citation/mirror)
 
     Aguiar, Mark, and Mark Bils (2015): "Has Consumption Inequality Mirrored Income Inequality," *American Economic Review* 105(9): 2725-2756
-[PDF](https://markaguiar.github.io/files/mirror.pdf) -- [Journal link](https://doi.org/10.1257/aer.20120599) -- [Appendix](https://github.com/markaguiar.github.io/files/mirror_appendix) -- [Data and Programs](https://www.dropbox.com/s/ww1mf95dr21wi40/AER_2012_0599_programs_data.zip?dl=0) -- [BibTeX and abstract](/citation/mirror)
+[PDF](https://markaguiar.github.io/files/mirror.pdf) -- [Journal link](https://doi.org/10.1257/aer.20120599) -- [Appendix](https://markaguiar.github.io/files/mirror_appendix.pdf) -- [Data and Programs](https://www.dropbox.com/s/ww1mf95dr21wi40/AER_2012_0599_programs_data.zip?dl=0) -- [BibTeX and abstract](/citation/mirror)
 
-* [“Deconstructing Life Cycle Expenditure"](/citation/deconstructing)
+* [Deconstructing Life Cycle Expenditure](/citation/deconstructing)
 
     Aguiar, Mark and Erik Hurst (2013): "Deconstructing Life Cycle Expenditure," *Journal of Political Economy*, 121(3): 437-492.
 [PDF](https://markaguiar.github.io/files/deconstructing.pdf) -- [Journal link](https://doi.org/10.1086/670740) -- [Online appendix](https://markaguiar.github.io/files/aguiar_hurst_robustness_appendix_final.pdf) -- [Data](https://www.dropbox.com/s/loynhyhfd9vvwqt/deconstructing.zip) -- [BibTeX and abstract](/citation/deconstructing)
@@ -159,7 +160,7 @@ canonical_url: "https://markaguiar.github.io/"
 
 * [Consumption versus Expenditure](/citation/CvE)
 
-    Aguiar, Mark, and Eirk Hurst (2005): "Consumption versus Expenditure," *Journal of Political Economy*, 113(5): 919-948.
+    Aguiar, Mark, and Erik Hurst (2005): "Consumption versus Expenditure," *Journal of Political Economy*, 113(5): 919-948.
 [PDF](https://markaguiar.github.io/files/CvE.pdf) -- [Journal link](https://doi.org/10.1086/491590) -- [BibTeX and abstract](/citation/CvE)
 
 
@@ -202,8 +203,8 @@ canonical_url: "https://markaguiar.github.io/"
 
 * [The Costs and Consequences of Sovereign Borrowing](/citation/Mundell_Fleming)
 
-    Aguiar, Mark (2024): "The Costs and Consequences of Sovereign Borrowing," *IMF Econoic Review*
-[PDF](https://markaguiar.github.io/files/MFwriteup.pdf) -- [Journal link]() -- [Code](https://links.springernature.com/f/a/-cH5H9M6iv99gbLCtuAaag~~/AABE5gA~/RgRoMI3NP0SlaHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS8xMC4xMDU3L3M0MTMwOC0wMjQtMDAyNDgtOT91dG1fc291cmNlPXJjdF9jb25ncmF0ZW1haWx0JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5vbm9hXzIwMjQwNTIyJnV0bV9jb250ZW50PTEwLjEwNTcvczQxMzA4LTAyNC0wMDI0OC05VwNzcGNCCmZGzQhOZhUldv5SFW1hZ3VpYXJAcHJpbmNldG9uLmVkdVgEAAAHLQ~~) -- [BibTeX and abstract](/citation/Mundell_Fleming)
+    Aguiar, Mark (2024): "The Costs and Consequences of Sovereign Borrowing," *IMF Economic Review*
+[PDF](https://markaguiar.github.io/files/MFwriteup.pdf) -- [Journal link](https://doi.org/10.1057/s41308-024-00248-9) -- [Code](https://links.springernature.com/f/a/-cH5H9M6iv99gbLCtuAaag~~/AABE5gA~/RgRoMI3NP0SlaHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS8xMC4xMDU3L3M0MTMwOC0wMjQtMDAyNDgtOT91dG1fc291cmNlPXJjdF9jb25ncmF0ZW1haWx0JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5vbm9hXzIwMjQwNTIyJnV0bV9jb250ZW50PTEwLjEwNTcvczQxMzA4LTAyNC0wMDI0OC05VwNzcGNCCmZGzQhOZhUldv5SFW1hZ3VpYXJAcHJpbmNldG9uLmVkdVgEAAAHLQ~~) -- [BibTeX and abstract](/citation/Mundell_Fleming)
 
 * [Expropriation Dynamics](/citation/expropriation-dynamics)
 
@@ -213,7 +214,7 @@ canonical_url: "https://markaguiar.github.io/"
 * [Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks](/citation/rateshocks)
 
     Aguiar, Mark and Gita Gopinath (2006): "Emerging Market Fluctuations: The Role of Interest Rate and Productivity Shocks," Tenth Annual Conference on the Central Bank of Chile: Current Account and External Financing
-[PDF](https://markaguiar.github.io/files/cit_chile.pdf) -- [Journal link](https://markaguiar.github.io/files/cit_chile.pdf) -- [BibTeX and abstract](/citation/rateshocks)
+[PDF](https://markaguiar.github.io/files/cit_chile.pdf) -- [BibTeX and abstract](/citation/rateshocks)
 
 
 
@@ -233,9 +234,9 @@ canonical_url: "https://markaguiar.github.io/"
 
 ## Published Discussions
 
-* [Comment on: "Bond finance, bank credit, and aggregate fluctuations in an open economy" by Roberto Chang, Andres Fernández, Adam Gulan](/citation/chang-fernandez-gulan)
+* [Comment on: "Bond finance, bank credit, and aggregate fluctuations in an open economy" by Roberto Chang, Andrés Fernández, Adam Gulan](/citation/chang-fernandez-gulan)
 
-    Aguiar, Mark (2017): "Comment on: 'Bond finance, bank credit, and aggregate fluctuations in an open economy' by Roberto Chang, Andres Fernández, Adam Gulan", Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 85: 110-113.
+    Aguiar, Mark (2017): "Comment on: 'Bond finance, bank credit, and aggregate fluctuations in an open economy' by Roberto Chang, Andrés Fernández, Adam Gulan", Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 85: 110-113.
 [PDF](https://markaguiar.github.io/files/CRNYUdiscussion2017.pdf) -- [Journal link](https://doi.org/10.1016/j.jmoneco.2016.11.009) -- [BibTeX and abstract](/citation/chang-fernandez-gulan)
 * [Discussion of "Capital mobility and international sharing of cyclical risk"](/citation/discussion-capital-mobility)
 
@@ -245,7 +246,7 @@ canonical_url: "https://markaguiar.github.io/"
 
     Aguiar, Mark (2010): "Comment on Rong Qian, Carmen Reinhart, and Kenneth Rogoff 'On Graduation from Default, Inflation and Banking Crises: Elusive or Illusion,'" *NBER Macroannual*, 2010.
 [PDF](https://markaguiar.github.io/files/discussion.pdf) -- [Journal link](https://doi.org/10.1086/657532) -- [BibTeX and abstract](/citation/graduation)
-* [Discussion of Clayne Pope's "Measuring the distribution of material well-being: US trends"](/citation/discussion-capital-mobility)
+* [Discussion of Clayne Pope's "Measuring the distribution of material well-being: US trends"](/citation/discussion-pope-material-wellbeing)
 
     Aguiar, Mark (2009): "Discussion of Clayne Pope's 'Measuring the distribution of material well-being: US trends,' Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 56(1): 79-82.
-[PDF](https://markaguiar.github.io/files/CRNYUdiscussion2009.pdf) -- [Journal link](https://doi.org/10.1016/j.jmoneco.2008.12.011) -- [BibTeX and abstract](/citation/discussion-capital-mobility)
+[PDF](https://markaguiar.github.io/files/CRNYUdiscussion2009.pdf) -- [Journal link](https://doi.org/10.1016/j.jmoneco.2008.12.011) -- [BibTeX and abstract](/citation/discussion-pope-material-wellbeing)

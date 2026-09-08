@@ -1,31 +1,30 @@
 ---
 layout: single 
 author_profile: true 
-title: Discussion of Clayne Pope's "Measuring the distribution of material well-being: US trends" 
+title: Discussion of "Capital mobility and international sharing of cyclical risk" 
 permalink: /citation/discussion-capital-mobility
 exclude: true
 ---
 
-[PDF](https://markaguiar.github.io/files/CRNYUdiscussion2009.pdf) -- [Journal link](https://doi.org/10.1016/j.jmoneco.2008.12.011)
+[PDF](https://markaguiar.github.io/files/CRNYUdiscussion2013.pdf) -- [Journal link](https://doi.org/10.1016/j.jmoneco.2012.08.001)
 #### Citation
 
-Aguiar, Mark (2009): "Discussion of Clayne Pope's 'Measuring the distribution of material well-being: US trends,' Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 56(1): 79-82.
+Aguiar, Mark (2013): "Discussion of 'Capital mobility and international sharing of cyclical risk', Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 60(1): 63-65.
 
 
 
 BibTeX Cite:
 
-	@article{Aguiar2009,
-		doi = {10.1016/j.jmoneco.2008.12.011},
-		url = {https://doi.org/10.1016/j.jmoneco.2008.12.011},
-		year = {2009},
+	@article{Aguiar2013,
+		doi = {10.1016/j.jmoneco.2012.08.001},
+		url = {https://doi.org/10.1016/j.jmoneco.2012.08.001},
+		year = {2013},
 		month = jan,
 		publisher = {Elsevier {BV}},
-		volume = {56},
+		volume = {60},
 		number = {1},
-		pages = {79--82},
+		pages = {63--65},
 		author = {Mark Aguiar},
-		title = {Discussion of {Clayne Pope's ``Measuring the distribution of material well-being: US trends''}},
-		journal = {Journal of Monetary Economics},
-		url={https://doi.org/10.1016/j.jmoneco.2008.12.011}
+		title = {Discussion of {``Capital mobility and international sharing of cyclical risk''}},
+		journal = {Journal of Monetary Economics}
 		}

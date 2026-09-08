@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: “Deconstructing Life Cycle Expenditure" 
+title: Deconstructing Life Cycle Expenditure 
 permalink: /citation/deconstructing
 exclude: true
 ---

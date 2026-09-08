@@ -27,7 +27,6 @@ BibTeX Cite:
 		publisher = {American Enterprise Institute},
 		organization = {American Enterprise Institute},
 		address = {Washington, DC},
-		url = {http://www.aei.org/book/society-and-culture/citizenship/the-increase-in-leisure-inequality-1965-2005-book/},
 		author = {Aguiar, Mark and Hurst, Erik},
 		url={https://www.aei.org/research-products/book/the-increase-in-leisure-inequality-1965-2005/}
 		}

@@ -6,7 +6,7 @@ permalink: /citation/mirror
 exclude: true
 ---
 
-[PDF](https://markaguiar.github.io/files/mirror.pdf) -- [Journal link](https://doi.org/10.1257/aer.20120599) -- [Appendix](https://github.com/markaguiar.github.io/files/mirror_appendix) -- [Data and Programs](https://www.dropbox.com/s/ww1mf95dr21wi40/AER_2012_0599_programs_data.zip?dl=0)
+[PDF](https://markaguiar.github.io/files/mirror.pdf) -- [Journal link](https://doi.org/10.1257/aer.20120599) -- [Appendix](https://markaguiar.github.io/files/mirror_appendix.pdf) -- [Data and Programs](https://www.dropbox.com/s/ww1mf95dr21wi40/AER_2012_0599_programs_data.zip?dl=0)
 #### Citation
 
 Aguiar, Mark, and Mark Bils (2015): "Has Consumption Inequality Mirrored Income Inequality," *American Economic Review* 105(9): 2725-2756

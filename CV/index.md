@@ -2,9 +2,9 @@
 layout: single
 author_profile: false
 title: Mark Aguiar
-canonical_url: "https://markaguiar.github.io/cv/"
+canonical_url: "https://www.markaguiar.com/CV/"
 ---
-*updated on 2026-04-08* 
+*updated on 2026-09-08* 
 
 [PDF Version](cv.pdf)    
 
@@ -109,6 +109,8 @@ of the Federal Reserve System, 1998
 
 ## Journal Publications
 
+- Aguiar, Mark, Benjamin Moll, and Florian Scheuer (forthcoming): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" *Econometrica*
+
 - Aguiar, Mark, Manuel Amador, and Cristina Arellano (2024): "Micro Risks and (Robust) Pareto Improving Policies" *American Economic Review* 114(11): 3669–3713
 
 - Aguiar, Mark, Mark Bils and Corina Boar (2025): "Who are the Hand-to-Mouth?" *Review of Economic Studies* 
@@ -155,7 +157,7 @@ of the Federal Reserve System, 1998
 
 - Aguiar, Mark (2005): "Investment, Devaluation, and Foreign Currency Exposure: The Case of Mexico," *Journal of Development Economics*, 78(1): 95-113.
 
-- Aguiar, Mark, and Eirk Hurst (2005): "Consumption versus Expenditure," *Journal of Political Economy*, 113(5): 919-948.
+- Aguiar, Mark, and Erik Hurst (2005): "Consumption versus Expenditure," *Journal of Political Economy*, 113(5): 919-948.
 
 ## Handbook Chapters
 
@@ -173,7 +175,7 @@ of the Federal Reserve System, 1998
 
 - Aguiar, Mark and Erik Hurst and Loukas Karabarbounis (2013): "The Life-Cycle Profile of Time Spent on Job Search." *American Economic Review: Papers and Proceedings*, 111-116.
 
-- Aguiar, Mark (2024): "The Costs and Consequences of Sovereign Borrowing," *IMF Econoic Review*
+- Aguiar, Mark (2024): "The Costs and Consequences of Sovereign Borrowing," *IMF Economic Review*
 
 - Aguiar, Mark, Manuel Amador, and Gita Gopinath (2009): "Expropriation Dynamics," *American Economic Review: Papers and Proceedings*, 99(2): 473-479.
 
@@ -187,7 +189,7 @@ of the Federal Reserve System, 1998
 
 ## Published Discussions
 
-- Aguiar, Mark (2017): "Comment on: 'Bond finance, bank credit, and aggregate fluctuations in an open economy' by Roberto Chang, Andres Fernández, Adam Gulan", Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 85: 110-113.
+- Aguiar, Mark (2017): "Comment on: 'Bond finance, bank credit, and aggregate fluctuations in an open economy' by Roberto Chang, Andrés Fernández, Adam Gulan", Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 85: 110-113.
 
 - Aguiar, Mark (2013): "Discussion of 'Capital mobility and international sharing of cyclical risk', Carnegie-Rochester-NYU Conference Series on Public Policy, *Journal of Monetary Economics*, 60(1): 63-65.
 
@@ -199,9 +201,7 @@ of the Federal Reserve System, 1998
 
 - Aguiar, Mark, Oleg Itskhoki,  Dmitry Mukhin (2025): "How Good is International Risk Sharing?".
 
-- Aguiar, Mark, Manuel Amador,  Doireann Fitzgerald (2025): "Tariff Wars and Net Foreign Assets".
-
-- Aguiar, Mark, Benjamin Moll, and Florian Scheuer (2024): "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" (Revise and Resubmit Econometrica)
+- Aguiar, Mark, Manuel Amador,  Doireann Fitzgerald (2026): "Tariff Wars and Net Foreign Assets".
 
 - Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
 
