@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: How Good is International Risk Sharing? Stepping Outside the Shadow of the Welfare Theorems 
+title: "How Good is International Risk Sharing? Stepping Outside the Shadow of the Welfare Theorems" 
 permalink: /citation/IRS
 exclude: true
 ---

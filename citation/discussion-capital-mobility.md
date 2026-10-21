@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Discussion of "Capital mobility and international sharing of cyclical risk" 
+title: "Discussion of \"Capital mobility and international sharing of cyclical risk\"" 
 permalink: /citation/discussion-capital-mobility
 exclude: true
 ---

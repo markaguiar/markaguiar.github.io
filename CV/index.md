@@ -4,7 +4,7 @@ author_profile: false
 title: Mark Aguiar
 canonical_url: "https://www.markaguiar.com/CV/"
 ---
-*updated on 2026-09-08* 
+*updated on 2026-10-21* 
 
 [PDF Version](cv.pdf)    
 
@@ -199,9 +199,11 @@ of the Federal Reserve System, 1998
 
 ## Working Papers
 
+- Aguiar, Mark, Manuel Amador, and Doireann Fitzgerald (2026): "Trading on a Simplex: An Eaton-Kortum Diagram".
+
 - Aguiar, Mark, Oleg Itskhoki,  Dmitry Mukhin (2025): "How Good is International Risk Sharing?".
 
-- Aguiar, Mark, Manuel Amador,  Doireann Fitzgerald (2026): "Tariff Wars and Net Foreign Assets".
+- Aguiar, Mark, Manuel Amador, and Doireann Fitzgerald (2026): "Tariff Wars and Net Foreign Assets".
 
 - Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model"
 

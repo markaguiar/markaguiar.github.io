@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Time Use during the Great Recession 
+title: "Time Use during the Great Recession" 
 permalink: /citation/time-use-great-recession
 exclude: true
 ---
@@ -18,7 +18,7 @@ Using data from the American Time Use Survey between 2003 and 2010, we document 
 BibTeX Cite:
 
 	@article {AguiarHUrstKarabarbounis2013,
-		title = {Time Use during the Great Recession},
+		title = {Time Use during the {Great Recession}},
 		journal = {American Economic Review},
 		volume = {103},
 		number = {5},

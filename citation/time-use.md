@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Recent Developments in the Economics of Time Use 
+title: "Recent Developments in the Economics of Time Use" 
 permalink: /citation/time-use
 exclude: true
 ---

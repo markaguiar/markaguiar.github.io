@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Coordination and Crisis in Monetary Unions 
+title: "Coordination and Crisis in Monetary Unions" 
 permalink: /citation/coordination-and-crisis-in-monetary-unions
 exclude: true
 ---

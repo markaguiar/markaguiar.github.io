@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Investment Cycles and Sovereign Debt Overhang 
+title: "Investment Cycles and Sovereign Debt Overhang" 
 permalink: /citation/investment-cycles-and-sovereign-debt-overhang
 exclude: true
 ---

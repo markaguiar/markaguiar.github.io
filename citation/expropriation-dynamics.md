@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Expropriation Dynamics 
+title: "Expropriation Dynamics" 
 permalink: /citation/expropriation-dynamics
 exclude: true
 ---

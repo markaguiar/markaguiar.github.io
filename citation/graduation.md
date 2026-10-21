@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Comment on Rong Qian, Carmen Reinhart, and Kenneth Rogoff "On Graduation from Default, Inflation and Banking Crises: Elusive or Illusion" 
+title: "Comment on Rong Qian, Carmen Reinhart, and Kenneth Rogoff \"On Graduation from Default, Inflation and Banking Crises: Elusive or Illusion\"" 
 permalink: /citation/graduation
 exclude: true
 ---

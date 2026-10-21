@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Quantitative Models of Sovereign Debt Crises 
+title: "Quantitative Models of Sovereign Debt Crises" 
 permalink: /citation/handbookquant
 exclude: true
 ---

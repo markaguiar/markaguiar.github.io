@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Leisure Luxuries and the Labor Supply of Young Men 
+title: "Leisure Luxuries and the Labor Supply of Young Men" 
 permalink: /citation/leisure-luxuries
 exclude: true
 ---

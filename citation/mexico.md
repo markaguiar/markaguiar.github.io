@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Investment, Devaluation, and Foreign Currency Exposure: The Case of Mexico 
+title: "Investment, Devaluation, and Foreign Currency Exposure: The Case of Mexico" 
 permalink: /citation/mexico
 exclude: true
 ---
@@ -18,7 +18,7 @@ This paper studies firm-level investment in the wake of the Mexican peso crisis 
 BibTeX Cite:
 
 	@article {Aguiar2005,
-		title = {Investment, Devaluation, and Foreign Currency Exposure:  The Case of Mexico},
+		title = {Investment, Devaluation, and Foreign Currency Exposure:  The Case of {Mexico}},
 		journal = {Journal of Development Economics},
 		volume = {78},
 		number = {1},

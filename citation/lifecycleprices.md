@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Life-Cycle Prices and Production 
+title: "Life-Cycle Prices and Production" 
 permalink: /citation/lifecycleprices
 exclude: true
 ---

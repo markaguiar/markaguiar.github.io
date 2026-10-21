@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: The Life-Cycle Profile of Time Spent on Job Search 
+title: "The Life-Cycle Profile of Time Spent on Job Search" 
 permalink: /citation/job-search
 exclude: true
 ---

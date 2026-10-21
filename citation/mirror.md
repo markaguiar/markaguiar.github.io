@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Has Consumption Inequality Mirrored Income Inequality 
+title: "Has Consumption Inequality Mirrored Income Inequality" 
 permalink: /citation/mirror
 exclude: true
 ---

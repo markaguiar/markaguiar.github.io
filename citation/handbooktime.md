@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: The Macroeconomics of Time Allocation 
+title: "The Macroeconomics of Time Allocation" 
 permalink: /citation/handbooktime
 exclude: true
 ---

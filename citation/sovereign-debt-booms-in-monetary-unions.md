@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Sovereign Debt Booms in Monetary Unions 
+title: "Sovereign Debt Booms in Monetary Unions" 
 permalink: /citation/sovereign-debt-booms-in-monetary-unions
 exclude: true
 ---

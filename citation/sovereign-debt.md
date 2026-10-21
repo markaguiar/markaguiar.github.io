@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Sovereign Debt 
+title: "Sovereign Debt" 
 permalink: /citation/sovereign-debt
 exclude: true
 ---

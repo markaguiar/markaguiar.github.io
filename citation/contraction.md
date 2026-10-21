@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: A Contraction for Sovereign Debt Models 
+title: "A Contraction for Sovereign Debt Models" 
 permalink: /citation/contraction
 exclude: true
 ---

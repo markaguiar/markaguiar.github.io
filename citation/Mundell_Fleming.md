@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: The Costs and Consequences of Sovereign Borrowing 
+title: "The Costs and Consequences of Sovereign Borrowing" 
 permalink: /citation/Mundell_Fleming
 exclude: true
 ---

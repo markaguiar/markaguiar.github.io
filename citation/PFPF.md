@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation 
+title: "Putting the 'Finance' into 'Public Finance': A Theory of Capital Gains Taxation" 
 permalink: /citation/PFPF
 exclude: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Sovereign Debt Crises and Floating-Rate Bonds 
+title: "Sovereign Debt Crises and Floating-Rate Bonds" 
 permalink: /citation/FloatingRate
 exclude: true
 ---

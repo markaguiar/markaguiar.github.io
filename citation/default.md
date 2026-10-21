@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Defaultable Debt, Interest Rates, and the Current Account 
+title: "Defaultable Debt, Interest Rates, and the Current Account" 
 permalink: /citation/default
 exclude: true
 ---

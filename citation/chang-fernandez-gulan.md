@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Comment on: "Bond finance, bank credit, and aggregate fluctuations in an open economy" by Roberto Chang, Andrés Fernández, Adam Gulan 
+title: "Comment on: \"Bond finance, bank credit, and aggregate fluctuations in an open economy\" by Roberto Chang, Andrés Fernández, Adam Gulan" 
 permalink: /citation/chang-fernandez-gulan
 exclude: true
 ---

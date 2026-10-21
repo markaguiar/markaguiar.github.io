@@ -30,7 +30,7 @@
         "citation": "Aguiar, Mark (2005): \"Investment, Devaluation, and Foreign Currency Exposure: The Case of Mexico,\" *Journal of Development Economics*, 78(1): 95-113.",
         "abstract": "This paper studies firm-level investment in the wake of the Mexican peso crisis of 1994. While exporters outperform nonexporters in terms of profits and sales after the devaluation, their investment is constrained by weak balance sheets. Specifically, we find that firms with heavy exposure to short-term foreign currency debt before the devaluation experienced relatively low levels of post-devaluation investment. The data also imply that increased sales uncertainty after the peg’s collapse deterred investment, particularly in the tradable sector. The results confirm the recent theoretical literature’s focus on weak balance sheets as driving the recessionary impact of devaluations in emerging markets.",
         "bibtex": "@article {Aguiar2005,
-        title = {Investment, Devaluation, and Foreign Currency Exposure:  The Case of Mexico},
+        title = {Investment, Devaluation, and Foreign Currency Exposure:  The Case of {Mexico}},
         journal = {Journal of Development Economics},
         volume = {78},
         number = {1},
@@ -461,7 +461,7 @@
         "citation": "Aguiar, Mark and Erik Hurst and Loukas Karabarbounis (2013): \"Time Use during the Great Recession,\" *American Economic Review*, 103(5): 1664-96.",
         "abstract": "Using data from the American Time Use Survey between 2003 and 2010, we document that home production absorbs roughly 30 percent of foregone market work hours at business cycle frequencies. Leisure absorbs roughly 50 percent of foregone market work hours, with sleeping and television watching accounting for most of this increase. We document significant increases in time spent on shopping, child care, education, and health. Job search absorbs between 2 and 6 percent of foregone market work hours. We discuss the implications of our results for business cycle models with home production and non-separable preferences.",
         "bibtex": "@article {AguiarHUrstKarabarbounis2013,
-	        title = {Time Use during the Great Recession},
+	        title = {Time Use during the {Great Recession}},
 	        journal = {American Economic Review},
 	        volume = {103},
 	        number = {5},
@@ -1118,7 +1118,7 @@
         "citation": "Aguiar, Mark, Manuel Amador and Cristina Arellano (2023): \"Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model\"",
         "abstract": "This paper explores the positive and normative consequences of government bond issuances in a New Keynesian model with heterogeneous agents, focusing on how the stock of government bonds affects the cross-sectional allocation of resources in the spirit of Samuelson (1958).  We characterize the Pareto optimal levels of government bonds and the associated monetary policy adjustments that should accompany Pareto-improving bond issuances.   The paper introduces a simple phase diagram to analyze the global equilibrium dynamics of inflation, interest rates, and labor earnings in response to changes in the stock of government debt.   The framework also provides a tractable tool to explore  the use of fiscal policy to escape the Effective Lower Bound (ELB) on nominal interest rates and the resolution of the ``forward guidance puzzle.''  A common theme throughout is that following the monetary policy guidance from the standard Ricardian framework leads to excess fluctuations in income and inflation. ",
         "bibtex": "@article {AAA2023,
-	        title = {Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model},
+	        title = {Pareto Improving Fiscal and Monetary Policies: Samuelson in the {New Keynesian} Model},
             year = {2023},
             journal={Working Paper},
 	        abstract = {This paper explores the positive and normative consequences of government bond issuances in a New Keynesian model with heterogeneous agents, focusing on how the stock of government bonds affects the cross-sectional allocation of resources in the spirit of Samuelson (1958).  We characterize the Pareto optimal levels of government bonds and the associated monetary policy adjustments that should accompany Pareto-improving bond issuances.   The paper introduces a simple phase diagram to analyze the global equilibrium dynamics of inflation, interest rates, and labor earnings in response to changes in the stock of government debt.   The framework also provides a tractable tool to explore  the use of fiscal policy to escape the Effective Lower Bound (ELB) on nominal interest rates and the resolution of the ``forward guidance puzzle.''  A common theme throughout is that following the monetary policy guidance from the standard Ricardian framework leads to excess fluctuations in income and inflation. },
@@ -1135,7 +1135,7 @@
         "published": "wp", 
         "show_on_website": true,
         "permalink": "tariff_wars",
-        "citation": "Aguiar, Mark, Manuel Amador,  Doireann Fitzgerald (2026): \"Tariff Wars and Net Foreign Assets\".", 
+        "citation": "Aguiar, Mark, Manuel Amador, and Doireann Fitzgerald (2026): \"Tariff Wars and Net Foreign Assets\".", 
         "abstract": " This paper examines whether and how international financial claims can be honored without default once a trade war erupts.
 Using a two-country two-good model, we study how tariffs revalue international assets and how ex-post indebtedness depends on ex-ante gross asset positions. When gross positions are strictly positive (each country has claims on the other), sufficiently high bilateral tariffs zero out any ex-ante net debt. Conversely, this net debt cannot be zeroed out when the debtor holds no claims on the creditor. When a country has liabilities indexed to the other country's prices, as in the case of foreign currency debt, then a sufficiently large tariff levied by the lender can immiserize the borrower, generating multiple equilibria if both sides have such liabilities.
 We generalize the environment to an arbitrary number of goods, time, and uncertainty. In the dynamic version, under a severe trade war, domestic interest rates and the real exchange rate must decouple: interest rates align with their autarkic values, and international relative prices revalue net asset positions to zero. We calibrate a two-country model to the US net foreign asset position in 2023 and show that the welfare consequences of a tariff war that stops short of autarky depend critically on the US ex-ante gross portfolio composition.
@@ -1183,6 +1183,26 @@ We generalize the environment to an arbitrary number of goods, time, and uncerta
         }
         ]
 
+    },
+
+    {
+        "title": "Trading on a Simplex: An Eaton-Kortum Diagram",
+        "published": "wp",
+        "show_on_website": true,
+        "permalink": "EKSimplex",
+        "year": "2026",
+        "citation": "Aguiar, Mark, Manuel Amador, and Doireann Fitzgerald (2026): \"Trading on a Simplex: An Eaton-Kortum Diagram\".",
+        "abstract": "We present a deterministic re-interpretation of the Eaton and Kortum (2002) Ricardian model of international trade. The representation can be interpreted as a Dornbusch–Fischer–Samuelson generalization, amenable to diagrammatic analysis, to an N-country world under specific technological restrictions that nest Eaton-Kortum.",
+        "PDF": "https://markaguiar.github.io/files/EKSimplex.pdf",
+        "bibtex": "@article {AAF2026,
+	        title = {Trading on a Simplex: An {Eaton-Kortum} Diagram},
+	        year = {2026},
+            journal={Working Paper},
+	        abstract = {We present a deterministic re-interpretation of the Eaton and Kortum (2002) Ricardian model of international trade. The representation can be interpreted as a Dornbusch--Fischer--Samuelson generalization, amenable to diagrammatic analysis, to an N-country world under specific technological restrictions that nest Eaton-Kortum.},
+            author = {Aguiar, Mark and Manuel Amador and Doireann Fitzgerald},
+            type    = {Working Paper},
+            url={https://markaguiar.github.io/files/EKSimplex.pdf}
+        }"
     }
 
 

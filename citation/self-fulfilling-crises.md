@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Self-Fulfilling Debt Crises, Revisited 
+title: "Self-Fulfilling Debt Crises, Revisited" 
 permalink: /citation/self-fulfilling-crises
 exclude: true
 ---

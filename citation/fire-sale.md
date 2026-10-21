@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Fire-Sale FDI and Liquidity Crises 
+title: "Fire-Sale FDI and Liquidity Crises" 
 permalink: /citation/fire-sale
 exclude: true
 ---

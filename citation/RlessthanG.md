@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Micro Risks and (Robust) Pareto Improving Policies 
+title: "Micro Risks and (Robust) Pareto Improving Policies" 
 permalink: /citation/RlessthanG
 exclude: true
 ---

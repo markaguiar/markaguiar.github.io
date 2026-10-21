@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Tariff Wars and Net Foreign Assets 
+title: "Tariff Wars and Net Foreign Assets" 
 permalink: /citation/tariff_wars
 exclude: true
 ---
@@ -9,7 +9,7 @@ exclude: true
 [PDF](https://markaguiar.github.io/files/tariff_deficits.pdf) -- [Online appendix](https://markaguiar.github.io/files/tariff_deficits_online_appendix.pdf)
 #### Citation
 
-Aguiar, Mark, Manuel Amador,  Doireann Fitzgerald (2026): "Tariff Wars and Net Foreign Assets".
+Aguiar, Mark, Manuel Amador, and Doireann Fitzgerald (2026): "Tariff Wars and Net Foreign Assets".
 
 #### Abstract
 

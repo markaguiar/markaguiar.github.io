@@ -227,7 +227,9 @@ end
 # Generating the subpages 
 
 function header_subpage(title, permalink)
-    return "---\nlayout: single \nauthor_profile: true \ntitle: $title \npermalink: $permalink\nexclude: true\n---\n\n"
+    # quote the title so colons and quotes in it don't break the YAML front matter
+    qtitle = "\"" * replace(title, "\\" => "\\\\", "\"" => "\\\"") * "\""
+    return "---\nlayout: single \nauthor_profile: true \ntitle: $qtitle \npermalink: $permalink\nexclude: true\n---\n\n"
 end 
 
 @info "Generating subpages"

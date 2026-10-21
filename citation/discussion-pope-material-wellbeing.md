@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Discussion of Clayne Pope's "Measuring the distribution of material well-being: US trends" 
+title: "Discussion of Clayne Pope's \"Measuring the distribution of material well-being: US trends\"" 
 permalink: /citation/discussion-pope-material-wellbeing
 exclude: true
 ---

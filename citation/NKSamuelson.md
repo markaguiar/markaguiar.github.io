@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model 
+title: "Pareto Improving Fiscal and Monetary Policies: Samuelson in the New Keynesian Model" 
 permalink: /citation/NKSamuelson
 exclude: true
 ---

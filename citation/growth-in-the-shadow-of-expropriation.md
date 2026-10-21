@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Growth in the Shadow of Expropriation 
+title: "Growth in the Shadow of Expropriation" 
 permalink: /citation/growth-in-the-shadow-of-expropriation
 exclude: true
 ---

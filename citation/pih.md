@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Permanent Income Hypothesis 
+title: "Permanent Income Hypothesis" 
 permalink: /citation/pih
 exclude: true
 ---

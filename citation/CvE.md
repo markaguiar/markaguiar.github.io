@@ -1,7 +1,7 @@
 ---
 layout: single 
 author_profile: true 
-title: Consumption versus Expenditure 
+title: "Consumption versus Expenditure" 
 permalink: /citation/CvE
 exclude: true
 ---
